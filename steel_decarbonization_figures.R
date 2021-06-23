@@ -13,13 +13,13 @@ library(jgcricolors)
 
 options(scipen=999)
 
-home_dir <- "C:/Users/char398/Documents/steel_decarbonization/steel-gcam-runs"
-run_dir <- paste0(home_dir, "/output/6-21_co2_constraint") # SET MANUALLY FOR EACH RUN
+fig_dir <- "./figures"
+run_dir <- "./output/6-21_co2_constraint" # SET MANUALLY FOR EACH RUN
 
-if(!dir.exists(paste0(run_dir,"/figures"))){dir.create(paste0(run_dir,"/figures"))}
+#if(!dir.exists(paste0(run_dir,"/figures"))){dir.create(paste0(run_dir,"/figures"))}
 
-source(paste0(home_dir, "/functions.R"))
-source(paste0(home_dir, "/diag_util_functions.R"))
+source("functions.R")
+source("diag_util_functions.R")
 
 # ===============================================================================
 # Load GCAM results 
@@ -64,8 +64,7 @@ gdp <- gdp %>% parse_output_scenario %>% add_global_sum()
   
 
 # List scenarios in order we want them in figures
-scenarios <- c("Ref", "ctax_225_5pct", "ctax_300_3pct", "ctax_325_5pct_delay",  "ctax_400_3pct_delay",
-               "constraint_1p5", "constraint_1p5_delay")
+scenarios <- c("Ref", "constraint_1p5", "constraint_1p5_delay", "constraint_1p5_delay_v2")
 
 
 # Constants --------------------------------------------------------------------
@@ -247,7 +246,7 @@ ggplot(data=filter(forcing, year %in% plot_years),
   scale_color_manual(values = cbPalette) +
   scale_y_continuous(limits = c(0, NA)) +
   plot_theme +
-  ggsave(paste0(run_dir, "/figures/global_forcing.png"), height = 6, width = 9, units = "in")
+  ggsave(paste0(fig_dir, "/global_forcing.png"), height = 6, width = 9, units = "in")
 
 # global mean temperature
 global_mean_temp$scenario <- factor(global_mean_temp$scenario , levels = scenarios)
@@ -259,7 +258,7 @@ ggplot(data=filter(global_mean_temp, year %in% plot_years),
   scale_color_manual(values = cbPalette) +
   scale_y_continuous(limits = c(0, NA)) +
   plot_theme +
-  ggsave(paste0(run_dir, "/figures/global_mean_temp.png"), height = 6, width = 9, units = "in")
+  ggsave(paste0(fig_dir, "/global_mean_temp.png"), height = 6, width = 9, units = "in")
 
 
 # Total CO2 emissions
@@ -272,7 +271,7 @@ ggplot(data=filter(CO2_emissions, year %in% plot_years),
   labs(title = "Total CO2 emissions (FFI)", x="", y="GTCO2") +
   scale_color_manual(values = cbPalette) +
   plot_theme +
-  ggsave(paste0(run_dir, "/figures/co2_emissions_allregions.png"), height = 6, width = 9, units = "in")
+  ggsave(paste0(fig_dir, "/co2_emissions_allregions.png"), height = 6, width = 9, units = "in")
 
 for (i in regions_aggregated) {
   ggplot(data=filter(CO2_emissions, region == i, year %in% plot_years),
@@ -281,7 +280,7 @@ for (i in regions_aggregated) {
     labs(title = paste(i, "total CO2 emissions (FFI)"), x="", y="GTCO2") +
     scale_color_manual(values = cbPalette) +
     plot_theme +
-    ggsave(paste0(run_dir, "/figures/co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 
@@ -295,7 +294,7 @@ ggplot(data=filter(net_co2, year %in% plot_years),
   labs(title = "Net CO2 emissions", x="", y="GTCO2") +
   scale_color_manual(values = cbPalette) +
   plot_theme +
-  ggsave(paste0(run_dir, "/figures/net_co2_emissions_allregions.png"), height = 6, width = 9, units = "in")
+  ggsave(paste0(fig_dir, "/net_co2_emissions_allregions.png"), height = 6, width = 9, units = "in")
 
 for (i in regions_aggregated) {
   ggplot(data=filter(net_co2, region == i, year %in% plot_years),
@@ -304,7 +303,7 @@ for (i in regions_aggregated) {
     labs(title = paste(i, "net CO2 emissions"), x="", y="GTCO2") +
     scale_color_manual(values = cbPalette) +
     plot_theme +
-    ggsave(paste0(run_dir, "/figures/net_co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/net_co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 
@@ -317,7 +316,7 @@ ggplot(data=filter(CO2_prices, year %in% plot_years, market=="globalCO2"),
   labs(title = "Global CO2 prices", x="", y="1990$/tC") +
   scale_color_manual(values = cbPalette) +
   plot_theme +
-  ggsave(paste0(run_dir, "/figures/co2_prices_global.png"), height = 6, width = 9, units = "in")
+  ggsave(paste0(fig_dir, "/co2_prices_global.png"), height = 6, width = 9, units = "in")
 
 
 # Total  GHG emissions (total co2e)
@@ -329,7 +328,7 @@ ggplot(data=filter(ghg_emiss_co2e, year %in% plot_years),
   labs(title = "Total GHG emissions", x="", y="GTCO2e") +
   scale_color_manual(values = cbPalette) +
   plot_theme +
-  ggsave(paste0(run_dir, "/figures/total_ghg_co2e_allregions.png"), height = 6, width = 9, units = "in")
+  ggsave(paste0(fig_dir, "/total_ghg_co2e_allregions.png"), height = 6, width = 9, units = "in")
 
 
 for (i in regions_aggregated) {
@@ -338,7 +337,7 @@ for (i in regions_aggregated) {
     labs(title = paste(i, "total GHG emissions"), x="", y="GTCO2e") +
     scale_color_manual(values = cbPalette) +
     plot_theme +
-    ggsave(paste0(run_dir, "/figures/total_ghg_co2e_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/total_ghg_co2e_", i, ".png"), height = 6, width = 9, units = "in")
   
 }
 
@@ -357,7 +356,7 @@ for (i in regions_aggregated) {
     scale_y_continuous(limits = c(0, NA)) +
     scale_color_manual(values = cbPalette) +
     plot_theme +
-    ggsave(paste0(run_dir, "/figures/ironsteel_production_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/ironsteel_production_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 # all regions on same plot
@@ -370,7 +369,7 @@ ggplot(data=filter(ironsteel_production, year %in% plot_years, !region == "Globa
   scale_color_manual(values = cbPalette) +
   plot_theme +
   theme(strip.text.x = element_text(size = 10)) +
-  ggsave(paste0(run_dir, "/figures/ironsteel_production_regions.png"), height = 9, width = 11, units = "in")
+  ggsave(paste0(fig_dir, "/ironsteel_production_regions.png"), height = 9, width = 11, units = "in")
 
 #Ironsteel production by tech
 ironsteel_production_tech$scenario <- factor(ironsteel_production_tech$scenario, levels = scenarios)
@@ -383,7 +382,7 @@ for (i in regions_aggregated) {
     labs(title = paste(i, " iron and steel production by technology"), x="", y="Mt") +
     scale_fill_manual(values = pal_all)+
     plot_theme +
-    ggsave(paste0(run_dir, "/figures/ironsteel_production_tech_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/ironsteel_production_tech_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 #Ironsteel production by tech and vintage
@@ -397,7 +396,7 @@ for (i in regions_aggregated) {
     labs(title = paste(i, " iron and steel production - new vintages"), x="", y="Mt") +
     scale_fill_manual(values = pal_all)+
     plot_theme +
-    ggsave(paste0(run_dir, "/figures/ironsteel_production_tech_newvintage", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/ironsteel_production_tech_newvintage", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 # Iron/steel inputs by tech
@@ -411,7 +410,7 @@ for (i in regions_aggregated) {
   labs(title = paste(i, " iron and steel inputs"), x="", y="EJ or Mt") +
   scale_fill_manual(values = pal_all) +
   plot_theme +
-    ggsave(paste0(run_dir, "/figures/ironsteel_inputs_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/ironsteel_inputs_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 # Global industrial energy by fuel, iron and steel sector
@@ -426,7 +425,7 @@ ggplot(data=filter(industry_energy_tech_fuel, region == i, year %in% plot_years,
   labs(title = paste(i, " iron and steel energy use by fuel"), x="", y="EJ") +
   scale_fill_manual(values = pal_all) +
   plot_theme +
-  ggsave(paste0(run_dir, "/figures/ironsteel_energy_fuel_", i, ".png"), height = 6, width = 9, units = "in")
+  ggsave(paste0(fig_dir, "/ironsteel_energy_fuel_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 # iron and steel energy by subsector and fuel
@@ -440,7 +439,7 @@ for (i in regions_aggregated) {
     labs(title = paste(i, " iron and steel energy use by subsector and fuel"), x="", y="EJ") +
     scale_fill_manual(values = pal_all) +
     plot_theme +
-    ggsave(paste0(run_dir, "/figures/ironsteel_energy_subsector_fuel_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/ironsteel_energy_subsector_fuel_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 
@@ -454,7 +453,7 @@ for (i in regions_aggregated) {
     scale_fill_manual(values = pal_all) +
     plot_theme +
     theme(strip.text.y = element_text(size = 10))+
-    ggsave(paste0(run_dir, "/figures/ironsteel_energy_tech_fuel_", i, ".png"), height = 8.5, width = 11, units = "in")
+    ggsave(paste0(fig_dir, "/ironsteel_energy_tech_fuel_", i, ".png"), height = 8.5, width = 11, units = "in")
 }
 
 # steel demand per capita
@@ -464,9 +463,10 @@ for (i in regions_aggregated) {
     geom_line(size=1.2) +
     labs(title = paste(i, " iron and steel demand per capita"), x="", y="tons per capita") +
     scale_color_manual(values = cbPalette) +
+    scale_y_continuous(limits = c(0, NA)) +
     plot_theme +
     theme(strip.text.y = element_text(size = 10))+
-    ggsave(paste0(run_dir, "/figures/ironsteel_demand_percapita_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/ironsteel_demand_percapita_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 # iron and steel CO2 emissions
@@ -477,6 +477,6 @@ for (i in regions_aggregated) {
     labs(title = paste(i, " iron and steel CO2 emissions"), x="", y="GTCO2") +
     scale_color_manual(values = cbPalette) +
     plot_theme +
-    ggsave(paste0(run_dir, "/figures/ironsteel_co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/ironsteel_co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
