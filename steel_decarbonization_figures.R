@@ -133,11 +133,24 @@ net_co2 <- CO2_emissions %>%
   dplyr::summarise(value = sum(value)) %>% 
   ungroup
 
-# Cumulative emissions by year
-cumulative_co2 <- net_co2 %>%
+# Cumulative emissions by year - 2020 to end of century
+cumulative_co2_to2100 <- net_co2 %>%
   group_by(scenario, region) %>%
   complete(year = seq(2010, 2100)) %>%
   mutate(value = na.approx(value),
+         value = value / 1000) %>%
+  ungroup %>%
+  filter(year >= 2020) %>%
+  group_by(scenario, region) %>%
+  mutate(value = cumsum(value)) %>%
+  ungroup() 
+
+# Cumulative emissions by year - peak budget (2020 to net zero point)
+cumulative_co2_peak_budget <- net_co2 %>%
+  group_by(scenario, region) %>%
+  complete(year = seq(2010, 2100)) %>%
+  mutate(value = if_else(value < 0, 0, value),
+         value = na.approx(value),
          value = value / 1000) %>%
   ungroup %>%
   filter(year >= 2020) %>%
@@ -249,6 +262,12 @@ pal_all <- c(pal_all,
 cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7",
                "#333333", "#FFCC00", "#CC6600", "#006600", "#3333CC", "#CC0033", "#0099CC", "#999966")
 
+scenario_colors <- c("Ref"="#E69F00",
+                     "constraint_1p5"="#7DDE92",
+                     "constraint_1p5_delay"="#3083DC",
+                     "constraint_1p5_delay_v2"="#4E4187")
+
+
 # Plots ==================================================================================================================================
 
 
@@ -259,7 +278,7 @@ ggplot(data=filter(forcing, year %in% plot_years),
        aes(x=year, y=value, color = scenario)) +
   geom_line(size = 1.3)+
   labs(title = "Global climate forcing", x="", y="W/m^2")+
-  scale_color_manual(values = cbPalette) +
+  scale_color_manual(values = scenario_colors) +
   scale_y_continuous(limits = c(0, NA)) +
   plot_theme +
   ggsave(paste0(fig_dir, "/global_forcing.png"), height = 6, width = 9, units = "in")
@@ -270,8 +289,10 @@ global_mean_temp$scenario <- factor(global_mean_temp$scenario , levels = scenari
 ggplot(data=filter(global_mean_temp, year %in% plot_years),
        aes(x=year, y=value, color = scenario)) +
   geom_line(size = 1.2)+
+  geom_hline(yintercept = 1.5, linetype = "dashed", color = "black", size=1) +
+  geom_hline(yintercept = 2, linetype = "dashed", color = "black", size=1) +
   labs(title = "Global mean temperature", x="", y="Degrees C")+
-  scale_color_manual(values = cbPalette) +
+  scale_color_manual(values = scenario_colors) +
   scale_y_continuous(limits = c(0, NA)) +
   plot_theme +
   ggsave(paste0(fig_dir, "/global_mean_temp.png"), height = 6, width = 9, units = "in")
@@ -283,9 +304,10 @@ CO2_emissions$scenario <- factor(CO2_emissions$scenario, levels = scenarios)
 ggplot(data=filter(CO2_emissions, year %in% plot_years),
        aes(x=year, y=value / 1000, color=scenario)) +
   geom_line(size = 1) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
   facet_wrap(~region, scales = "free") +
   labs(title = "Total CO2 emissions (FFI)", x="", y="GTCO2") +
-  scale_color_manual(values = cbPalette) +
+  scale_color_manual(values = scenario_colors) +
   plot_theme +
   ggsave(paste0(fig_dir, "/co2_emissions_allregions.png"), height = 6, width = 9, units = "in")
 
@@ -293,8 +315,9 @@ for (i in regions_aggregated) {
   ggplot(data=filter(CO2_emissions, region == i, year %in% plot_years),
          aes(x=year, y=value / 1000, color=scenario)) +
     geom_line(size = 1.2) +
+    geom_hline(yintercept = 0, linetype = "dashed", color = "black", size = 1) +
     labs(title = paste(i, "total CO2 emissions (FFI)"), x="", y="GTCO2") +
-    scale_color_manual(values = cbPalette) +
+    scale_color_manual(values = scenario_colors) +
     plot_theme +
     ggsave(paste0(fig_dir, "/co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
 }
@@ -306,9 +329,10 @@ net_co2$scenario <- factor(net_co2$scenario, levels = scenarios)
 ggplot(data=filter(net_co2, year %in% plot_years),
        aes(x=year, y=value / 1000, color=scenario)) +
   geom_line(size = 1) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
   facet_wrap(~region, scales = "free") +
   labs(title = "Net CO2 emissions", x="", y="GTCO2") +
-  scale_color_manual(values = cbPalette) +
+  scale_color_manual(values = scenario_colors) +
   plot_theme +
   ggsave(paste0(fig_dir, "/net_co2_emissions_allregions.png"), height = 6, width = 9, units = "in")
 
@@ -316,32 +340,55 @@ for (i in regions_aggregated) {
   ggplot(data=filter(net_co2, region == i, year %in% plot_years),
          aes(x=year, y=value / 1000, color=scenario)) +
     geom_line(size = 1.2) +
+    geom_hline(yintercept = 0, linetype = "dashed", color = "black", size = 1) +
     labs(title = paste(i, "net CO2 emissions"), x="", y="GTCO2") +
-    scale_color_manual(values = cbPalette) +
+    scale_color_manual(values = scenario_colors) +
     plot_theme +
     ggsave(paste0(fig_dir, "/net_co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
-# Cumulative co2 emissions
-cumulative_co2$scenario <- factor(cumulative_co2$scenario, levels = scenarios)
+# Cumulative co2 emissions - peak budget
+cumulative_co2_peak_budget$scenario <- factor(cumulative_co2_peak_budget$scenario, levels = scenarios)
 
-ggplot(data=filter(cumulative_co2, year %in% plot_years),
+ggplot(data=filter(cumulative_co2_peak_budget, year %in% plot_years),
        aes(x=year, y=value, color=scenario)) +
   geom_line(size = 1) +
   facet_wrap(~region, scales = "free") +
-  labs(title = "Cumulative CO2 emissions", x="", y="GTCO2") +
-  scale_color_manual(values = cbPalette) +
+  labs(title = "Cumulative CO2 emissions (peak budget)", x="", y="GTCO2") +
+  scale_color_manual(values = scenario_colors) +
   plot_theme +
-  ggsave(paste0(fig_dir, "/cumulative_co2_emissions_allregions.png"), height = 6, width = 9, units = "in")
+  ggsave(paste0(fig_dir, "/cumulative_co2_peak_budget_allregions.png"), height = 6, width = 9, units = "in")
 
 for (i in regions_aggregated) {
-  ggplot(data=filter(cumulative_co2, region == i, year %in% plot_years),
+  ggplot(data=filter(cumulative_co2_peak_budget, region == i, year %in% plot_years),
          aes(x=year, y=value, color=scenario)) +
     geom_line(size = 1.2) +
-    labs(title = paste(i, "cumulative CO2 emissions"), x="", y="GTCO2") +
-    scale_color_manual(values = cbPalette) +
+    labs(title = paste(i, "cumulative CO2 emissions (peak budget)"), x="", y="GTCO2") +
+    scale_color_manual(values = scenario_colors) +
     plot_theme +
-    ggsave(paste0(fig_dir, "/cumulative_co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
+    ggsave(paste0(fig_dir, "/cumulative_co2_peak_budget_", i, ".png"), height = 6, width = 9, units = "in")
+}
+
+# Cumulative co2 emissions - end-of-century
+cumulative_co2_to2100$scenario <- factor(cumulative_co2_to2100$scenario, levels = scenarios)
+
+ggplot(data=filter(cumulative_co2_to2100, year %in% plot_years),
+       aes(x=year, y=value, color=scenario)) +
+  geom_line(size = 1) +
+  facet_wrap(~region, scales = "free") +
+  labs(title = "Cumulative CO2 emissions (peak budget)", x="", y="GTCO2") +
+  scale_color_manual(values = scenario_colors) +
+  plot_theme +
+  ggsave(paste0(fig_dir, "/cumulative_co2_end_of_century_allregions.png"), height = 6, width = 9, units = "in")
+
+for (i in regions_aggregated) {
+  ggplot(data=filter(cumulative_co2_to2100, region == i, year %in% plot_years),
+         aes(x=year, y=value, color=scenario)) +
+    geom_line(size = 1.2) +
+    labs(title = paste(i, "cumulative CO2 emissions (peak budget)"), x="", y="GTCO2") +
+    scale_color_manual(values = scenario_colors) +
+    plot_theme +
+    ggsave(paste0(fig_dir, "/cumulative_co2_end_of_century_", i, ".png"), height = 6, width = 9, units = "in")
 }
 
 
@@ -352,9 +399,18 @@ ggplot(data=filter(CO2_prices, year %in% plot_years, market=="globalCO2"),
        aes(x=year, y=value, color = scenario)) +
   geom_line(size = 1.2) +
   labs(title = "Global CO2 prices", x="", y="1990$/tC") +
-  scale_color_manual(values = cbPalette) +
+  scale_color_manual(values = scenario_colors) +
   plot_theme +
   ggsave(paste0(fig_dir, "/co2_prices_global.png"), height = 6, width = 9, units = "in")
+
+#without super high CO2 price scenario
+ggplot(data=filter(CO2_prices, year %in% plot_years, market=="globalCO2", !scenario == "constraint_1p5_delay"),
+       aes(x=year, y=value, color = scenario)) +
+  geom_line(size = 1.2) +
+  labs(title = "Global CO2 prices", x="", y="1990$/tC") +
+  scale_color_manual(values = scenario_colors) +
+  plot_theme +
+  ggsave(paste0(fig_dir, "/co2_prices_global_nz2050_scenarios.png"), height = 6, width = 9, units = "in")
 
 
 # Total  GHG emissions (total co2e)
@@ -364,7 +420,7 @@ ggplot(data=filter(ghg_emiss_co2e, year %in% plot_years),
   geom_line(size = 1) +
   facet_wrap(~region, scales = "free") +
   labs(title = "Total GHG emissions", x="", y="GTCO2e") +
-  scale_color_manual(values = cbPalette) +
+  scale_color_manual(values = scenario_colors) +
   plot_theme +
   ggsave(paste0(fig_dir, "/total_ghg_co2e_allregions.png"), height = 6, width = 9, units = "in")
 
@@ -373,7 +429,7 @@ for (i in regions_aggregated) {
   ggplot(filter(ghg_emiss_co2e, region == i, year %in% plot_years), aes(x=year, y=value / 1000, color = scenario)) +
     geom_line(size=1.2) +
     labs(title = paste(i, "total GHG emissions"), x="", y="GTCO2e") +
-    scale_color_manual(values = cbPalette) +
+    scale_color_manual(values = scenario_colors) +
     plot_theme +
     ggsave(paste0(fig_dir, "/total_ghg_co2e_", i, ".png"), height = 6, width = 9, units = "in")
   
@@ -392,7 +448,7 @@ for (i in regions_aggregated) {
     geom_line(size = 1.2) +
     labs(title = paste(i, " iron and steel production"), x="", y="Mt") +
     scale_y_continuous(limits = c(0, NA)) +
-    scale_color_manual(values = cbPalette) +
+    scale_color_manual(values = scenario_colors) +
     plot_theme +
     ggsave(paste0(fig_dir, "/ironsteel_production_", i, ".png"), height = 6, width = 9, units = "in")
 }
@@ -404,7 +460,7 @@ ggplot(data=filter(ironsteel_production, year %in% plot_years, !region == "Globa
   facet_wrap(~region) +
   labs(title = "Iron and steel production by region", x="", y="Mt") +
   scale_y_continuous(limits = c(0, NA)) +
-  scale_color_manual(values = cbPalette) +
+  scale_color_manual(values = scenario_colors) +
   plot_theme +
   theme(strip.text.x = element_text(size = 10)) +
   ggsave(paste0(fig_dir, "/ironsteel_production_regions.png"), height = 9, width = 11, units = "in")
@@ -502,7 +558,7 @@ for (i in regions_aggregated) {
          aes(x=year, y=value, color=scenario)) +
     geom_line(size=1.2) +
     labs(title = paste(i, "iron and steel demand per capita"), x="", y="tons per capita") +
-    scale_color_manual(values = cbPalette) +
+    scale_color_manual(values = scenario_colors) +
     scale_y_continuous(limits = c(0, NA)) +
     plot_theme +
     theme(strip.text.y = element_text(size = 10))+
@@ -517,7 +573,7 @@ for (i in regions_aggregated) {
          aes(x=year, y=value/1000, color=scenario)) +
     geom_line(size = 1.2) +
     labs(title = paste(i, "iron and steel CO2 emissions"), x="", y="GTCO2") +
-    scale_color_manual(values = cbPalette) +
+    scale_color_manual(values = scenario_colors) +
     plot_theme +
     ggsave(paste0(fig_dir, "/ironsteel_co2_emissions_", i, ".png"), height = 6, width = 9, units = "in")
 }
