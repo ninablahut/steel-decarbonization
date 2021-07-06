@@ -16,7 +16,7 @@ library(zoo)
 options(scipen=999)
 
 fig_dir <- "./figures"
-run_dir <- "./output/6-23_korea_coal_hydrogen" # SET MANUALLY FOR EACH RUN
+run_dir <- "./output/6-29_linear_subsector_shwts" # SET MANUALLY FOR EACH RUN
 
 #if(!dir.exists(paste0(run_dir,"/figures"))){dir.create(paste0(run_dir,"/figures"))}
 
