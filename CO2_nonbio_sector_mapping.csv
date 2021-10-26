@@ -1,0 +1,48 @@
+GCAM_sector,sector_mapping
+comm heating,buildings
+comm others,buildings
+comm cooling,buildings
+resid heating,buildings
+district heat,other energy supply
+resid cooling,buildings
+backup_electricity,electricity
+elec_biomass (IGCC CCS),electricity
+elec_biomass (conv CCS),electricity
+elec_coal (IGCC CCS),electricity
+elec_coal (conv pul CCS),electricity
+elec_gas (CC CCS),electricity
+elec_refined liquids (CC CCS),electricity
+electricity,electricity
+H2 central production,hydrogen
+H2 forecourt production,hydrogen
+N fertilizer,industry
+agricultural energy use,industry
+cement,industry
+construction energy use,industry
+construction feedstocks,industry
+other industrial energy use,industry
+other industrial feedstocks,industry
+process heat cement,industry
+refined liquids industrial,industry
+alumina,industry
+chemical energy use,industry
+chemical feedstocks,industry
+iron and steel,iron and steel
+delivered biomass,other energy supply
+delivered gas,other energy supply
+gas pipeline,other energy supply
+gas processing,other energy supply
+mining energy use,industry
+refined liquids enduse,other energy supply
+refining,other energy supply
+resid others,buildings
+wholesale gas,other energy supply
+csp_backup,electricity
+trn_aviation_intl,transportation
+trn_freight,transportation
+trn_freight_road,transportation
+trn_pass,transportation
+trn_pass_road,transportation
+trn_pass_road_LDV,transportation
+trn_pass_road_LDV_4W,transportation
+trn_shipping_intl,transportation
