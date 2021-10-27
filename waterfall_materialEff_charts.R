@@ -25,8 +25,8 @@ loadfonts(quiet = T)
 options(scipen=999)
 run_dir <- "C:/Users/blah822/Documents/steelDatabase/10-23" # SET MANUALLY FOR EACH RUN
 if(!dir.exists(paste0(run_dir,"/figures"))){dir.create(paste0(run_dir,"/figures.2"))}
-fig_dir <- "C:/Users/blah822/Documents/steelDatabase/10-23/figures.2"
-results_dir <- "C:/Users/blah822/Documents/steelDatabase/10-23/results.2"
+fig_dir <- "C:/Users/blah822/Documents/steelDatabase/test"
+results_dir <- "C:/Users/blah822/Documents/steelDatabase/test"
 setwd("C:/Users/blah822/Documents/steelDatabase")
 source("functions.R")
 source("diag_util_functions.R")
@@ -260,7 +260,7 @@ for (i in regions_aggregated) {
     scale_fill_manual(values = reduction_colors)+
     plot_theme
   
-  ggsave(paste0(fig_dir, "/reduction_contriburtions_", i, ".png"), height = 6, width = 11, units = "in")
+  ggsave(paste0(fig_dir, "/reduction_contributions_", i, ".png"), height = 6, width = 11, units = "in")
 }
 
 results4$`Mitigation measure` <- factor(results4$`Mitigation measure`,
@@ -279,6 +279,10 @@ reduction_colors <- c( "Energy efficiency contribution" = "gray50",
                        "H2 contribution" = "darkgoldenrod3",
                        "CCUS contribution" ="dodgerblue3",
                        "1p5 emissions" = "firebrick3")
+
+results2 <- results2 %>% 
+  mutate(reduction = if_else(`Mitigation measure` == "Ref emissions", 
+                            reduction, reduction *-1))
 for (i in regions_aggregated) {
   ggplot(data=filter(results2, `Mitigation measure` != "Ref emissions", 
                      region %in% regions_aggregated, region != "ROW", region != "Global"),
@@ -292,6 +296,22 @@ for (i in regions_aggregated) {
   
   ggsave(paste0(fig_dir, "/reduction_contriburtions_all", ".png"), height = 6, width = 11, units = "in")
 }
+
+spaces <- c(" "," "," "," "," "," "," ")
+for (i in regions_aggregated){
+  waterfall_data <- data.frame(filter(results2,region==i,`Mitigation measure` != "1p5 emissions", year == 2050))
+  waterfall(select(waterfall_data, c(Mitigation.measure, reduction)), calc_total = TRUE,
+            total_rect_text_color = "black", total_axis_text = "1p5 emissions",
+            fill_colours = 2:7, fill_by_sign = FALSE, rect_text_labels = c("", round(waterfall_data$share[2:7]*100)))+
+    theme_minimal()+
+    labs(title = paste0(i, " - contributions from mitigation measures"),
+                           y="MtCO2", x=" " )+
+    theme(axis.text.x = element_text(angle = 60, hjust = 1))+
+    theme(text = element_text(size=18))
+
+  ggsave(paste0(fig_dir, "/waterfall_chart_values", i, ".png"), height = 7, width = 8, units = "in")
+}
+
 
 #plot ref, MEF induced, price induced production with historical and save underlying data ---------------
 
@@ -327,28 +347,3 @@ ironsteel_production3$scenario <- factor(ironsteel_production3$scenario, levels 
 write.csv(ironsteel_production3, paste0(results_dir, "/material_efficency.csv"))
 
 
-
-# for (i in regions_aggregated) {
-#   ggplot(data=filter(ironsteel_production, region == i, year %in% plot_years, scenario=="ref_MEF" | scenario=="Ref"|scenario=="1p5", year%in%plot_years),
-#          aes(x=year, y=value, color = scenario)) +
-#     geom_line(size = 1.2) +
-#     labs(title = paste(i, " iron and steel production"), x="", y="Mt") +
-#     scale_y_continuous(limits = c(0, NA)) +
-#     scale_color_manual(labels = c("Reference", "Material efficiency and price increase","Material efficiency") , values = c("Ref" = "indianred3", "ref_MEF"="royalblue1", "1p5"="darkgreen")) +
-#     plot_theme +
-#     #theme(legend.position="bottom")+
-#     ggsave(paste0(fig_dir, "/ironsteel_production", i, ".png"), height = 9, width = 12, units = "in")
-# }
-
-#
-#   ggplot(data=filter(ironsteel_production, year %in% plot_years, scenario=="ref_MEF" | scenario=="Ref"|scenario=="1p5", year%in%plot_years, region%in%regions_aggregated, region!="Global",region!="ROW"),
-#          aes(x=year, y=value, color = scenario)) +
-#     geom_line(size = 1.2) +
-#     facet_wrap(~region, ncol=2,scale="free")+
-#     labs(title = paste("Iron and steel production"), x="", y="Mt") +
-#     scale_y_continuous(limits = c(0, NA)) +
-#     scale_color_manual(labels = c("Reference", "Material efficiency", "Material efficiency and price increase") , values = c("Ref" = "indianred3", "ref_MEF"="royalblue1", "1p5"="darkgreen")) +
-#     plot_theme +
-#     ggsave(paste0(fig_dir, "/ironsteel_production_ALL", ".png"), height = 9, width = 11, units = "in")
-#
-#

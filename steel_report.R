@@ -17,15 +17,22 @@ library(extrafont)
 loadfonts(quiet = T)
 options(scipen=999)
 
-
-run_dir <- "C:/Users/blah822/Documents/steelDatabase/10-23" # SET MANUALLY FOR EACH RUN
-
+#set directories SET MANUALLY FOR EACH RUN -------
+run_dir <- "C:/Users/blah822/Documents/steelDatabase/10-23" 
 if(!dir.exists(paste0(run_dir,"/figures"))){dir.create(paste0(run_dir,"/"))}
-fig_dir <- "C:/Users/blah822/Documents/steelDatabase/10-23/figures.2"
-results_dir <- "C:/Users/blah822/Documents/steelDatabase/10-23/results.2"
-setwd("C:/Users/blah822/Documents/steelDatabase")
+fig_dir <- "C:/Users/blah822/Documents/steelDatabase/test"
+results_dir <- "C:/Users/blah822/Documents/steelDatabase/test"
+setwd("C:/Users/blah822/OneDrive - PNNL/Documents/GitHub/steel-decarbonization")
 source("functions.R")
 source("diag_util_functions.R")
+
+#mapping files ----------------
+region_mapping <- read.csv("steel_region_mapping.csv")
+regions_aggregated <- unique(region_mapping$steel_region)
+CO2_sector_mapping <- read.csv("CO2_nonbio_sector_mapping.csv")
+hydrogen_mapping <- read.csv("hydrogen_production_mapping.csv")
+elec_mapping <-read.csv("elec_mapping.csv")
+
 
 #Download batch queries from PIC into run directory -----------------------------------
 queries <- list.files(run_dir, pattern='queryoutall')
@@ -73,8 +80,7 @@ USD1990_to_2015 <- 1.64753738
 USD1975_to_2015 <- 3.508771929
 THOUS_to_MILL <- 0.001
 
-# Unit conversions -------------------------------------------------------------
-# Emissions - C to CO2
+# Emissions - C to CO2-------------
 CO2_emissions <- CO2_emissions %>% dplyr::mutate(value = if_else(Units == "MTC", value * C_to_CO2, value),
                                                  Units = if_else(Units == "MTC", "MTCO2", Units))
 LU_CO2_emissions <- LU_CO2_emissions %>% dplyr::mutate(value = if_else(Units == "MtC/yr", value * C_to_CO2, value),
@@ -87,11 +93,6 @@ CO2_emissions_sector_nobio <- CO2_emissions_sector_nobio %>% dplyr::mutate(value
 #Units = "millions")
 
 # Aggregate to deep dive regions and ROW --------------------------------------------------------------------------------
-
-region_mapping <- read.csv("steel_region_mapping.csv")
-regions_aggregated <- unique(region_mapping$steel_region)
-
-# aggregate to deep dive regions and ROW
 #final_ene_sect_fuel <- final_ene_sect_fuel %>% aggregate_regions(region_mapping, colname = "steel_region")
 electricity <- electricity %>% aggregate_regions(region_mapping, colname = "steel_region")
 CO2_emissions <- CO2_emissions %>% aggregate_regions(region_mapping, colname = "steel_region")
@@ -245,11 +246,6 @@ blank_theme <- pie_theme+
 plot_years <- c(seq(2015,2050))
 
 #Colors ---------------------------------------------------------------------------
-# color scheme from jgricolor package
-pal_all <- jgcricol()$pal_all
-regions <- jgcricol()$gcam32_colors
-
-# manually add missing colors
 # add missing colors
 input_colors  <- c(pal_all,"delivered biomass" = "#00931d",
                    "delivered coal" = "gray20",
@@ -263,57 +259,11 @@ input_colors  <- c(pal_all,"delivered biomass" = "#00931d",
                    "scrap" = "#666666",
                    "coal" = "grey20",
                    "coal with CCS" = "grey85")
-#pal all 
-{
-  
-  
 
-# pal_all <- c(pal_all,
-#              "iron and steel" = "red3",
-#              "aluminum" = "steelblue",
-#              "alumina" = "steelblue1",
-#              "chemical energy use" = "lightgoldenrod2",
-#              "chemical feedstocks" = "darkgoldenrod2",
-#              "chemical" = "goldenrod2",
-#              "construction energy use" = "darkorange2",
-#              "buildings" = "darkorange2",
-#              "construction feedstocks" = "chocolate4",
-#              "construction" = "chocolate3",
-#              "mining energy use" = "#E15A97",
-#              "mining" = "#E15A97",
-#              "agricultural energy use" = "#97DB4F",
-#              "cement"= "plum",
-#              "process heat cement" = "plum4",
-#              "N fertilizer" = "gold3",
-#              "industrial energy use" = "slateblue2",
-#              "industrial feedstocks" = "springgreen4",
-#              "BLASTFUR CCS" = "#FB9A99",
-#              "BLASTFUR" = "#E31A1C",
-#              "EAF with scrap CCS" = "#bcbddc",
-#              "EAF with scrap" = "#756bb1",
-#              "EAF with DRI CCS" = "#9ecae1",
-#              "EAF with DRI" = "#3182bd",
-#              "Biomass-based" = "#33A02C",
-#              "Hydrogen-based DRI" = "#FCD581",
-#              "delivered biomass" = "#00931d",
-#              "delivered coal" = "gray20",
-#              "H2 enduse" = "darkgoldenrod3",
-#              "hydrogen" = "peachpuff2",
-#              "refined liquids industrial" = "#d01c2a",
-#              "refined liquids" = "#d01c2a",
-#              "refined liquids with CCS" ="peachpuff2",
-#              "gas" = "#756bb1",
-#              "gas with CCS" = "#bcbddc",
-#              "scrap" = "#666666",
-#              "BLASTFUR with hydrogen" = "darkgoldenrod3",
-#              "coal" = "grey20",
-#              "coal with CCS" = "grey85")
-}
+scenario_colors <- c("Ref"= "#E31A1C",
+                     "1p5 delay" = "#3182bd",
+                     "1p5" = "#33A02C")
 
-#scenario colors
-{scenario_colors <- c("Ref"="#E69F00",
-                     "1p5" = "#7DDE92",
-                     "1p5 delay" = "#3083DC")}
 
 tech_colors  <- c("BF-CCUS" = "#FB9A99",
                   "BF-BOF" = "#E31A1C",
@@ -355,8 +305,6 @@ hydrogen_pal <- c("blue"="#3182bd", "grey"="gray57", "green"="#33A02C")
 
 #Scenario labels ------------------------------------------------------------------
 scenarios = c("current_policies","1p5C", "1p5C_delay")
-#no ccs senarios
-#scenarios = c("current_policies","1p5C_no_css_steel_sector", "1p5C_delay_no_css_steel_sector")
 scenario_labels = c("Ref","1p5", "1p5 delay")
 
 #Global net CO2 emissions----------------------------------------------------------
@@ -405,10 +353,6 @@ ironsteel_CO2 <- ironsteel_CO2 %>%
   left_join(ironsteel_CO2_total, by = c("year","scenario"))%>%
   mutate(share = value/sum*100)
 
-# regions <- c("China" = "firebrick3","EU-27"="darkgoldenrod3","India"="dodgerblue3",
-#              "Japan"="gray50","ROW"="darkorchid","South Korea"="forestgreen",
-#              "US"="darkturquoise")
-
 pie_years <- c(2020,2030,2050)
 ggplot(filter(ironsteel_CO2, year%in%pie_years, scenario=="1p5"), 
        aes(x= "", y = share , fill = region)) +
@@ -440,9 +384,9 @@ ggplot(filter(mat_eff),
   plot_theme +
   theme(axis.text.x=element_blank()) +
   blank_theme + 
-  labs(title = expression(bold(paste(Regional~contributions~to~total~iron~and~steel~CO[2]~emissions,", 1p5 scenario"))))
+  labs(title = "Material Efficiecy Measures")
 
-ggsave(paste0(fig_dir, "/ironsteel_CO2_pie",  ".png"), height = 6, width = 9, units = "in")
+ggsave(paste0(fig_dir, "/mat_eff_pie",  ".png"), height = 6, width = 9, units = "in")
 
 
 #reference iron and steel production stacked line chart ---------------------------------------------
@@ -609,8 +553,6 @@ ironsteel_fuel <- ironsteel_fuel %>%
   left_join(final_ene_sect_fuel_total, by = c("region","year","scenario","input")) %>%
  mutate(share = value/total)
 
-#map co2 emissions 
-CO2_sector_mapping <- read.csv("C:/Users/blah822/Documents/steelDatabase/CO2_nonbio_sector_mapping.csv")
 
 CO2_emissions_sector_nobio_assigned <- CO2_emissions_sector_nobio %>%
  left_join(CO2_sector_mapping, by = c("sector"="GCAM_sector"))%>%
@@ -668,7 +610,6 @@ write.csv(CO2_emissions_iron_steel, paste0(results_dir,"/direct_indirect_emissio
 #hydrogen plotting by tech --------------------------------------------------------------------------------------
 #hydrogen green, blue, grey calcs
 hydrogen_production_tech$scenario <- factor(hydrogen_production_tech$scenario, levels = scenarios, labels=scenario_labels)
-hydrogen_mapping <- read.csv("C:/Users/blah822/Documents/steelDatabase/hydrogen_production_mapping.csv")
 hydrogen_production <- filter(hydrogen_production_tech, scenario!="NA")
 hydrogen_production <- hydrogen_production %>% left_join(hydrogen_mapping, by=c("technology"="technology"))
 
@@ -845,7 +786,6 @@ ggsave(paste0(results_dir, "/emissions_intensity.png"), height = 6, width = 9, u
 
 
 #cumulative co2 --------------
-CO2_sector_mapping <- read.csv("C:/Users/blah822/Documents/steelDatabase/CO2_nonbio_sector_mapping.csv")
 
 CO2_emissions_sector_nobio_assigned <- CO2_emissions_sector_nobio %>%
   left_join(CO2_sector_mapping, by = c("sector"="GCAM_sector"))%>%
@@ -916,7 +856,6 @@ write.csv(a_cumulative_ironsteel_co2_to2100,paste0(results_dir,"/cumulativeCO2.c
 # ggsave(paste0(results_dir, "/BF_BOF_ROR.png"), height = 6, width = 9, units = "in")
 # 
 # write.csv(blastfurnace_ROR, paste0(results_dir, "/blastfurnace_ROR.csv"))
-elec_mapping <-read.csv("C:/Users/blah822/Documents/steelDatabase/9-21/results/elec_mapping.csv")
 colnames(elec_mapping) <- c("technology","generation", "generation technology")
 electricity <- electricity %>%
   left_join(elec_mapping)

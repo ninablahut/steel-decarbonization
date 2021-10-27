@@ -1,5 +1,5 @@
 region,steel_region
-USA,USA
+USA,US
 Africa_Eastern,ROW
 Africa_Northern,ROW
 Africa_Southern,ROW
@@ -10,8 +10,8 @@ Canada,ROW
 Central America and Caribbean,ROW
 Central Asia,ROW
 China,China
-EU-12,EU
-EU-15,EU
+EU-12,Europe
+EU-15,Europe
 Europe_Eastern,ROW
 Europe_Non_EU,ROW
 European Free Trade Association,ROW
