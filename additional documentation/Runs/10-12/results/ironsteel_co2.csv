@@ -1,0 +1,65 @@
+"","region","scenario","sector","Units","year","value"
+"1","China","1p5","iron and steel","MTCO2",2015,1600.98110444694
+"2","China","1p5","iron and steel","MTCO2",2020,2052.7787554843
+"3","China","1p5","iron and steel","MTCO2",2025,1622.12028762817
+"4","China","1p5","iron and steel","MTCO2",2030,995.045857199153
+"5","China","1p5","iron and steel","MTCO2",2035,402.361242627107
+"6","China","1p5","iron and steel","MTCO2",2040,123.021525392046
+"7","China","1p5","iron and steel","MTCO2",2045,42.1461393407989
+"8","China","1p5","iron and steel","MTCO2",2050,18.813955042952
+"9","EU-27","1p5","iron and steel","MTCO2",2015,173.42559067704
+"10","EU-27","1p5","iron and steel","MTCO2",2020,175.667890929742
+"11","EU-27","1p5","iron and steel","MTCO2",2025,139.359926141293
+"12","EU-27","1p5","iron and steel","MTCO2",2030,89.6696333483478
+"13","EU-27","1p5","iron and steel","MTCO2",2035,44.7139879790758
+"14","EU-27","1p5","iron and steel","MTCO2",2040,20.7525604323025
+"15","EU-27","1p5","iron and steel","MTCO2",2045,5.85412892466384
+"16","EU-27","1p5","iron and steel","MTCO2",2050,3.04894024597945
+"17","Global","1p5","iron and steel","MTCO2",2015,2832.45585003857
+"18","Global","1p5","iron and steel","MTCO2",2020,3373.1283987717
+"19","Global","1p5","iron and steel","MTCO2",2025,2636.98264131702
+"20","Global","1p5","iron and steel","MTCO2",2030,1648.47743766984
+"21","Global","1p5","iron and steel","MTCO2",2035,785.822379265847
+"22","Global","1p5","iron and steel","MTCO2",2040,362.833811410687
+"23","Global","1p5","iron and steel","MTCO2",2045,145.123766937693
+"24","Global","1p5","iron and steel","MTCO2",2050,59.9424442333326
+"25","India","1p5","iron and steel","MTCO2",2015,267.220001452556
+"26","India","1p5","iron and steel","MTCO2",2020,336.196261666911
+"27","India","1p5","iron and steel","MTCO2",2025,266.783278080151
+"28","India","1p5","iron and steel","MTCO2",2030,180.449715803391
+"29","India","1p5","iron and steel","MTCO2",2035,142.654094006993
+"30","India","1p5","iron and steel","MTCO2",2040,112.794773271784
+"31","India","1p5","iron and steel","MTCO2",2045,44.1891245030629
+"32","India","1p5","iron and steel","MTCO2",2050,15.0809577438397
+"33","Japan","1p5","iron and steel","MTCO2",2015,154.390642669409
+"34","Japan","1p5","iron and steel","MTCO2",2020,145.426839778745
+"35","Japan","1p5","iron and steel","MTCO2",2025,110.042876330643
+"36","Japan","1p5","iron and steel","MTCO2",2030,70.3029293292515
+"37","Japan","1p5","iron and steel","MTCO2",2035,33.8615833903871
+"38","Japan","1p5","iron and steel","MTCO2",2040,15.1682465809161
+"39","Japan","1p5","iron and steel","MTCO2",2045,6.40051919989191
+"40","Japan","1p5","iron and steel","MTCO2",2050,3.61044204178126
+"41","ROW","1p5","iron and steel","MTCO2",2015,476.250163800421
+"42","ROW","1p5","iron and steel","MTCO2",2020,494.989544639149
+"43","ROW","1p5","iron and steel","MTCO2",2025,376.491477089304
+"44","ROW","1p5","iron and steel","MTCO2",2030,241.840638146745
+"45","ROW","1p5","iron and steel","MTCO2",2035,132.059548192116
+"46","ROW","1p5","iron and steel","MTCO2",2040,80.5435161703285
+"47","ROW","1p5","iron and steel","MTCO2",2045,43.580417883863
+"48","ROW","1p5","iron and steel","MTCO2",2050,18.372023794658
+"49","South Korea","1p5","iron and steel","MTCO2",2015,89.0607083789295
+"50","South Korea","1p5","iron and steel","MTCO2",2020,90.2234918941298
+"51","South Korea","1p5","iron and steel","MTCO2",2025,68.8453014445037
+"52","South Korea","1p5","iron and steel","MTCO2",2030,43.1027931905895
+"53","South Korea","1p5","iron and steel","MTCO2",2035,20.450899355907
+"54","South Korea","1p5","iron and steel","MTCO2",2040,7.91948850096062
+"55","South Korea","1p5","iron and steel","MTCO2",2045,1.52614446475693
+"56","South Korea","1p5","iron and steel","MTCO2",2050,0.427593648867516
+"57","US","1p5","iron and steel","MTCO2",2015,71.1276386132739
+"58","US","1p5","iron and steel","MTCO2",2020,77.8456143787278
+"59","US","1p5","iron and steel","MTCO2",2025,53.3394946029543
+"60","US","1p5","iron and steel","MTCO2",2030,28.065870652363
+"61","US","1p5","iron and steel","MTCO2",2035,9.72102371426158
+"62","US","1p5","iron and steel","MTCO2",2040,2.63370106234907
+"63","US","1p5","iron and steel","MTCO2",2045,1.427292620655
+"64","US","1p5","iron and steel","MTCO2",2050,0.588531715254766

@@ -1,0 +1,9 @@
+"","region","scenario.x","sector.x","Units.x","year.x","value.x","scenario.y","sector.y","Units.y","year.y","value.y","change"
+"1","China","1p5C","iron and steel","1975$/kg",2020,0.0785195,"1p5C","iron and steel","1975$/kg",2050,0.142947,-0.820528658486108
+"2","Europe","1p5C","iron and steel","1975$/kg",2020,0.171413,"1p5C","iron and steel","1975$/kg",2050,0.237853,-0.387601873836874
+"3","Global","1p5C","iron and steel","1975$/kg",2020,3.8166881,"1p5C","iron and steel","1975$/kg",2050,5.229438,-0.370150733564003
+"4","India","1p5C","iron and steel","1975$/kg",2020,0.112891,"1p5C","iron and steel","1975$/kg",2050,0.153171,-0.356804351099733
+"5","Japan","1p5C","iron and steel","1975$/kg",2020,0.0818694,"1p5C","iron and steel","1975$/kg",2050,0.136355,-0.665518496532282
+"6","ROW","1p5C","iron and steel","1975$/kg",2020,3.2149733,"1p5C","iron and steel","1975$/kg",2050,4.3092987,-0.340383977683423
+"7","South Korea","1p5C","iron and steel","1975$/kg",2020,0.0806958,"1p5C","iron and steel","1975$/kg",2050,0.154718,-0.917299289430181
+"8","US","1p5C","iron and steel","1975$/kg",2020,0.0763261,"1p5C","iron and steel","1975$/kg",2050,0.0950953,-0.245908018358071

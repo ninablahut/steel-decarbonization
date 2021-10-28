@@ -1,0 +1,193 @@
+"","region","scenario","sector","Units","year","value"
+"1","China","1p5 delay","iron and steel","Mt",2015,803.47
+"2","China","1p5","iron and steel","Mt",2015,803.47
+"3","China","Ref","iron and steel","Mt",2015,803.47
+"4","China","1p5 delay","iron and steel","Mt",2020,1039.046608
+"5","China","1p5","iron and steel","Mt",2020,1039.046896
+"6","China","Ref","iron and steel","Mt",2020,1059.011404
+"7","China","1p5 delay","iron and steel","Mt",2025,1029.142796
+"8","China","1p5","iron and steel","Mt",2025,926.499741
+"9","China","Ref","iron and steel","Mt",2025,1088.2433537
+"10","China","1p5 delay","iron and steel","Mt",2030,964.4457817
+"11","China","1p5","iron and steel","Mt",2030,861.956757
+"12","China","Ref","iron and steel","Mt",2030,1060.69360945
+"13","China","1p5 delay","iron and steel","Mt",2035,806.0130291
+"14","China","1p5","iron and steel","Mt",2035,787.903984
+"15","China","Ref","iron and steel","Mt",2035,999.56858236
+"16","China","1p5 delay","iron and steel","Mt",2040,729.475455
+"17","China","1p5","iron and steel","Mt",2040,725.324401
+"18","China","Ref","iron and steel","Mt",2040,941.06388498
+"19","China","1p5 delay","iron and steel","Mt",2045,654.604055
+"20","China","1p5","iron and steel","Mt",2045,649.9491115
+"21","China","Ref","iron and steel","Mt",2045,868.58993368
+"22","China","1p5 delay","iron and steel","Mt",2050,564.580036587
+"23","China","1p5","iron and steel","Mt",2050,565.4351713279
+"24","China","Ref","iron and steel","Mt",2050,787.4517708
+"25","Europe","1p5 delay","iron and steel","Mt",2015,166.2242
+"26","Europe","1p5","iron and steel","Mt",2015,166.2242
+"27","Europe","Ref","iron and steel","Mt",2015,166.2242
+"28","Europe","1p5 delay","iron and steel","Mt",2020,171.14737499
+"29","Europe","1p5","iron and steel","Mt",2020,171.14722509
+"30","Europe","Ref","iron and steel","Mt",2020,172.36042417
+"31","Europe","1p5 delay","iron and steel","Mt",2025,168.34258851
+"32","Europe","1p5","iron and steel","Mt",2025,157.63362919
+"33","Europe","Ref","iron and steel","Mt",2025,179.632832
+"34","Europe","1p5 delay","iron and steel","Mt",2030,160.981527031
+"35","Europe","1p5","iron and steel","Mt",2030,150.382048949
+"36","Europe","Ref","iron and steel","Mt",2030,181.437225723
+"37","Europe","1p5 delay","iron and steel","Mt",2035,143.55103467
+"38","Europe","1p5","iron and steel","Mt",2035,141.980953402
+"39","Europe","Ref","iron and steel","Mt",2035,180.063369032
+"40","Europe","1p5 delay","iron and steel","Mt",2040,134.57889182
+"41","Europe","1p5","iron and steel","Mt",2040,134.19642812
+"42","Europe","Ref","iron and steel","Mt",2040,177.94691812
+"43","Europe","1p5 delay","iron and steel","Mt",2045,124.86220198
+"44","Europe","1p5","iron and steel","Mt",2045,124.54273977
+"45","Europe","Ref","iron and steel","Mt",2045,175.37695364
+"46","Europe","1p5 delay","iron and steel","Mt",2050,113.5889704519
+"47","Europe","1p5","iron and steel","Mt",2050,113.9289974986
+"48","Europe","Ref","iron and steel","Mt",2050,171.53752895
+"49","Global","1p5 delay","iron and steel","Mt",2015,1619.7432
+"50","Global","1p5","iron and steel","Mt",2015,1619.7432
+"51","Global","Ref","iron and steel","Mt",2015,1619.7432
+"52","Global","1p5 delay","iron and steel","Mt",2020,1925.38823053971
+"53","Global","1p5","iron and steel","Mt",2020,1925.38770314154
+"54","Global","Ref","iron and steel","Mt",2020,1947.70355295501
+"55","Global","1p5 delay","iron and steel","Mt",2025,2033.09549183925
+"56","Global","1p5","iron and steel","Mt",2025,1872.86961949517
+"57","Global","Ref","iron and steel","Mt",2025,2137.61787277208
+"58","Global","1p5 delay","iron and steel","Mt",2030,2075.93990179032
+"59","Global","1p5","iron and steel","Mt",2030,1900.07460953255
+"60","Global","Ref","iron and steel","Mt",2030,2259.4124892873
+"61","Global","1p5 delay","iron and steel","Mt",2035,1953.97658269251
+"62","Global","1p5","iron and steel","Mt",2035,1913.43166838456
+"63","Global","Ref","iron and steel","Mt",2035,2342.11925055707
+"64","Global","1p5 delay","iron and steel","Mt",2040,1943.14479347827
+"65","Global","1p5","iron and steel","Mt",2040,1925.36152833659
+"66","Global","Ref","iron and steel","Mt",2040,2422.26835440122
+"67","Global","1p5 delay","iron and steel","Mt",2045,1919.06103690731
+"68","Global","1p5","iron and steel","Mt",2045,1901.6772235894
+"69","Global","Ref","iron and steel","Mt",2045,2476.69857970277
+"70","Global","1p5 delay","iron and steel","Mt",2050,1847.04100913947
+"71","Global","1p5","iron and steel","Mt",2050,1849.0109838798
+"72","Global","Ref","iron and steel","Mt",2050,2503.87013294072
+"73","India","1p5 delay","iron and steel","Mt",2015,89
+"74","India","1p5","iron and steel","Mt",2015,89
+"75","India","Ref","iron and steel","Mt",2015,89
+"76","India","1p5 delay","iron and steel","Mt",2020,117.521838
+"77","India","1p5","iron and steel","Mt",2020,117.521809
+"78","India","Ref","iron and steel","Mt",2020,117.71725
+"79","India","1p5 delay","iron and steel","Mt",2025,210.046058
+"80","India","1p5","iron and steel","Mt",2025,204.481397
+"81","India","Ref","iron and steel","Mt",2025,216.586077
+"82","India","1p5 delay","iron and steel","Mt",2030,282.3156099
+"83","India","1p5","iron and steel","Mt",2030,268.4467103
+"84","India","Ref","iron and steel","Mt",2030,299.4486634
+"85","India","1p5 delay","iron and steel","Mt",2035,333.0881486
+"86","India","1p5","iron and steel","Mt",2035,324.8153953
+"87","India","Ref","iron and steel","Mt",2035,380.038664
+"88","India","1p5 delay","iron and steel","Mt",2040,378.5657815
+"89","India","1p5","iron and steel","Mt",2040,371.9136943
+"90","India","Ref","iron and steel","Mt",2040,455.0453532
+"91","India","1p5 delay","iron and steel","Mt",2045,411.56149162
+"92","India","1p5","iron and steel","Mt",2045,406.885150858
+"93","India","Ref","iron and steel","Mt",2045,520.5037617
+"94","India","1p5 delay","iron and steel","Mt",2050,434.17268490184
+"95","India","1p5","iron and steel","Mt",2050,434.172506470182
+"96","India","Ref","iron and steel","Mt",2050,573.289678
+"97","Japan","1p5 delay","iron and steel","Mt",2015,105.12
+"98","Japan","1p5","iron and steel","Mt",2015,105.12
+"99","Japan","Ref","iron and steel","Mt",2015,105.12
+"100","Japan","1p5 delay","iron and steel","Mt",2020,99.10123647
+"101","Japan","1p5","iron and steel","Mt",2020,99.10105742
+"102","Japan","Ref","iron and steel","Mt",2020,99.23736194
+"103","Japan","1p5 delay","iron and steel","Mt",2025,91.24700748
+"104","Japan","1p5","iron and steel","Mt",2025,82.21888605
+"105","Japan","Ref","iron and steel","Mt",2025,97.94110019
+"106","Japan","1p5 delay","iron and steel","Mt",2030,85.02539984
+"107","Japan","1p5","iron and steel","Mt",2030,75.65424991
+"108","Japan","Ref","iron and steel","Mt",2030,94.87954976
+"109","Japan","1p5 delay","iron and steel","Mt",2035,72.7919303
+"110","Japan","1p5","iron and steel","Mt",2035,70.93148056
+"111","Japan","Ref","iron and steel","Mt",2035,91.85843562
+"112","Japan","1p5 delay","iron and steel","Mt",2040,67.8475811
+"113","Japan","1p5","iron and steel","Mt",2040,67.2476741
+"114","Japan","Ref","iron and steel","Mt",2040,88.87010279
+"115","Japan","1p5 delay","iron and steel","Mt",2045,64.4142901
+"116","Japan","1p5","iron and steel","Mt",2045,63.779205
+"117","Japan","Ref","iron and steel","Mt",2045,85.8901473
+"118","Japan","1p5 delay","iron and steel","Mt",2050,57.71737445
+"119","Japan","1p5","iron and steel","Mt",2050,57.945563913
+"120","Japan","Ref","iron and steel","Mt",2050,82.879311
+"121","ROW","1p5 delay","iron and steel","Mt",2015,307.329
+"122","ROW","1p5","iron and steel","Mt",2015,307.329
+"123","ROW","Ref","iron and steel","Mt",2015,307.329
+"124","ROW","1p5 delay","iron and steel","Mt",2020,338.693047249714
+"125","ROW","1p5","iron and steel","Mt",2020,338.692678981542
+"126","ROW","Ref","iron and steel","Mt",2020,338.08197524501
+"127","ROW","1p5 delay","iron and steel","Mt",2025,379.991840899251
+"128","ROW","1p5","iron and steel","Mt",2025,357.676675245169
+"129","ROW","Ref","iron and steel","Mt",2025,390.102927562083
+"130","ROW","1p5 delay","iron and steel","Mt",2030,432.948668249323
+"131","ROW","1p5","iron and steel","Mt",2030,404.529399643546
+"132","ROW","Ref","iron and steel","Mt",2030,455.957714384298
+"133","ROW","1p5 delay","iron and steel","Mt",2035,463.251846689511
+"134","ROW","1p5","iron and steel","Mt",2035,454.625606386559
+"135","ROW","Ref","iron and steel","Mt",2035,523.713621469066
+"136","ROW","1p5 delay","iron and steel","Mt",2040,505.16212464827
+"137","ROW","1p5","iron and steel","Mt",2040,499.832534346593
+"138","ROW","Ref","iron and steel","Mt",2040,594.346261941221
+"139","ROW","1p5 delay","iron and steel","Mt",2045,543.885555317308
+"140","ROW","1p5","iron and steel","Mt",2045,537.367318676403
+"141","ROW","Ref","iron and steel","Mt",2045,664.622601882766
+"142","ROW","1p5 delay","iron and steel","Mt",2050,565.861391185825
+"143","ROW","1p5","iron and steel","Mt",2050,566.341930467965
+"144","ROW","Ref","iron and steel","Mt",2050,731.331852190721
+"145","South Korea","1p5 delay","iron and steel","Mt",2015,69.7
+"146","South Korea","1p5","iron and steel","Mt",2015,69.7
+"147","South Korea","Ref","iron and steel","Mt",2015,69.7
+"148","South Korea","1p5 delay","iron and steel","Mt",2020,71.25226604
+"149","South Korea","1p5","iron and steel","Mt",2020,71.25217692
+"150","South Korea","Ref","iron and steel","Mt",2020,72.3585608
+"151","South Korea","1p5 delay","iron and steel","Mt",2025,68.12616163
+"152","South Korea","1p5","iron and steel","Mt",2025,62.08152707
+"153","South Korea","Ref","iron and steel","Mt",2025,71.88020274
+"154","South Korea","1p5 delay","iron and steel","Mt",2030,64.19402874
+"155","South Korea","1p5","iron and steel","Mt",2030,57.65551355
+"156","South Korea","Ref","iron and steel","Mt",2030,70.77174508
+"157","South Korea","1p5 delay","iron and steel","Mt",2035,53.88895066
+"158","South Korea","1p5","iron and steel","Mt",2035,52.82746989
+"159","South Korea","Ref","iron and steel","Mt",2035,68.60785466
+"160","South Korea","1p5 delay","iron and steel","Mt",2040,48.3368586
+"161","South Korea","1p5","iron and steel","Mt",2040,48.01647228
+"162","South Korea","Ref","iron and steel","Mt",2040,65.40075315
+"163","South Korea","1p5 delay","iron and steel","Mt",2045,43.00496491
+"164","South Korea","1p5","iron and steel","Mt",2045,42.839546806
+"165","South Korea","Ref","iron and steel","Mt",2045,61.396333
+"166","South Korea","1p5 delay","iron and steel","Mt",2050,38.0351671857
+"167","South Korea","1p5","iron and steel","Mt",2050,38.0405658114
+"168","South Korea","Ref","iron and steel","Mt",2050,56.8264285
+"169","US","1p5 delay","iron and steel","Mt",2015,78.9
+"170","US","1p5","iron and steel","Mt",2015,78.9
+"171","US","Ref","iron and steel","Mt",2015,78.9
+"172","US","1p5 delay","iron and steel","Mt",2020,88.62585979
+"173","US","1p5","iron and steel","Mt",2020,88.62585973
+"174","US","Ref","iron and steel","Mt",2020,88.9365768
+"175","US","1p5 delay","iron and steel","Mt",2025,86.19903932
+"176","US","1p5","iron and steel","Mt",2025,82.27776394
+"177","US","Ref","iron and steel","Mt",2025,93.23137958
+"178","US","1p5 delay","iron and steel","Mt",2030,86.02888633
+"179","US","1p5","iron and steel","Mt",2030,81.44993018
+"180","US","Ref","iron and steel","Mt",2030,96.22398149
+"181","US","1p5 delay","iron and steel","Mt",2035,81.391642673
+"182","US","1p5","iron and steel","Mt",2035,80.346778846
+"183","US","Ref","iron and steel","Mt",2035,98.268723416
+"184","US","1p5 delay","iron and steel","Mt",2040,79.17810081
+"185","US","1p5","iron and steel","Mt",2040,78.83032419
+"186","US","Ref","iron and steel","Mt",2040,99.59508022
+"187","US","1p5 delay","iron and steel","Mt",2045,76.72847798
+"188","US","1p5","iron and steel","Mt",2045,76.314150979
+"189","US","Ref","iron and steel","Mt",2045,100.3188485
+"190","US","1p5 delay","iron and steel","Mt",2050,73.0853843772
+"191","US","1p5","iron and steel","Mt",2050,73.14624839075
+"192","US","Ref","iron and steel","Mt",2050,100.5535635

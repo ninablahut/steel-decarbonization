@@ -1,0 +1,65 @@
+"","region","scenario","sector","Units","year","value"
+"1","China","0_1p5C","iron and steel","MTCO2",2050,23.0194806026621
+"2","China","0_1p5C_delay","iron and steel","MTCO2",2050,22.7260333068769
+"3","China","1_1p5C","iron and steel","MTCO2",2050,23.0042719231406
+"4","China","1_1p5C_delay","iron and steel","MTCO2",2050,22.7080035157136
+"5","China","2_1p5C","iron and steel","MTCO2",2050,23.3286639494438
+"6","China","2_1p5C_delay","iron and steel","MTCO2",2050,23.3764100109373
+"7","China","3_1p5C","iron and steel","MTCO2",2050,23.0232618216138
+"8","China","3_1p5C_delay","iron and steel","MTCO2",2050,22.7262221512298
+"9","EU-27","0_1p5C","iron and steel","MTCO2",2050,3.62282892826407
+"10","EU-27","0_1p5C_delay","iron and steel","MTCO2",2050,3.51113197721619
+"11","EU-27","1_1p5C","iron and steel","MTCO2",2050,3.62039340566561
+"12","EU-27","1_1p5C_delay","iron and steel","MTCO2",2050,3.50836148711648
+"13","EU-27","2_1p5C","iron and steel","MTCO2",2050,3.6045425789657
+"14","EU-27","2_1p5C_delay","iron and steel","MTCO2",2050,3.49496217179072
+"15","EU-27","3_1p5C","iron and steel","MTCO2",2050,3.62360813940209
+"16","EU-27","3_1p5C_delay","iron and steel","MTCO2",2050,3.51160168358588
+"17","Global","0_1p5C","iron and steel","MTCO2",2050,97.0361870783451
+"18","Global","0_1p5C_delay","iron and steel","MTCO2",2050,101.619267346158
+"19","Global","1_1p5C","iron and steel","MTCO2",2050,104.160019081603
+"20","Global","1_1p5C_delay","iron and steel","MTCO2",2050,108.463955054228
+"21","Global","2_1p5C","iron and steel","MTCO2",2050,102.699366994504
+"22","Global","2_1p5C_delay","iron and steel","MTCO2",2050,107.958630661433
+"23","Global","3_1p5C","iron and steel","MTCO2",2050,97.4017107028581
+"24","Global","3_1p5C_delay","iron and steel","MTCO2",2050,101.904068057285
+"25","India","0_1p5C","iron and steel","MTCO2",2050,33.4523675683263
+"26","India","0_1p5C_delay","iron and steel","MTCO2",2050,34.5318532976003
+"27","India","1_1p5C","iron and steel","MTCO2",2050,37.6736215345471
+"28","India","1_1p5C_delay","iron and steel","MTCO2",2050,38.2539665058852
+"29","India","2_1p5C","iron and steel","MTCO2",2050,33.9051441038118
+"30","India","2_1p5C_delay","iron and steel","MTCO2",2050,35.1770392093484
+"31","India","3_1p5C","iron and steel","MTCO2",2050,33.7017862533349
+"32","India","3_1p5C_delay","iron and steel","MTCO2",2050,34.7163780357919
+"33","Japan","0_1p5C","iron and steel","MTCO2",2050,4.55063029749765
+"34","Japan","0_1p5C_delay","iron and steel","MTCO2",2050,4.50145296425794
+"35","Japan","1_1p5C","iron and steel","MTCO2",2050,4.54910524122433
+"36","Japan","1_1p5C_delay","iron and steel","MTCO2",2050,4.50034073133279
+"37","Japan","2_1p5C","iron and steel","MTCO2",2050,4.53857335066113
+"38","Japan","2_1p5C_delay","iron and steel","MTCO2",2050,4.49047616736191
+"39","Japan","3_1p5C","iron and steel","MTCO2",2050,4.55083644309826
+"40","Japan","3_1p5C_delay","iron and steel","MTCO2",2050,4.50168366599456
+"41","ROW","0_1p5C","iron and steel","MTCO2",2050,29.3550951456603
+"42","ROW","0_1p5C_delay","iron and steel","MTCO2",2050,33.0608878692181
+"43","ROW","1_1p5C","iron and steel","MTCO2",2050,32.280722063581
+"44","ROW","1_1p5C_delay","iron and steel","MTCO2",2050,36.209113958919
+"45","ROW","2_1p5C","iron and steel","MTCO2",2050,35.7826552175461
+"46","ROW","2_1p5C_delay","iron and steel","MTCO2",2050,39.9295623736551
+"47","ROW","3_1p5C","iron and steel","MTCO2",2050,29.4663289968693
+"48","ROW","3_1p5C_delay","iron and steel","MTCO2",2050,33.1603533230203
+"49","South Korea","0_1p5C","iron and steel","MTCO2",2050,2.06688609677372
+"50","South Korea","0_1p5C_delay","iron and steel","MTCO2",2050,2.31612722075411
+"51","South Korea","1_1p5C","iron and steel","MTCO2",2050,2.06392779292022
+"52","South Korea","1_1p5C_delay","iron and steel","MTCO2",2050,2.31341659087411
+"53","South Korea","2_1p5C","iron and steel","MTCO2",2050,0.579394620936839
+"54","South Korea","2_1p5C_delay","iron and steel","MTCO2",2050,0.525004849934292
+"55","South Korea","3_1p5C","iron and steel","MTCO2",2050,2.06670466961035
+"56","South Korea","3_1p5C_delay","iron and steel","MTCO2",2050,2.31596493792188
+"57","US","0_1p5C","iron and steel","MTCO2",2050,0.968898439160932
+"58","US","0_1p5C_delay","iron and steel","MTCO2",2050,0.97178071023452
+"59","US","1_1p5C","iron and steel","MTCO2",2050,0.967977120524476
+"60","US","1_1p5C_delay","iron and steel","MTCO2",2050,0.97075226438711
+"61","US","2_1p5C","iron and steel","MTCO2",2050,0.960393173138458
+"62","US","2_1p5C_delay","iron and steel","MTCO2",2050,0.965175878405629
+"63","US","3_1p5C","iron and steel","MTCO2",2050,0.969184378929379
+"64","US","3_1p5C_delay","iron and steel","MTCO2",2050,0.971864259740859

@@ -1,0 +1,65 @@
+region,scenario,sector,Units,year,value
+China,1p5,iron and steel,MTCO2,2015,1600.981104
+China,1p5,iron and steel,MTCO2,2020,2052.778755
+China,1p5,iron and steel,MTCO2,2025,1622.120288
+China,1p5,iron and steel,MTCO2,2030,995.0458572
+China,1p5,iron and steel,MTCO2,2035,402.3612426
+China,1p5,iron and steel,MTCO2,2040,123.0215254
+China,1p5,iron and steel,MTCO2,2045,42.14613934
+China,1p5,iron and steel,MTCO2,2050,18.81395504
+EU-27,1p5,iron and steel,MTCO2,2015,173.4255907
+EU-27,1p5,iron and steel,MTCO2,2020,175.6678909
+EU-27,1p5,iron and steel,MTCO2,2025,139.3599261
+EU-27,1p5,iron and steel,MTCO2,2030,89.66963335
+EU-27,1p5,iron and steel,MTCO2,2035,44.71398798
+EU-27,1p5,iron and steel,MTCO2,2040,20.75256043
+EU-27,1p5,iron and steel,MTCO2,2045,5.854128925
+EU-27,1p5,iron and steel,MTCO2,2050,3.048940246
+Global,1p5,iron and steel,MTCO2,2015,2832.45585
+Global,1p5,iron and steel,MTCO2,2020,3373.128399
+Global,1p5,iron and steel,MTCO2,2025,2636.982641
+Global,1p5,iron and steel,MTCO2,2030,1648.477438
+Global,1p5,iron and steel,MTCO2,2035,785.8223793
+Global,1p5,iron and steel,MTCO2,2040,362.8338114
+Global,1p5,iron and steel,MTCO2,2045,145.1237669
+Global,1p5,iron and steel,MTCO2,2050,59.94244423
+India,1p5,iron and steel,MTCO2,2015,267.2200015
+India,1p5,iron and steel,MTCO2,2020,336.1962617
+India,1p5,iron and steel,MTCO2,2025,266.7832781
+India,1p5,iron and steel,MTCO2,2030,180.4497158
+India,1p5,iron and steel,MTCO2,2035,142.654094
+India,1p5,iron and steel,MTCO2,2040,112.7947733
+India,1p5,iron and steel,MTCO2,2045,44.1891245
+India,1p5,iron and steel,MTCO2,2050,15.08095774
+Japan,1p5,iron and steel,MTCO2,2015,154.3906427
+Japan,1p5,iron and steel,MTCO2,2020,145.4268398
+Japan,1p5,iron and steel,MTCO2,2025,110.0428763
+Japan,1p5,iron and steel,MTCO2,2030,70.30292933
+Japan,1p5,iron and steel,MTCO2,2035,33.86158339
+Japan,1p5,iron and steel,MTCO2,2040,15.16824658
+Japan,1p5,iron and steel,MTCO2,2045,6.4005192
+Japan,1p5,iron and steel,MTCO2,2050,3.610442042
+ROW,1p5,iron and steel,MTCO2,2015,476.2501638
+ROW,1p5,iron and steel,MTCO2,2020,494.9895446
+ROW,1p5,iron and steel,MTCO2,2025,376.4914771
+ROW,1p5,iron and steel,MTCO2,2030,241.8406381
+ROW,1p5,iron and steel,MTCO2,2035,132.0595482
+ROW,1p5,iron and steel,MTCO2,2040,80.54351617
+ROW,1p5,iron and steel,MTCO2,2045,43.58041788
+ROW,1p5,iron and steel,MTCO2,2050,18.37202379
+South Korea,1p5,iron and steel,MTCO2,2015,89.06070838
+South Korea,1p5,iron and steel,MTCO2,2020,90.22349189
+South Korea,1p5,iron and steel,MTCO2,2025,68.84530144
+South Korea,1p5,iron and steel,MTCO2,2030,43.10279319
+South Korea,1p5,iron and steel,MTCO2,2035,20.45089936
+South Korea,1p5,iron and steel,MTCO2,2040,7.919488501
+South Korea,1p5,iron and steel,MTCO2,2045,1.526144465
+South Korea,1p5,iron and steel,MTCO2,2050,0.427593649
+US,1p5,iron and steel,MTCO2,2015,71.12763861
+US,1p5,iron and steel,MTCO2,2020,77.84561438
+US,1p5,iron and steel,MTCO2,2025,53.3394946
+US,1p5,iron and steel,MTCO2,2030,28.06587065
+US,1p5,iron and steel,MTCO2,2035,9.721023714
+US,1p5,iron and steel,MTCO2,2040,2.633701062
+US,1p5,iron and steel,MTCO2,2045,1.427292621
+US,1p5,iron and steel,MTCO2,2050,0.588531715

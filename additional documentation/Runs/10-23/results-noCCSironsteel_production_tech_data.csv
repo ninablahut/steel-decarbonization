@@ -1,0 +1,1249 @@
+"","region","scenario","sector","subsector","output","technology","Units","year","value"
+"1","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"2","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"3","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"4","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,756
+"5","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,756
+"6","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,756
+"7","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"8","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"9","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"10","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,2.37
+"11","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,2.37
+"12","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,2.37
+"13","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,45.1
+"14","China","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,45.1
+"15","China","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,45.1
+"16","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"17","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"18","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"19","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.448965
+"20","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.449007
+"21","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.510233
+"22","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,955.175
+"23","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,955.176
+"24","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,998.34
+"25","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"26","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"27","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"28","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,12.750643
+"29","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,12.749889
+"30","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,1.444071
+"31","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,70.672
+"32","China","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,70.672
+"33","China","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,58.7171
+"34","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"35","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"36","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"37","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,2.422767
+"38","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,19.076387
+"39","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,3.103536
+"40","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,912.352
+"41","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,758.957
+"42","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,1023.003
+"43","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,2.16904
+"44","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,2.72585
+"45","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.902691
+"46","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,12.617839
+"47","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,14.130104
+"48","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,1.1660406
+"49","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,95.5276
+"50","China","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,117.0238
+"51","China","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,59.9876
+"52","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,4.05355
+"53","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,14.5866
+"54","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.0804861
+"55","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,5.665651
+"56","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,44.108586
+"57","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,8.338814
+"58","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,769.063
+"59","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,479.69
+"60","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,986.575
+"61","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,10.43953
+"62","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,13.98497
+"63","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,5.181606
+"64","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,17.9675307
+"65","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,18.312991
+"66","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,1.2825665
+"67","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,147.39336
+"68","China","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,234.51871
+"69","China","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,59.11328
+"70","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,13.91671
+"71","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,71.3415
+"72","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,0.20234295
+"73","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,22.1664191
+"74","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,45.26704
+"75","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,14.2578222
+"76","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,439.2651
+"77","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,214.1881
+"78","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,912.3865
+"79","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,23.54135
+"80","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,25.23564
+"81","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,15.015001
+"82","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,15.33363
+"83","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,13.110914
+"84","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,1.1158048
+"85","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,242.38678
+"86","China","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,351.23493
+"87","China","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,56.47644
+"88","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,63.31975
+"89","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,138.86736
+"90","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,0.31701436
+"91","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,18.186737
+"92","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,28.491719
+"93","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,18.055617
+"94","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,209.5694
+"95","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,85.56526
+"96","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,844.3134
+"97","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,20.528908
+"98","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,19.953855
+"99","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,23.941355
+"100","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,9.134949
+"101","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,5.236157
+"102","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,0.8199821
+"103","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,346.33064
+"104","China","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,408.1838
+"105","China","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,53.54917
+"106","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,125.724821
+"107","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,177.89361
+"108","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,0.38436088
+"109","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,10.930634
+"110","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,10.973129
+"111","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,20.14144
+"112","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,60.758888
+"113","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,10.791575
+"114","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,765.8903
+"115","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,13.00664
+"116","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,9.55541
+"117","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,31.663638
+"118","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,1.849373
+"119","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,0.3923975
+"120","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,0.6940703
+"121","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,396.3235
+"122","China","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,419.1082
+"123","China","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,49.72547
+"124","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,171.73502
+"125","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,199.1284
+"126","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,0.47501538
+"127","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.19378799
+"128","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.18434038
+"129","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,20.76281
+"130","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.03604657
+"131","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.036227483
+"132","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,682.9585
+"133","China","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.2247936
+"134","China","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.238409
+"135","China","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,37.43478
+"136","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,0.003948427
+"137","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,0.0051944649
+"138","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,0.5627904
+"139","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,373.5243
+"140","China","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,371.8489
+"141","China","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,45.18811
+"142","China","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,190.59716
+"143","China","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,193.1221
+"144","China","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,0.5447804
+"145","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"146","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"147","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"148","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,100.91
+"149","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,100.91
+"150","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,100.91
+"151","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"152","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"153","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"154","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,28.7361
+"155","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,28.7361
+"156","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,28.7361
+"157","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,36.5781
+"158","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,36.5781
+"159","Europe","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,36.5781
+"160","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"161","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"162","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"163","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.00895099
+"164","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.00895209
+"165","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.01000317
+"166","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,102.22023
+"167","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,102.22057
+"168","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,104.4997
+"169","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"170","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"171","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"172","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,30.212172
+"173","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,30.211763
+"174","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,29.713684
+"175","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,38.706022
+"176","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,38.70594
+"177","Europe","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,38.137037
+"178","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"179","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"180","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"181","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.10107801
+"182","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.54081739
+"183","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.135994
+"184","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,96.27481
+"185","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,78.64451
+"186","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,109.74011
+"187","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.1112865
+"188","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.0851798
+"189","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.0487858
+"190","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,29.858293
+"191","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,29.912874
+"192","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,30.017493
+"193","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,40.989845
+"194","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,46.577154
+"195","Europe","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,39.465554
+"196","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,1.007276
+"197","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,1.873094
+"198","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.2248952
+"199","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.251861131
+"200","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,1.213161849
+"201","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.372307323
+"202","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,82.480398
+"203","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,48.061935
+"204","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,110.97743
+"205","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.5234609
+"206","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.3863931
+"207","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.2598069
+"208","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,28.639045
+"209","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,28.167275
+"210","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,28.995357
+"211","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,45.89642
+"212","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,64.414803
+"213","Europe","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,40.262275
+"214","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,3.190342
+"215","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,8.138481
+"216","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,0.5700495
+"217","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,0.87881817
+"218","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,1.378547802
+"219","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,0.634584572
+"220","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,50.029001
+"221","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,22.376868
+"222","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,109.666052
+"223","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.9960608
+"224","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.7930312
+"225","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.7299305
+"226","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,26.3342948
+"227","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,24.963445
+"228","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,27.8412106
+"229","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,57.7062499
+"230","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,78.3124774
+"231","Europe","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,40.5171382
+"232","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,7.60661
+"233","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,14.156584
+"234","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,0.67445316
+"235","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,0.88341862
+"236","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,1.000166
+"237","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,0.80339356
+"238","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,27.998537
+"239","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,11.892226
+"240","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,107.83262
+"241","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,1.2293439
+"242","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,0.89242112
+"243","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,1.16278305
+"244","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,23.566505
+"245","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,20.62752
+"246","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,27.036841
+"247","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,68.673257
+"248","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,82.600262
+"249","Europe","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,40.433541
+"250","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,12.2278303
+"251","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,17.183833
+"252","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,0.67773951
+"253","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.55656828
+"254","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.38251862
+"255","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.9255551
+"256","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,10.0070319
+"257","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,2.67019508
+"258","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,105.18116
+"259","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,0.7932124
+"260","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,0.36623107
+"261","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,1.6095561
+"262","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,16.621814
+"263","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,9.94762
+"264","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,26.262249
+"265","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,78.359447
+"266","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,88.75606
+"267","Europe","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,40.632295
+"268","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,18.5241284
+"269","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,22.420115
+"270","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,0.76613844
+"271","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.0043635333
+"272","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.0043334976
+"273","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.983692
+"274","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.0182844716
+"275","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.0166471015
+"276","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,102.09903
+"277","Europe","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.006431977
+"278","Europe","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.0064172695
+"279","Europe","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,1.9765008
+"280","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,0.49030347
+"281","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,0.50088863
+"282","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,25.299693
+"283","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,83.616939
+"284","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,85.509101
+"285","Europe","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,40.374405
+"286","Europe","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,29.452648
+"287","Europe","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,27.89161
+"288","Europe","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,0.80420815
+"289","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"290","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"291","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"292","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,1215.239
+"293","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,1215.239
+"294","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,1215.239
+"295","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2015,0
+"296","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2015,0
+"297","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2015,0
+"298","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"299","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"300","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"301","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,212.0759
+"302","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,212.0759
+"303","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,212.0759
+"304","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2015,0
+"305","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2015,0
+"306","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2015,0
+"307","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,192.4283
+"308","Global","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,192.4283
+"309","Global","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,192.4283
+"310","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"311","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"312","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"313","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.8598053928
+"314","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.859886897597
+"315","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.89895801750973
+"316","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,1435.875971737
+"317","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,1435.87739009
+"318","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,1485.651904423
+"319","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2020,0
+"320","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2020,0
+"321","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2020,0.00568369
+"322","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"323","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"324","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"325","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,252.28386888987
+"326","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,252.28220742094
+"327","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,238.9025520314
+"328","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2020,0
+"329","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2020,0
+"330","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2020,0.000297959
+"331","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,236.368584520044
+"332","Global","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,236.368218733005
+"333","Global","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,222.2441568341
+"334","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"335","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"336","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"337","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,6.630094330252
+"338","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,80.768639568537
+"339","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,8.43444700802024
+"340","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,1407.21421598459
+"341","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,1125.36453670277
+"342","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,1565.290755121
+"343","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2025,0
+"344","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2025,0.99593
+"345","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2025,0.0680360854289
+"346","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,7.4145270249
+"347","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,12.67265441676
+"348","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,2.964390242284
+"349","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,305.788072008392
+"350","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,293.412306751763
+"351","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,306.9957625993
+"352","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2025,0
+"353","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2025,0.467642
+"354","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2025,0.006611547449593
+"355","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,290.341740968116
+"356","Global","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,325.197999127339
+"357","Global","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,250.6593377626
+"358","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,15.706841523
+"359","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,33.989910928
+"360","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,3.198532406
+"361","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,13.906330602842
+"362","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,134.170318999886
+"363","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,20.2322056757111
+"364","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,1249.92089196409
+"365","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,721.093161041516
+"366","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,1566.750187308
+"367","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2030,0
+"368","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2030,4.704168
+"369","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2030,0.215191089496841
+"370","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,32.0928597436
+"371","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,45.83697522043
+"372","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,15.6098923281344
+"373","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,346.462885310532
+"374","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,325.386397940127
+"375","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,367.928914268
+"376","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2030,0
+"377","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2030,1.829805
+"378","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2030,0.03484553145597
+"379","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,385.442434007405
+"380","Global","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,524.20364292103
+"381","Global","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,279.5562772535
+"382","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,48.1145001618508
+"383","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,142.850140409557
+"384","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,9.084975833
+"385","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,55.838092360088
+"386","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,128.492434420677
+"387","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,31.9700289383896
+"388","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,761.691345614198
+"389","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,362.84769077327
+"390","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,1514.0617543335
+"391","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2035,2.1944
+"392","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2035,8.183589
+"393","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2035,0.448138732558534
+"394","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,81.14364465323
+"395","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,80.757319774729
+"396","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,44.8348341754401
+"397","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,365.615311361376
+"398","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,345.188571972189
+"399","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,430.7710013978
+"400","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2035,1.56483
+"401","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2035,3.817681
+"402","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2035,0.12546055837744
+"403","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,550.889657312936
+"404","Global","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,726.965443204185
+"405","Global","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,306.401855757
+"406","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,135.039301390684
+"407","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,257.178938239509
+"408","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,13.506176664
+"409","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,52.51145061366
+"410","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,83.934739881192
+"411","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,39.5062389616026
+"412","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,413.699776892712
+"413","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,195.455252904241
+"414","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,1457.749428873
+"415","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2040,3.86394
+"416","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2040,8.320766
+"417","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2040,0.761141397162673
+"418","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,94.57516663125
+"419","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,81.151047492313
+"420","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,75.8749961422362
+"421","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,389.955960086855
+"422","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,361.305505044037
+"423","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,500.7895806664
+"424","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2040,3.62955
+"425","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2040,5.2086566
+"426","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2040,0.3615812051198
+"427","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,741.681836512717
+"428","Global","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,857.524719847614
+"429","Global","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,329.54987189
+"430","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,243.227112741076
+"431","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,332.460840567196
+"432","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,17.6755152657
+"433","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,35.439673525179
+"434","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,34.5286736305528
+"435","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,43.8168223767453
+"436","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,165.650219184188
+"437","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,78.2221476510092
+"438","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,1379.821444367
+"439","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2045,3.392763
+"440","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2045,5.582339
+"441","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2045,1.1808653430663
+"442","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,69.769731515952
+"443","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,46.7389563903068
+"444","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,108.335233609545
+"445","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,366.779483556879
+"446","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,306.237802265135
+"447","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,568.1601146787
+"448","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2045,6.374482
+"449","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2045,7.262449
+"450","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2045,0.85398965780919
+"451","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,915.02130546745
+"452","Global","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,994.8961067061
+"453","Global","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,350.4630293915
+"454","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,356.63337865766
+"455","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,428.2087489463
+"456","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,24.0670802784
+"457","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,2.98997593648917
+"458","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,2.41634050689402
+"459","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,45.3632028884423
+"460","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,51.8484797706698
+"461","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,50.8526362516886
+"462","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,1289.677945528
+"463","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2050,2.230001
+"464","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2050,2.842063
+"465","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2050,1.66689967123064
+"466","Global","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,6.97919891928146
+"467","Global","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,5.88162731780814
+"468","Global","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,137.076030678609
+"469","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,147.847692284665
+"470","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,145.757750841516
+"471","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,629.2692707182
+"472","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2050,7.896777
+"473","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2050,8.052148
+"474","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2050,1.6967587105393
+"475","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,1040.09934954286
+"476","Global","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,1053.61040964769
+"477","Global","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,367.4023373163
+"478","Global","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,587.1495346855
+"479","Global","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,579.5980083142
+"480","Global","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,31.7176874294
+"481","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"482","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"483","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"484","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,38.2
+"485","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,38.2
+"486","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,38.2
+"487","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"488","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"489","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"490","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,38.6
+"491","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,38.6
+"492","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,38.6
+"493","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,12.2
+"494","India","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,12.2
+"495","India","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,12.2
+"496","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"497","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"498","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"499","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.125908
+"500","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.125919
+"501","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.14048
+"502","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,47.3287
+"503","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,47.3287
+"504","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,49.0875
+"505","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"506","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"507","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"508","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,53.5113
+"509","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,53.5113
+"510","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,52.2975
+"511","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,16.55593
+"512","India","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,16.55589
+"513","India","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,16.19177
+"514","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"515","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"516","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"517","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,2.014468
+"518","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,46.900907
+"519","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,2.68977
+"520","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,69.9656
+"521","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,27.38342
+"522","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,82.2259
+"523","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,2.49896
+"524","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,7.53255
+"525","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,1.02482
+"526","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,100.7988
+"527","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,88.9449
+"528","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,99.7047
+"529","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,32.58054
+"530","India","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,30.57495
+"531","India","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,30.54255
+"532","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,2.18769
+"533","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,3.14467
+"534","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.398337
+"535","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,3.5234599
+"536","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,62.6500103
+"537","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,5.4293074
+"538","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,78.55889
+"539","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,11.60261
+"540","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,105.75468
+"541","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,10.78148
+"542","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,23.43954
+"543","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,5.534299
+"544","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,133.93859
+"545","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,110.85835
+"546","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,137.23806
+"547","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,48.63786
+"548","India","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,47.83682
+"549","India","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,44.3075
+"550","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,6.87533
+"551","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,12.05938
+"552","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,1.184817
+"553","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,15.7100586
+"554","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,53.5482063
+"555","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,7.812177
+"556","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,40.20943
+"557","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,3.540939
+"558","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,121.54881
+"559","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,36.20423
+"560","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,38.45725
+"561","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,17.726842
+"562","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,156.7277
+"563","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,134.54102
+"564","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,173.10822
+"565","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,67.03259
+"566","India","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,71.07265
+"567","India","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,57.86912
+"568","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,17.20414
+"569","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,23.65533
+"570","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,1.973495
+"571","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,15.7100105
+"572","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,33.9275228
+"573","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,9.398107
+"574","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,11.760536
+"575","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,0.6067995
+"576","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,130.06017
+"577","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,46.166805
+"578","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,39.58906
+"579","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,33.197359
+"580","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,179.54862
+"581","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,159.71798
+"582","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,210.72483
+"583","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,92.46372
+"584","India","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,100.91967
+"585","India","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,68.95531
+"586","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,32.91609
+"587","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,37.152662
+"588","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,2.7095772
+"589","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,11.788112
+"590","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,14.166591
+"591","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,10.13611
+"592","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,0.42415962
+"593","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,0.006326858
+"594","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,132.56095
+"595","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,34.81716
+"596","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,23.61862
+"597","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,51.465165
+"598","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,176.2651
+"599","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,141.7069
+"600","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,244.4461
+"601","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,129.9292
+"602","India","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,153.72081
+"603","India","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,78.40922
+"604","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,58.33776
+"605","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,73.665903
+"606","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,3.4862167
+"607","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.4423587
+"608","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.6349745
+"609","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,10.219939
+"610","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.00018620184
+"611","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.0001949701818
+"612","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,130.26047
+"613","India","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,1.2156
+"614","India","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,1.224209
+"615","India","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,69.04499
+"616","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,38.28828
+"617","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,39.77942
+"618","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,273.43919
+"619","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,215.47819
+"620","India","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,223.9853
+"621","India","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,86.1944
+"622","India","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,178.74807
+"623","India","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,168.548408
+"624","India","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,4.130689
+"625","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"626","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"627","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"628","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,81.1
+"629","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,81.1
+"630","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,81.1
+"631","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"632","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"633","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"634","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,15.6
+"635","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,15.6
+"636","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,15.6
+"637","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,8.42
+"638","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,8.42
+"639","Japan","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,8.42
+"640","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"641","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"642","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"643","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.00714647
+"644","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.00714742
+"645","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.00740194
+"646","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,76.4861
+"647","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,76.486
+"648","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,76.8214
+"649","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"650","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"651","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"652","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,14.49806
+"653","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,14.49802
+"654","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,14.46367
+"655","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,8.10993
+"656","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,8.10989
+"657","Japan","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,7.94489
+"658","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"659","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"660","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"661","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.09223098
+"662","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.64560135
+"663","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.11809099
+"664","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,69.4051
+"665","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,57.47712
+"666","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,75.86039
+"667","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.0988875
+"668","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.0929687
+"669","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.0398192
+"670","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,12.81476
+"671","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,13.78666
+"672","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,13.95397
+"673","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,8.41988
+"674","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,9.37025
+"675","Japan","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,7.859054
+"676","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.416149
+"677","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.846286
+"678","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.109776
+"679","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.27303854
+"680","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,1.95265231
+"681","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.34280296
+"682","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,61.63379
+"683","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,38.04549
+"684","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,73.19673
+"685","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.5667123
+"686","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.6570446
+"687","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.2257193
+"688","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,10.892623
+"689","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,14.168898
+"690","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,13.018068
+"691","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,10.344549
+"692","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,16.492098
+"693","Japan","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,7.809215
+"694","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,1.314687
+"695","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,4.338067
+"696","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,0.2870145
+"697","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,1.5170436
+"698","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,2.45663936
+"699","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,0.59267972
+"700","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,40.23148
+"701","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,21.24203
+"702","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,70.18101
+"703","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,1.5245007
+"704","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,1.6008922
+"705","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.641744
+"706","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,10.395663
+"707","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,13.648738
+"708","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,12.336104
+"709","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,15.766063
+"710","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,24.656852
+"711","Japan","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,7.770715
+"712","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,3.35718
+"713","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,7.326329
+"714","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,0.3361829
+"715","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,1.6558719
+"716","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,1.880552
+"717","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,0.7263364
+"718","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,24.96949
+"719","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,13.3249
+"720","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,67.19047
+"721","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,2.3181462
+"722","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,1.9744231
+"723","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,0.97744699
+"724","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,10.341953
+"725","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,11.67664
+"726","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,12.008604
+"727","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,23.283067
+"728","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,30.093459
+"729","Japan","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,7.653124
+"730","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,5.279053
+"731","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,8.2977
+"732","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,0.3141214
+"733","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,1.0941215
+"734","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.7823115
+"735","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.8321645
+"736","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,9.552651
+"737","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,2.7219737
+"738","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,64.27181
+"739","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,1.6675116
+"740","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,0.9393938
+"741","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,1.3622724
+"742","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,8.074326
+"743","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,6.431001
+"744","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,11.526127
+"745","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,36.15964
+"746","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,41.9805
+"747","Japan","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,7.522377
+"748","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,7.86604
+"749","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,10.924025
+"750","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,0.3753964
+"751","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.01993963
+"752","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.017817771
+"753","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.8756175
+"754","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.02923817
+"755","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.027504112
+"756","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,61.57044
+"757","Japan","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.03433635
+"758","Japan","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.03325803
+"759","Japan","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,1.6912248
+"760","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,0.6889893
+"761","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,0.689262
+"762","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,11.021239
+"763","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,42.1895
+"764","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,42.66631
+"765","Japan","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,7.327477
+"766","Japan","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,14.755371
+"767","Japan","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,14.511412
+"768","Japan","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,0.3933127
+"769","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"770","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"771","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"772","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,161.129
+"773","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,161.129
+"774","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,161.129
+"775","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2015,0
+"776","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"777","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"778","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"779","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,103.7698
+"780","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,103.7698
+"781","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,103.7698
+"782","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2015,0
+"783","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,42.4302
+"784","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,42.4302
+"785","ROW","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,42.4302
+"786","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"787","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"788","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"789","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.2595591028
+"790","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.259584737597
+"791","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.22047230750973
+"792","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,172.952951737
+"793","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,172.95310009
+"794","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,173.020704423
+"795","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2020,0.00568369
+"796","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"797","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"798","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"799","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,116.69897388987
+"800","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,116.69858542094
+"801","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,116.8110370314
+"802","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2020,0.000297959
+"803","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,48.781562520044
+"804","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,48.781408733005
+"805","ROW","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,48.0237798341
+"806","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"807","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"808","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"809","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,1.914412090252
+"810","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,13.136712718537
+"811","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,2.28267756802024
+"812","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,182.48274598459
+"813","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,141.73679670277
+"814","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,188.423905121
+"815","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2025,0.0680360854289
+"816","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,2.4470663249
+"817","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,2.18214101676
+"818","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.913489372284
+"819","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,128.277880008392
+"820","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,127.326118751763
+"821","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,139.4817889993
+"822","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2025,0.006611547449593
+"823","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,58.7745159681162
+"824","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,63.0074651273389
+"825","ROW","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,57.0413497626
+"826","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,6.095220523
+"827","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,10.287440928
+"828","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,1.885069106
+"829","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,3.954863561842
+"830","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,23.106292310886
+"831","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,5.44598816271113
+"832","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,189.462273964093
+"833","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,108.066516041516
+"834","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,203.270837308
+"835","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2030,0.215191089496841
+"836","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,9.2842709436
+"837","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,7.10766702043
+"838","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,4.2022725881344
+"839","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,137.583356610532
+"840","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,138.677333940126
+"841","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,167.307852768
+"842","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2030,0.03484553145597
+"843","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,75.5856450074052
+"844","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,92.1364819210301
+"845","ROW","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,69.8284772535
+"846","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,17.0782581618508
+"847","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,35.4351084095574
+"848","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,5.652249683
+"849","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,14.658395667088
+"850","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,24.536076952677
+"851","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,8.14452673038963
+"852","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,150.438094614198
+"853","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,86.5939087732699
+"854","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,214.1384823335
+"855","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2035,0.448138732558534
+"856","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,18.01554604323
+"857","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,14.126065644729
+"858","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,10.1223406154401
+"859","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,143.751626561376
+"860","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,146.846198972189
+"861","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,198.2735149978
+"862","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2035,0.12546055837744
+"863","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,105.150583412936
+"864","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,128.396244804185
+"865","ROW","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,83.656319557
+"866","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,31.237600390684
+"867","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,54.1271112395094
+"868","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,8.804837944
+"869","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,15.18982983366
+"870","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,17.710748881192
+"871","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,9.86913805160256
+"872","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,116.815854892712
+"873","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,76.9314544042413
+"874","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,224.391498873
+"875","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2040,0.761141397162673
+"876","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,23.35858888125
+"877","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,18.151716602313
+"878","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,15.6562763522362
+"879","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,156.757162086855
+"880","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,154.743398044037
+"881","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,233.0171725664
+"882","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2040,0.3615812051198
+"883","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,143.754284512718
+"884","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,163.183633847614
+"885","ROW","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,98.08318689
+"886","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,49.2864044410755
+"887","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,69.111582567196
+"888","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,12.2062666057
+"889","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,10.517230505179
+"890","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,7.8379431555528
+"891","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,11.0462795367453
+"892","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,77.282812364188
+"893","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,60.2206346130092
+"894","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,231.216814367
+"895","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2045,1.1808653430663
+"896","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,18.878086365952
+"897","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,11.9776786903068
+"898","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,20.9320898495455
+"899","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,156.689999356879
+"900","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,142.174572565135
+"901","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,268.8531543787
+"902","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2045,0.85398965780919
+"903","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,204.82086446745
+"904","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,220.5806767061
+"905","ROW","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,113.1527683915
+"906","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,75.69656225766
+"907","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,94.5758129463
+"908","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,17.3866403584
+"909","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,2.31699213058916
+"910","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,1.56442634864402
+"911","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,11.7529574884423
+"912","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,51.7488082803298
+"913","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,50.7595364557068
+"914","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,235.495055528
+"915","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2050,1.66689967123064
+"916","ROW","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,5.48813429518146
+"917","ROW","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,4.37086327460814
+"918","ROW","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,25.3118909786087
+"919","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,105.470172251365
+"920","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,102.563769427116
+"921","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,303.5790363182
+"922","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2050,1.6967587105393
+"923","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,257.28866154286
+"924","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,262.24775664769
+"925","ROW","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,127.6721923163
+"926","ROW","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,143.5486226855
+"927","ROW","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,144.8355783142
+"928","ROW","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,24.1570611794
+"929","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"930","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"931","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"932","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,48.5
+"933","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,48.5
+"934","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,48.5
+"935","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2015,0
+"936","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2015,0
+"937","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"938","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"939","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"940","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,10.6
+"941","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,10.6
+"942","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,10.6
+"943","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2015,0
+"944","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2015,0
+"945","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,10.6
+"946","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,10.6
+"947","South Korea","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,10.6
+"948","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"949","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"950","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"951","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.00681604
+"952","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.00681692
+"953","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.0075708
+"954","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,49.18043
+"955","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,49.18044
+"956","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,50.2048
+"957","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2020,0
+"958","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2020,0
+"959","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"960","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"961","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"962","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,11.23748
+"963","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,11.23743
+"964","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,11.05121
+"965","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2020,0
+"966","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2020,0
+"967","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,10.82754
+"968","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,10.82749
+"969","South Korea","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,11.09498
+"970","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"971","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"972","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"973","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.06892463
+"974","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.37367107
+"975","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.07945624
+"976","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,46.81
+"977","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,37.10337
+"978","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,50.00496
+"979","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2025,0
+"980","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2025,0.99593
+"981","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.071284
+"982","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.039864
+"983","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.0256985
+"984","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,9.74304
+"985","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,10.53392
+"986","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,10.22097
+"987","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2025,0
+"988","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2025,0.467642
+"989","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,10.46016
+"990","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,11.49008
+"991","South Korea","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,11.30525
+"992","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.972753
+"993","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,1.07705
+"994","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.243868
+"995","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.19569794
+"996","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.93067205
+"997","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.23256808
+"998","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,43.3914
+"999","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,22.3369
+"1000","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,49.53728
+"1001","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2030,0
+"1002","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2030,4.704168
+"1003","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.4014618
+"1004","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.1963345
+"1005","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.1530014
+"1006","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,7.46113
+"1007","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,9.87069
+"1008","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,8.53524
+"1009","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2030,0
+"1010","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2030,1.829805
+"1011","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,10.03637
+"1012","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,13.93863
+"1013","South Korea","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,11.7635
+"1014","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,2.707969
+"1015","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,3.848314
+"1016","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,0.5501556
+"1017","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,0.73975596
+"1018","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,1.06698829
+"1019","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,0.40234536
+"1020","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,27.07675
+"1021","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,9.99209
+"1022","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,48.01924
+"1023","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2035,2.1944
+"1024","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2035,8.183589
+"1025","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.6668507
+"1026","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.4069556
+"1027","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.4377478
+"1028","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,6.988647
+"1029","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,9.224743
+"1030","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,7.166134
+"1031","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2035,1.56483
+"1032","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2035,3.817681
+"1033","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,9.795561
+"1034","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,13.759519
+"1035","South Korea","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,11.964043
+"1036","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,4.862156
+"1037","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,6.375904
+"1038","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,0.6183445
+"1039","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,0.7167473
+"1040","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,0.7513693
+"1041","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,0.4873258
+"1042","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,15.161895
+"1043","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,5.135942
+"1044","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,45.59298
+"1045","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2040,3.86394
+"1046","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2040,8.320766
+"1047","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,0.7361563
+"1048","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,0.43354438
+"1049","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,0.67079216
+"1050","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,7.360557
+"1051","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,8.024649
+"1052","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,6.473895
+"1053","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2040,3.62955
+"1054","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2040,5.2086566
+"1055","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,10.535378
+"1056","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,12.853095
+"1057","South Korea","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,11.61255
+"1058","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,6.332635
+"1059","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,7.28845
+"1060","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,0.56321019
+"1061","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.44891461
+"1062","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.340155006
+"1063","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.5351299
+"1064","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,5.522059
+"1065","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,1.62980434
+"1066","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,42.41187
+"1067","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2045,3.392763
+"1068","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2045,5.582339
+"1069","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,0.4654033
+"1070","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,0.24367346
+"1071","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,0.916082
+"1072","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,6.586672
+"1073","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,5.478903
+"1074","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,5.901799
+"1075","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2045,6.374482
+"1076","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2045,7.262449
+"1077","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,12.057274
+"1078","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,13.23987
+"1079","South Korea","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,11.010259
+"1080","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,8.157397
+"1081","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,9.062353
+"1082","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,0.6211931
+"1083","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.0122710113
+"1084","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.0101929249
+"1085","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.5427232
+"1086","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.0150148123
+"1087","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.0116575758
+"1088","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,38.98251
+"1089","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2050,2.230001
+"1090","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-CCUS","Mt",2050,2.842063
+"1091","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.0092913621
+"1092","South Korea","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.0077900107
+"1093","South Korea","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,1.1159923
+"1094","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,2.904498
+"1095","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,2.2172223
+"1096","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,5.367403
+"1097","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2050,7.896777
+"1098","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-CCUS","Mt",2050,8.052148
+"1099","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,14.086099
+"1100","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,13.977252
+"1101","South Korea","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,10.198483
+"1102","South Korea","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,10.881215
+"1103","South Korea","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,10.92224
+"1104","South Korea","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,0.619317
+"1105","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"1106","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"1107","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2015,0
+"1108","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,29.4
+"1109","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,29.4
+"1110","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2015,29.4
+"1111","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"1112","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"1113","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2015,0
+"1114","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,12.4
+"1115","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,12.4
+"1116","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2015,12.4
+"1117","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,37.1
+"1118","US","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,37.1
+"1119","US","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2015,37.1
+"1120","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"1121","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"1122","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2015,0
+"1123","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.00245979
+"1124","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.00245973
+"1125","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2020,0.0027968
+"1126","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,32.53256
+"1127","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,32.53258
+"1128","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2020,33.6778
+"1129","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"1130","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"1131","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2020,0
+"1132","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,13.37524
+"1133","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,13.37522
+"1134","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2020,13.12138
+"1135","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,42.7156
+"1136","US","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,42.7156
+"1137","US","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2020,42.1346
+"1138","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"1139","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"1140","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2020,0
+"1141","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.01621362
+"1142","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.09454304
+"1143","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2025,0.02492221
+"1144","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,29.92396
+"1145","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,24.06232
+"1146","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2025,36.03249
+"1147","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.0180027
+"1148","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.0141009
+"1149","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2025,0.00908637
+"1150","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,11.67746
+"1151","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,8.77773
+"1152","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2025,12.4508
+"1153","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,43.5892
+"1154","US","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,47.1543
+"1155","US","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2025,44.45798
+"1156","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.974203
+"1157","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,2.17477
+"1158","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2025,0.256101
+"1159","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.04175853
+"1160","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.20894418
+"1161","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2030,0.07041775
+"1162","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,25.33114
+"1163","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,13.28971
+"1164","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2030,37.43823
+"1165","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.0959438
+"1166","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.065026
+"1167","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2030,0.05318714
+"1168","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,9.98061
+"1169","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,5.33086
+"1170","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2030,11.55177
+"1171","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,47.54823
+"1172","US","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,54.8661
+"1173","US","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2030,46.47203
+"1174","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,3.031204
+"1175","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,7.68929
+"1176","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2030,0.6383466
+"1177","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,0.167601263
+"1178","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,0.238935716
+"1179","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2035,0.125893356
+"1180","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,14.44149
+"1181","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,4.913755
+"1182","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2035,38.12166
+"1183","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.19510641
+"1184","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.13748513
+"1185","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2035,0.16122826
+"1186","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,6.08375
+"1187","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,2.853513
+"1188","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2035,10.930013
+"1189","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,53.05183
+"1190","US","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,59.53277
+"1191","US","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2035,48.14808
+"1192","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,7.451865
+"1193","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,12.67032
+"1194","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2035,0.7818488
+"1195","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,0.16883546
+"1196","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,0.1726619
+"1197","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2040,0.16632115
+"1198","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,7.424064
+"1199","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,1.998671
+"1200","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2040,38.36829
+"1201","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,0.23721835
+"1202","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,0.15602729
+"1203","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2040,0.26898359
+"1204","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,3.246214
+"1205","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,1.279161
+"1206","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2040,10.708256
+"1207","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,56.64149
+"1208","US","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,59.6908
+"1209","US","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2040,49.26299
+"1210","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,11.460279
+"1211","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,15.533003
+"1212","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2040,0.82023948
+"1213","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.10409263
+"1214","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.046025349
+"1215","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2045,0.20014334
+"1216","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,2.1026173
+"1217","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,0.18163806
+"1218","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2045,38.28854
+"1219","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,0.14171785
+"1220","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,0.03794937
+"1221","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2045,0.38643026
+"1222","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,0.6921992
+"1223","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,0.1064082
+"1224","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2045,10.476615
+"1225","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,57.37138
+"1226","US","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,57.50999
+"1227","US","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2045,50.01064
+"1228","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,16.316471
+"1229","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,18.43214
+"1230","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2045,0.9564799
+"1231","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.0002629413
+"1232","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.00025508475
+"1233","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-biomass","Mt",2050,0.2254637
+"1234","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.0009012646
+"1235","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,0.0008685535
+"1236","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-BOF","Mt",2050,38.31194
+"1237","US","1p5C_delay_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.000611335
+"1238","US","1p5C_no_css_steel_sector","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.000680733
+"1239","US","current_policies","iron and steel","BLASTFUR","iron and steel","BF-H2","Mt",2050,0.5006518
+"1240","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,0.0015008363
+"1241","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,0.0019940195
+"1242","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-Fossil","Mt",2050,9.999919
+"1243","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,53.91566
+"1244","US","1p5C_no_css_steel_sector","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,53.37579
+"1245","US","current_policies","iron and steel","EAF with scrap","iron and steel","EAF-scrap","Mt",2050,50.44727
+"1246","US","1p5C_delay_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,19.166448
+"1247","US","1p5C_no_css_steel_sector","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,19.76666
+"1248","US","current_policies","iron and steel","EAF with DRI","iron and steel","DRI-EAF-H2","Mt",2050,1.068319

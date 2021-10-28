@@ -1,0 +1,29 @@
+"","region","scenario","sector","year","total_emissions"
+"1","China","1p5","electricity",2040,-31.237573901185
+"2","China","1p5","electricity",2045,-383.948011480562
+"3","China","1p5","electricity",2050,-536.499903234624
+"4","China","1p5 delay","electricity",2045,-187.514347035852
+"5","China","1p5 delay","electricity",2050,-531.774327870763
+"6","Europe","1p5","electricity",2040,-137.26912576796
+"7","Europe","1p5","electricity",2045,-310.07688533752
+"8","Europe","1p5","electricity",2050,-243.357933693279
+"9","Europe","1p5 delay","electricity",2045,-182.471039173308
+"10","Europe","1p5 delay","electricity",2050,-263.260982678779
+"11","Global","1p5","electricity",2045,-1750.21608676113
+"12","Global","1p5","electricity",2050,-2243.48876885588
+"13","Global","1p5 delay","electricity",2045,-207.565937895861
+"14","Global","1p5 delay","electricity",2050,-2277.1401385961
+"15","India","1p5","electricity",2040,-68.1503508335049
+"16","India","1p5","electricity",2045,-312.555153746743
+"17","India","1p5","electricity",2050,-377.887383230597
+"18","India","1p5 delay","electricity",2045,-104.635502846835
+"19","India","1p5 delay","electricity",2050,-471.632770949635
+"20","Japan","1p5","electricity",2045,-5.02259765988826
+"21","Japan","1p5","electricity",2050,-7.19277866591928
+"22","Japan","1p5 delay","electricity",2050,-8.80139303473569
+"23","ROW","1p5","electricity",2045,-449.488309539596
+"24","ROW","1p5","electricity",2050,-685.041715400962
+"25","ROW","1p5 delay","electricity",2050,-671.539182851356
+"26","US","1p5","electricity",2045,-301.084134904285
+"27","US","1p5","electricity",2050,-396.003002279444
+"28","US","1p5 delay","electricity",2050,-331.265855531798

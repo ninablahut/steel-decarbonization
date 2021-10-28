@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+   
+
+	<aQuery>
+		<region name="USA" />
+       	<region name="Africa_Eastern" />
+       	<region name="Africa_Northern" />
+		<region name="Africa_Southern" />
+		<region name="Africa_Western" />
+       	<region name="Australia_NZ" />
+		<region name="Brazil" />
+       	<region name="Canada" />
+		<region name="Central America and Caribbean" />
+       	<region name="Central Asia" />
+		<region name="China" />
+       	<region name="EU-12" />
+		<region name="EU-15" />
+       	<region name="Europe_Eastern" />
+		<region name="Europe_Non_EU" />
+       	<region name="European Free Trade Association" />
+		<region name="India" />
+       	<region name="Indonesia" />
+		<region name="Japan" />
+       	<region name="Mexico" />
+		<region name="Middle East" />
+       	<region name="Pakistan" />
+		<region name="Russia" />
+       	<region name="South Africa" />
+		<region name="South America_Northern" />
+       	<region name="South America_Southern" />
+		<region name="South Asia" />
+       	<region name="South Korea" />
+		<region name="Southeast Asia" />
+       	<region name="Taiwan" />
+		<region name="Argentina" />
+       	<region name="Colombia" />
+
+
+                <supplyDemandQuery title="final energy consumption by sector and fuel">
+                    <axis1 name="input">input</axis1>
+                    <axis2 name="Year">demand-physical[@vintage]</axis2>
+                    <xPath buildList="true" dataName="input" group="false" sumAll="false">*[@type='sector' and ((@name='building' or @name='industry' or @name='transportation') or
+            (exists(child::keyword/@final-energy)))]//*[@type='input' and
+            not(@name='limestone' or @name='process heat cement' or @name='industrial energy use' or
+                @name='industrial feedstocks' or @name='renewable' or contains(@name, 'trn_') or @name='oil-credits')]/
+            demand-physical[@unit='EJ']/node()</xPath>
+                    <comments/>
+                    <labelRewriteList append-values="false">
+                        <level name="input">
+                            <rewrite from="elect_td_bld" to="electricity"/>
+                            <rewrite from="wholesale gas" to="gas"/>
+                            <rewrite from="regional coal" to="coal"/>
+                            <rewrite from="refined liquids enduse" to="refined liquids"/>
+                            <rewrite from="regional biomass" to="biomass"/>
+                            <rewrite from="H2 enduse" to="hydrogen"/>
+                            <rewrite from="elect_td_ind" to="electricity"/>
+                            <rewrite from="delivered biomass" to="biomass"/>
+                            <rewrite from="elect_td_trn" to="electricity"/>
+                            <rewrite from="delivered coal" to="coal"/>
+                            <rewrite from="refined liquids industrial" to="refined liquids"/>
+                            <rewrite from="delivered gas" to="gas"/>
+                        </level>
+                    </labelRewriteList>
+                </supplyDemandQuery>
+
+	</aQuery>
+
+
+
+
+
+</queries>

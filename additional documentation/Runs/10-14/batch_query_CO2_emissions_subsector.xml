@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+   
+
+	<aQuery>
+		<region name="USA" />
+       	<region name="Africa_Eastern" />
+       	<region name="Africa_Northern" />
+		<region name="Africa_Southern" />
+		<region name="Africa_Western" />
+       	<region name="Australia_NZ" />
+		<region name="Brazil" />
+       	<region name="Canada" />
+		<region name="Central America and Caribbean" />
+       	<region name="Central Asia" />
+		<region name="China" />
+       	<region name="EU-12" />
+		<region name="EU-15" />
+       	<region name="Europe_Eastern" />
+		<region name="Europe_Non_EU" />
+       	<region name="European Free Trade Association" />
+		<region name="India" />
+       	<region name="Indonesia" />
+		<region name="Japan" />
+       	<region name="Mexico" />
+		<region name="Middle East" />
+       	<region name="Pakistan" />
+		<region name="Russia" />
+       	<region name="South Africa" />
+		<region name="South America_Northern" />
+       	<region name="South America_Southern" />
+		<region name="South Asia" />
+       	<region name="South Korea" />
+		<region name="Southeast Asia" />
+       	<region name="Taiwan" />
+		<region name="Argentina" />
+       	<region name="Colombia" />
+
+
+            <emissionsQueryBuilder title="CO2 emissions by subsector">
+                <axis1 name="subsector">subsector</axis1>
+                <axis2 name="Year">emissions</axis2>
+                <xPath buildList="true" dataName="emissions" group="false" sumAll="false">*[@type = 'sector' ]/*[@type='subsector']//CO2/emissions/node()</xPath>
+                <comments/>
+            </emissionsQueryBuilder>
+
+	</aQuery>
+</queries>

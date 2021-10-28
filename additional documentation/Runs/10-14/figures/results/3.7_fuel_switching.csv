@@ -1,0 +1,1553 @@
+"","region","year","scenario","input","value"
+"1","China",2015,"Ref","biomass",0
+"2","China",2015,"Ref","coal",15.89034481
+"3","China",2015,"Ref","electricity",1.9193978
+"4","China",2015,"Ref","gas",0.1503036
+"5","China",2015,"Ref","hydrogen",0
+"6","China",2015,"Ref","refined liquids",0.04020569
+"7","China",2015,"1p5","biomass",0
+"8","China",2015,"1p5","coal",15.89034481
+"9","China",2015,"1p5","coal with CCS",0
+"10","China",2015,"1p5","electricity",1.9193978
+"11","China",2015,"1p5","gas",0.1503036
+"12","China",2015,"1p5","gas with CCS",0
+"13","China",2015,"1p5","hydrogen",0
+"14","China",2015,"1p5","refined liquids",0.04020569
+"15","China",2015,"1p5","refined liquids with CCS",0
+"16","China",2015,"1p5 delay","biomass",0
+"17","China",2015,"1p5 delay","coal",15.89034481
+"18","China",2015,"1p5 delay","coal with CCS",0
+"19","China",2015,"1p5 delay","electricity",1.9193978
+"20","China",2015,"1p5 delay","gas",0.1503036
+"21","China",2015,"1p5 delay","gas with CCS",0
+"22","China",2015,"1p5 delay","hydrogen",0
+"23","China",2015,"1p5 delay","refined liquids",0.04020569
+"24","China",2015,"1p5 delay","refined liquids with CCS",0
+"25","China",2020,"Ref","biomass",0.00854105
+"26","China",2020,"Ref","coal",20.972525377
+"27","China",2020,"Ref","electricity",2.520016657
+"28","China",2020,"Ref","gas",0.11105292117
+"29","China",2020,"Ref","hydrogen",0.00205539
+"30","China",2020,"Ref","refined liquids",0.04821685917
+"31","China",2020,"1p5","biomass",0.0075304
+"32","China",2020,"1p5","coal",20.105680018
+"33","China",2020,"1p5","coal with CCS",0
+"34","China",2020,"1p5","electricity",2.559294448
+"35","China",2020,"1p5","gas",0.69623458829
+"36","China",2020,"1p5","gas with CCS",0
+"37","China",2020,"1p5","hydrogen",0
+"38","China",2020,"1p5","refined liquids",0.08427178829
+"39","China",2020,"1p5","refined liquids with CCS",0
+"40","China",2020,"1p5 delay","biomass",0.0075304
+"41","China",2020,"1p5 delay","coal",20.105680018
+"42","China",2020,"1p5 delay","coal with CCS",0
+"43","China",2020,"1p5 delay","electricity",2.559294448
+"44","China",2020,"1p5 delay","gas",0.69623458829
+"45","China",2020,"1p5 delay","gas with CCS",0
+"46","China",2020,"1p5 delay","hydrogen",0
+"47","China",2020,"1p5 delay","refined liquids",0.08427178829
+"48","China",2020,"1p5 delay","refined liquids with CCS",0
+"49","China",2025,"Ref","biomass",0.05089448
+"50","China",2025,"Ref","coal",21.480471077
+"51","China",2025,"Ref","electricity",2.577907257
+"52","China",2025,"Ref","gas",0.09735523192
+"53","China",2025,"Ref","hydrogen",0.01423959
+"54","China",2025,"Ref","refined liquids",0.04854338392
+"55","China",2025,"1p5","biomass",0.12611368
+"56","China",2025,"1p5","coal",15.740450836
+"57","China",2025,"1p5","coal with CCS",0.530153
+"58","China",2025,"1p5","electricity",2.50397489
+"59","China",2025,"1p5","gas",0.68189358832
+"60","China",2025,"1p5","gas with CCS",0.18595498
+"61","China",2025,"1p5","hydrogen",0.14551733
+"62","China",2025,"1p5","refined liquids",0.10765875932
+"63","China",2025,"1p5","refined liquids with CCS",0.009578914
+"64","China",2025,"1p5 delay","biomass",0.03244715
+"65","China",2025,"1p5 delay","coal",19.105333419
+"66","China",2025,"1p5 delay","coal with CCS",0
+"67","China",2025,"1p5 delay","electricity",2.619196354
+"68","China",2025,"1p5 delay","gas",0.68326123919
+"69","China",2025,"1p5 delay","gas with CCS",0
+"70","China",2025,"1p5 delay","hydrogen",0.06294117
+"71","China",2025,"1p5 delay","refined liquids",0.09703047419
+"72","China",2025,"1p5 delay","refined liquids with CCS",0
+"73","China",2030,"Ref","biomass",0.13503139
+"74","China",2030,"Ref","coal",20.761633895
+"75","China",2030,"Ref","electricity",2.4969806155
+"76","China",2030,"Ref","gas",0.10165287175
+"77","China",2030,"Ref","hydrogen",0.038894143
+"78","China",2030,"Ref","refined liquids",0.04806473075
+"79","China",2030,"1p5","biomass",0.23521419
+"80","China",2030,"1p5","coal",9.22795904
+"81","China",2030,"1p5","coal with CCS",3.2497976
+"82","China",2030,"1p5","electricity",2.774931862
+"83","China",2030,"1p5","gas",0.53485138719
+"84","China",2030,"1p5","gas with CCS",0.600666215
+"85","China",2030,"1p5","hydrogen",0.5521902
+"86","China",2030,"1p5","refined liquids",0.14529166519
+"87","China",2030,"1p5","refined liquids with CCS",0.031562175
+"88","China",2030,"1p5 delay","biomass",0.06628655
+"89","China",2030,"1p5 delay","coal",16.001333407
+"90","China",2030,"1p5 delay","coal with CCS",0
+"91","China",2030,"1p5 delay","electricity",2.658250306
+"92","China",2030,"1p5 delay","gas",0.93870291864
+"93","China",2030,"1p5 delay","gas with CCS",0
+"94","China",2030,"1p5 delay","hydrogen",0.2203324
+"95","China",2030,"1p5 delay","refined liquids",0.13651905964
+"96","China",2030,"1p5 delay","refined liquids with CCS",0
+"97","China",2035,"Ref","biomass",0.23048037
+"98","China",2035,"Ref","coal",19.3638419733
+"99","China",2035,"Ref","electricity",2.3321819429
+"100","China",2035,"Ref","gas",0.089800124995
+"101","China",2035,"Ref","hydrogen",0.068496585
+"102","China",2035,"Ref","refined liquids",0.045394547195
+"103","China",2035,"1p5","biomass",0.1962967
+"104","China",2035,"1p5","coal",3.210792341
+"105","China",2035,"1p5","coal with CCS",5.55027388
+"106","China",2035,"1p5","electricity",2.913405701
+"107","China",2035,"1p5","gas",0.20694236044
+"108","China",2035,"1p5","gas with CCS",0.880313959
+"109","China",2035,"1p5","hydrogen",0.94387677
+"110","China",2035,"1p5","refined liquids",0.16328212904
+"111","China",2035,"1p5","refined liquids with CCS",0.04657422
+"112","China",2035,"1p5 delay","biomass",0.11954875
+"113","China",2035,"1p5 delay","coal",8.740044717
+"114","China",2035,"1p5 delay","coal with CCS",1.8754834
+"115","China",2035,"1p5 delay","electricity",2.6524313966
+"116","China",2035,"1p5 delay","gas",0.510213587526
+"117","China",2035,"1p5 delay","gas with CCS",0.37131783
+"118","China",2035,"1p5 delay","hydrogen",0.60091898
+"119","China",2035,"1p5 delay","refined liquids",0.152616166526
+"120","China",2035,"1p5 delay","refined liquids with CCS",0.019457063
+"121","China",2040,"Ref","biomass",0.28941166
+"122","China",2040,"Ref","coal",18.0790537326
+"123","China",2040,"Ref","electricity",2.17661932235
+"124","China",2040,"Ref","gas",0.0722337586
+"125","China",2040,"Ref","hydrogen",0.0918852684
+"126","China",2040,"Ref","refined liquids",0.0422820019
+"127","China",2040,"1p5","biomass",0.104214562
+"128","China",2040,"1p5","coal",0.5966987253
+"129","China",2040,"1p5","coal with CCS",4.33167212
+"130","China",2040,"1p5","electricity",3.00793155242
+"131","China",2040,"1p5","gas",0.031008780675
+"132","China",2040,"1p5","gas with CCS",1.135332259
+"133","China",2040,"1p5","hydrogen",1.381556598
+"134","China",2040,"1p5","refined liquids",0.183539583718
+"135","China",2040,"1p5","refined liquids with CCS",0.058925266
+"136","China",2040,"1p5 delay","biomass",0.08594841
+"137","China",2040,"1p5 delay","coal",3.978703392
+"138","China",2040,"1p5 delay","coal with CCS",2.043824
+"139","China",2040,"1p5 delay","electricity",2.8804344114
+"140","China",2040,"1p5 delay","gas",0.26137985848
+"141","China",2040,"1p5 delay","gas with CCS",0.748188546
+"142","China",2040,"1p5 delay","hydrogen",1.08689796
+"143","China",2040,"1p5 delay","refined liquids",0.18630820472
+"144","China",2040,"1p5 delay","refined liquids with CCS",0.038504666
+"145","China",2045,"Ref","biomass",0.319527
+"146","China",2045,"Ref","coal",16.5558579234
+"147","China",2045,"Ref","electricity",1.9920981056
+"148","China",2045,"Ref","gas",0.0632011693
+"149","China",2045,"Ref","hydrogen",0.1130572729
+"150","China",2045,"Ref","refined liquids",0.038993155
+"151","China",2045,"1p5","biomass",0.00486338592
+"152","China",2045,"1p5","coal",0.006489996986
+"153","China",2045,"1p5","coal with CCS",2.46250707
+"154","China",2045,"1p5","electricity",2.942846646984
+"155","China",2045,"1p5","gas",0.00063730856882
+"156","China",2045,"1p5","gas with CCS",0.763414738
+"157","China",2045,"1p5","hydrogen",1.74088059414
+"158","China",2045,"1p5","refined liquids",0.18995971373859
+"159","China",2045,"1p5","refined liquids with CCS",0.0394404118
+"160","China",2045,"1p5 delay","biomass",0.0260718212
+"161","China",2045,"1p5 delay","coal",0.124889275
+"162","China",2045,"1p5 delay","coal with CCS",1.65925936
+"163","China",2045,"1p5 delay","electricity",3.07879633553
+"164","China",2045,"1p5 delay","gas",0.005342781455
+"165","China",2045,"1p5 delay","gas with CCS",1.002094079
+"166","China",2045,"1p5 delay","hydrogen",1.6790549064
+"167","China",2045,"1p5 delay","refined liquids",0.2103109911952
+"168","China",2045,"1p5 delay","refined liquids with CCS",0.051136348
+"169","China",2050,"Ref","biomass",0.3256952
+"170","China",2050,"Ref","coal",14.901645304
+"171","China",2050,"Ref","electricity",1.7900758104
+"172","China",2050,"Ref","gas",0.053654737
+"173","China",2050,"Ref","hydrogen",0.1306141642
+"174","China",2050,"Ref","refined liquids",0.0352282191
+"175","China",2050,"1p5","biomass",0.00000572429918
+"176","China",2050,"1p5","coal",0.000011409483304
+"177","China",2050,"1p5","coal with CCS",0.84362909
+"178","China",2050,"1p5","electricity",2.63756697135037
+"179","China",2050,"1p5","gas",0.000004657427592
+"180","China",2050,"1p5","gas with CCS",0.2014458605
+"181","China",2050,"1p5","hydrogen",2.07858677752062
+"182","China",2050,"1p5","refined liquids",0.170098844894504
+"183","China",2050,"1p5","refined liquids with CCS",0.0104856015
+"184","China",2050,"1p5 delay","biomass",0.000005195278
+"185","China",2050,"1p5 delay","coal",0.000010047630594
+"186","China",2050,"1p5 delay","coal with CCS",0.771384241
+"187","China",2050,"1p5 delay","electricity",2.62970183540313
+"188","China",2050,"1p5 delay","gas",0.000001342019581
+"189","China",2050,"1p5 delay","gas with CCS",0.1523833126
+"190","China",2050,"1p5 delay","hydrogen",1.9558856505985
+"191","China",2050,"1p5 delay","refined liquids",0.174714476577874
+"192","China",2050,"1p5 delay","refined liquids with CCS",0.0079855927
+"193","EU-27",2015,"Ref","biomass",0
+"194","EU-27",2015,"Ref","coal",1.51955438
+"195","EU-27",2015,"Ref","electricity",0.4175084
+"196","EU-27",2015,"Ref","gas",0.349109681
+"197","EU-27",2015,"Ref","hydrogen",0
+"198","EU-27",2015,"Ref","refined liquids",0.05542129
+"199","EU-27",2015,"1p5","biomass",0
+"200","EU-27",2015,"1p5","coal",1.51955438
+"201","EU-27",2015,"1p5","coal with CCS",0
+"202","EU-27",2015,"1p5","electricity",0.4175084
+"203","EU-27",2015,"1p5","gas",0.349109681
+"204","EU-27",2015,"1p5","gas with CCS",0
+"205","EU-27",2015,"1p5","hydrogen",0
+"206","EU-27",2015,"1p5","refined liquids",0.05542129
+"207","EU-27",2015,"1p5","refined liquids with CCS",0
+"208","EU-27",2015,"1p5 delay","biomass",0
+"209","EU-27",2015,"1p5 delay","coal",1.51955438
+"210","EU-27",2015,"1p5 delay","coal with CCS",0
+"211","EU-27",2015,"1p5 delay","electricity",0.4175084
+"212","EU-27",2015,"1p5 delay","gas",0.349109681
+"213","EU-27",2015,"1p5 delay","gas with CCS",0
+"214","EU-27",2015,"1p5 delay","hydrogen",0
+"215","EU-27",2015,"1p5 delay","refined liquids",0.05542129
+"216","EU-27",2015,"1p5 delay","refined liquids with CCS",0
+"217","EU-27",2020,"Ref","biomass",0.0001707866
+"218","EU-27",2020,"Ref","coal",1.5687845169
+"219","EU-27",2020,"Ref","electricity",0.431078671587
+"220","EU-27",2020,"Ref","gas",0.3499743766659
+"221","EU-27",2020,"Ref","hydrogen",0.00307417369
+"222","EU-27",2020,"Ref","refined liquids",0.0573829357259
+"223","EU-27",2020,"1p5","biomass",0.0001501712
+"224","EU-27",2020,"1p5","coal",1.533264808
+"225","EU-27",2020,"1p5","coal with CCS",0
+"226","EU-27",2020,"1p5","electricity",0.431954186674
+"227","EU-27",2020,"1p5","gas",0.3628456103053
+"228","EU-27",2020,"1p5","gas with CCS",0
+"229","EU-27",2020,"1p5","hydrogen",0
+"230","EU-27",2020,"1p5","refined liquids",0.0591525723823
+"231","EU-27",2020,"1p5","refined liquids with CCS",0
+"232","EU-27",2020,"1p5 delay","biomass",0.0001501712
+"233","EU-27",2020,"1p5 delay","coal",1.533264808
+"234","EU-27",2020,"1p5 delay","coal with CCS",0
+"235","EU-27",2020,"1p5 delay","electricity",0.431954186674
+"236","EU-27",2020,"1p5 delay","gas",0.3628456103053
+"237","EU-27",2020,"1p5 delay","gas with CCS",0
+"238","EU-27",2020,"1p5 delay","hydrogen",0
+"239","EU-27",2020,"1p5 delay","refined liquids",0.0591525723823
+"240","EU-27",2020,"1p5 delay","refined liquids with CCS",0
+"241","EU-27",2025,"Ref","biomass",0.0022677558
+"242","EU-27",2025,"Ref","coal",1.6638782527
+"243","EU-27",2025,"Ref","electricity",0.449870378098
+"244","EU-27",2025,"Ref","gas",0.3541003834948
+"245","EU-27",2025,"Ref","hydrogen",0.00724344621
+"246","EU-27",2025,"Ref","refined liquids",0.0565652937188
+"247","EU-27",2025,"1p5","biomass",0.0036867662
+"248","EU-27",2025,"1p5","coal",1.173168449
+"249","EU-27",2025,"1p5","coal with CCS",0.028190952
+"250","EU-27",2025,"1p5","electricity",0.435934991237
+"251","EU-27",2025,"1p5","gas",0.3520749135794
+"252","EU-27",2025,"1p5","gas with CCS",0.02161602336
+"253","EU-27",2025,"1p5","hydrogen",0.0205916977
+"254","EU-27",2025,"1p5","refined liquids",0.0574782359784
+"255","EU-27",2025,"1p5","refined liquids with CCS",0.002214649641
+"256","EU-27",2025,"1p5 delay","biomass",0.0013205365
+"257","EU-27",2025,"1p5 delay","coal",1.450094425
+"258","EU-27",2025,"1p5 delay","coal with CCS",0
+"259","EU-27",2025,"1p5 delay","electricity",0.435321294932
+"260","EU-27",2025,"1p5 delay","gas",0.3624545484527
+"261","EU-27",2025,"1p5 delay","gas with CCS",0
+"262","EU-27",2025,"1p5 delay","hydrogen",0.014420579
+"263","EU-27",2025,"1p5 delay","refined liquids",0.0576004967577
+"264","EU-27",2025,"1p5 delay","refined liquids with CCS",0
+"265","EU-27",2030,"Ref","biomass",0.0061460981
+"266","EU-27",2030,"Ref","coal",1.6856224272
+"267","EU-27",2030,"Ref","electricity",0.454305803119
+"268","EU-27",2030,"Ref","gas",0.34741696936345
+"269","EU-27",2030,"Ref","hydrogen",0.01079308288
+"270","EU-27",2030,"Ref","refined liquids",0.05525347266345
+"271","EU-27",2030,"1p5","biomass",0.0067588683
+"272","EU-27",2030,"1p5","coal",0.687059131
+"273","EU-27",2030,"1p5","coal with CCS",0.179935874
+"274","EU-27",2030,"1p5","electricity",0.462745333817
+"275","EU-27",2030,"1p5","gas",0.29531812673198
+"276","EU-27",2030,"1p5","gas with CCS",0.06679019411
+"277","EU-27",2030,"1p5","hydrogen",0.0720285086
+"278","EU-27",2030,"1p5","refined liquids",0.05396323062298
+"279","EU-27",2030,"1p5","refined liquids with CCS",0.007462931944
+"280","EU-27",2030,"1p5 delay","biomass",0.0029122183
+"281","EU-27",2030,"1p5 delay","coal",1.237978217
+"282","EU-27",2030,"1p5 delay","coal with CCS",0
+"283","EU-27",2030,"1p5 delay","electricity",0.432215184517
+"284","EU-27",2030,"1p5 delay","gas",0.34458066475189
+"285","EU-27",2030,"1p5 delay","gas with CCS",0
+"286","EU-27",2030,"1p5 delay","hydrogen",0.045300421
+"287","EU-27",2030,"1p5 delay","refined liquids",0.05557349276289
+"288","EU-27",2030,"1p5 delay","refined liquids with CCS",0
+"289","EU-27",2035,"Ref","biomass",0.01044741791
+"290","EU-27",2035,"Ref","coal",1.66764556707
+"291","EU-27",2035,"Ref","electricity",0.450131786948
+"292","EU-27",2035,"Ref","gas",0.33674698979909
+"293","EU-27",2035,"Ref","hydrogen",0.01329117307
+"294","EU-27",2035,"Ref","refined liquids",0.05395700598909
+"295","EU-27",2035,"1p5","biomass",0.00592022126
+"296","EU-27",2035,"1p5","coal",0.266199437
+"297","EU-27",2035,"1p5","coal with CCS",0.376754894
+"298","EU-27",2035,"1p5","electricity",0.459663952311
+"299","EU-27",2035,"1p5","gas",0.20475779477603
+"300","EU-27",2035,"1p5","gas with CCS",0.11447851893
+"301","EU-27",2035,"1p5","hydrogen",0.105369255
+"302","EU-27",2035,"1p5","refined liquids",0.04520672523003
+"303","EU-27",2035,"1p5","refined liquids with CCS",0.013258956416
+"304","EU-27",2035,"1p5 delay","biomass",0.00504497367
+"305","EU-27",2035,"1p5 delay","coal",0.719336977
+"306","EU-27",2035,"1p5 delay","coal with CCS",0.13728791
+"307","EU-27",2035,"1p5 delay","electricity",0.421406413282
+"308","EU-27",2035,"1p5 delay","gas",0.27540920230198
+"309","EU-27",2035,"1p5 delay","gas with CCS",0.0463201456
+"310","EU-27",2035,"1p5 delay","hydrogen",0.0774618794
+"311","EU-27",2035,"1p5 delay","refined liquids",0.04939600013498
+"312","EU-27",2035,"1p5 delay","refined liquids with CCS",0.00546987549
+"313","EU-27",2040,"Ref","biomass",0.013110028
+"314","EU-27",2040,"Ref","coal",1.641623891
+"315","EU-27",2040,"Ref","electricity",0.4440922282
+"316","EU-27",2040,"Ref","gas",0.3291023719052
+"317","EU-27",2040,"Ref","hydrogen",0.0141348689
+"318","EU-27",2040,"Ref","refined liquids",0.0530607751402
+"319","EU-27",2040,"1p5","biomass",0.0028146187
+"320","EU-27",2040,"1p5","coal",0.0814815087
+"321","EU-27",2040,"1p5","coal with CCS",0.391821074
+"322","EU-27",2040,"1p5","electricity",0.439927822423
+"323","EU-27",2040,"1p5","gas",0.103244832953
+"324","EU-27",2040,"1p5","gas with CCS",0.15879497008
+"325","EU-27",2040,"1p5","hydrogen",0.13021354234
+"326","EU-27",2040,"1p5","refined liquids",0.03389460982202
+"327","EU-27",2040,"1p5","refined liquids with CCS",0.0185414546266
+"328","EU-27",2040,"1p5 delay","biomass",0.0038324534
+"329","EU-27",2040,"1p5 delay","coal",0.378261062
+"330","EU-27",2040,"1p5 delay","coal with CCS",0.24687387
+"331","EU-27",2040,"1p5 delay","electricity",0.41780285136
+"332","EU-27",2040,"1p5 delay","gas",0.2059825706592
+"333","EU-27",2040,"1p5 delay","gas with CCS",0.0953279511
+"334","EU-27",2040,"1p5 delay","hydrogen",0.0979344023
+"335","EU-27",2040,"1p5 delay","refined liquids",0.0429095952808
+"336","EU-27",2040,"1p5 delay","refined liquids with CCS",0.011054561414
+"337","EU-27",2045,"Ref","biomass",0.014942961
+"338","EU-27",2045,"Ref","coal",1.604418048
+"339","EU-27",2045,"Ref","electricity",0.43815132851
+"340","EU-27",2045,"Ref","gas",0.319889176102
+"341","EU-27",2045,"Ref","hydrogen",0.0164976054
+"342","EU-27",2045,"Ref","refined liquids",0.052130348893
+"343","EU-27",2045,"1p5","biomass",0.000060586762
+"344","EU-27",2045,"1p5","coal",0.001882434539
+"345","EU-27",2045,"1p5","coal with CCS",0.264198039
+"346","EU-27",2045,"1p5","electricity",0.41767078528141
+"347","EU-27",2045,"1p5","gas",0.007456024591635
+"348","EU-27",2045,"1p5","gas with CCS",0.19371828814
+"349","EU-27",2045,"1p5","hydrogen",0.170416230845
+"350","EU-27",2045,"1p5","refined liquids",0.021850255619583
+"351","EU-27",2045,"1p5","refined liquids with CCS",0.0233379689792
+"352","EU-27",2045,"1p5 delay","biomass",0.000693875079
+"353","EU-27",2045,"1p5 delay","coal",0.02757295849
+"354","EU-27",2045,"1p5 delay","coal with CCS",0.214214208
+"355","EU-27",2045,"1p5 delay","electricity",0.4231862595048
+"356","EU-27",2045,"1p5 delay","gas",0.049278913833939
+"357","EU-27",2045,"1p5 delay","gas with CCS",0.18925393478
+"358","EU-27",2045,"1p5 delay","hydrogen",0.162151058575
+"359","EU-27",2045,"1p5 delay","refined liquids",0.027487474991689
+"360","EU-27",2045,"1p5 delay","refined liquids with CCS",0.022011363617
+"361","EU-27",2050,"Ref","biomass",0.015702521
+"362","EU-27",2050,"Ref","coal",1.559894102
+"363","EU-27",2050,"Ref","electricity",0.4285476433
+"364","EU-27",2050,"Ref","gas",0.307409848906
+"365","EU-27",2050,"Ref","hydrogen",0.0181256034
+"366","EU-27",2050,"Ref","refined liquids",0.050767704435
+"367","EU-27",2050,"1p5","biomass",0.0000000519367
+"368","EU-27",2050,"1p5","coal",0.000012192886629
+"369","EU-27",2050,"1p5","coal with CCS",0.124967524
+"370","EU-27",2050,"1p5","electricity",0.386183089678791
+"371","EU-27",2050,"1p5","gas",0.000067664786299
+"372","EU-27",2050,"1p5","gas with CCS",0.163074131075
+"373","EU-27",2050,"1p5","hydrogen",0.21701184433547
+"374","EU-27",2050,"1p5","refined liquids",0.019020782602115
+"375","EU-27",2050,"1p5","refined liquids with CCS",0.0208436220614
+"376","EU-27",2050,"1p5 delay","biomass",0.000000047316028
+"377","EU-27",2050,"1p5 delay","coal",0.0000073055297
+"378","EU-27",2050,"1p5 delay","coal with CCS",0.117411869
+"379","EU-27",2050,"1p5 delay","electricity",0.382887915064123
+"380","EU-27",2050,"1p5 delay","gas",0.000038135102979
+"381","EU-27",2050,"1p5 delay","gas with CCS",0.154296150166
+"382","EU-27",2050,"1p5 delay","hydrogen",0.22399935178465
+"383","EU-27",2050,"1p5 delay","refined liquids",0.018825716335137
+"384","EU-27",2050,"1p5 delay","refined liquids with CCS",0.01970425642335
+"385","Global",2015,"Ref","biomass",0
+"386","Global",2015,"Ref","coal",26.8119471082
+"387","Global",2015,"Ref","electricity",4.078091346
+"388","Global",2015,"Ref","gas",2.31621911969
+"389","Global",2015,"Ref","gas with CCS",0
+"390","Global",2015,"Ref","hydrogen",0
+"391","Global",2015,"Ref","refined liquids",0.4170329363
+"392","Global",2015,"1p5","biomass",0
+"393","Global",2015,"1p5","coal",26.8119461082
+"394","Global",2015,"1p5","coal with CCS",0
+"395","Global",2015,"1p5","electricity",4.078091346
+"396","Global",2015,"1p5","gas",2.31621911969
+"397","Global",2015,"1p5","gas with CCS",0
+"398","Global",2015,"1p5","hydrogen",0
+"399","Global",2015,"1p5","refined liquids",0.4170329363
+"400","Global",2015,"1p5","refined liquids with CCS",0
+"401","Global",2015,"1p5 delay","biomass",0
+"402","Global",2015,"1p5 delay","coal",26.8119461082
+"403","Global",2015,"1p5 delay","coal with CCS",0
+"404","Global",2015,"1p5 delay","electricity",4.078091346
+"405","Global",2015,"1p5 delay","gas",2.31621911969
+"406","Global",2015,"1p5 delay","gas with CCS",0
+"407","Global",2015,"1p5 delay","hydrogen",0
+"408","Global",2015,"1p5 delay","refined liquids",0.4170329363
+"409","Global",2015,"1p5 delay","refined liquids with CCS",0
+"410","Global",2020,"Ref","biomass",0.0149567563895
+"411","Global",2020,"Ref","coal",33.0390732035764
+"412","Global",2020,"Ref","electricity",4.8294704480987
+"413","Global",2020,"Ref","gas",2.12445313640665
+"414","Global",2020,"Ref","gas with CCS",0.000000005528437
+"415","Global",2020,"Ref","hydrogen",0.03652838698277
+"416","Global",2020,"Ref","refined liquids",0.43059523345682
+"417","Global",2020,"1p5","biomass",0.014421965727
+"418","Global",2020,"1p5","coal",31.924067758287
+"419","Global",2020,"1p5","coal with CCS",0
+"420","Global",2020,"1p5","electricity",4.88575244610422
+"421","Global",2020,"1p5","gas",2.80997707002044
+"422","Global",2020,"1p5","gas with CCS",0
+"423","Global",2020,"1p5","hydrogen",0
+"424","Global",2020,"1p5","refined liquids",0.491267021454022
+"425","Global",2020,"1p5","refined liquids with CCS",0
+"426","Global",2020,"1p5 delay","biomass",0.014421965698
+"427","Global",2020,"1p5 delay","coal",31.924067857287
+"428","Global",2020,"1p5 delay","coal with CCS",0
+"429","Global",2020,"1p5 delay","electricity",4.88575245100002
+"430","Global",2020,"1p5 delay","gas",2.80997707199742
+"431","Global",2020,"1p5 delay","gas with CCS",0
+"432","Global",2020,"1p5 delay","hydrogen",0
+"433","Global",2020,"1p5 delay","refined liquids",0.491267021454001
+"434","Global",2020,"1p5 delay","refined liquids with CCS",0
+"435","Global",2025,"Ref","biomass",0.131937811333464
+"436","Global",2025,"Ref","coal",36.207153943899
+"437","Global",2025,"Ref","electricity",5.28576830550174
+"438","Global",2025,"Ref","gas",2.10586445084532
+"439","Global",2025,"Ref","gas with CCS",0.000000062548372
+"440","Global",2025,"Ref","hydrogen",0.126604108020033
+"441","Global",2025,"Ref","refined liquids",0.514488811367356
+"442","Global",2025,"1p5","biomass",0.5941556546115
+"443","Global",2025,"1p5","coal",24.6292103989279
+"444","Global",2025,"1p5","coal with CCS",1.24093467307
+"445","Global",2025,"1p5","electricity",5.04906097956659
+"446","Global",2025,"1p5","gas",2.38218521657075
+"447","Global",2025,"1p5","gas with CCS",0.293129273088828
+"448","Global",2025,"1p5","hydrogen",0.40973353133411
+"449","Global",2025,"1p5","refined liquids",0.539362741919533
+"450","Global",2025,"1p5","refined liquids with CCS",0.036884880765238
+"451","Global",2025,"1p5 delay","biomass",0.0880739107763
+"452","Global",2025,"1p5 delay","coal",32.349646037637
+"453","Global",2025,"1p5 delay","coal with CCS",0
+"454","Global",2025,"1p5 delay","electricity",5.25313514773488
+"455","Global",2025,"1p5 delay","gas",2.61856600157323
+"456","Global",2025,"1p5 delay","gas with CCS",0.00000000492025
+"457","Global",2025,"1p5 delay","hydrogen",0.244024035762
+"458","Global",2025,"1p5 delay","refined liquids",0.551074565541632
+"459","Global",2025,"1p5 delay","refined liquids with CCS",0
+"460","Global",2030,"Ref","biomass",0.314535257307521
+"461","Global",2030,"Ref","coal",37.312808686942
+"462","Global",2030,"Ref","electricity",5.56673372531739
+"463","Global",2030,"Ref","gas",2.13908229918648
+"464","Global",2030,"Ref","gas with CCS",0.000000178173813
+"465","Global",2030,"Ref","hydrogen",0.252639267515937
+"466","Global",2030,"Ref","refined liquids",0.603744974346806
+"467","Global",2030,"1p5","biomass",0.8127823128986
+"468","Global",2030,"1p5","coal",14.5646503406637
+"469","Global",2030,"1p5","coal with CCS",5.87545445602
+"470","Global",2030,"1p5","electricity",5.71478146439198
+"471","Global",2030,"1p5","gas",1.7253851448084
+"472","Global",2030,"1p5","gas with CCS",0.902104170773381
+"473","Global",2030,"1p5","hydrogen",1.35997725252192
+"474","Global",2030,"1p5","refined liquids",0.575193447740818
+"475","Global",2030,"1p5","refined liquids with CCS",0.110139039945741
+"476","Global",2030,"1p5 delay","biomass",0.16448701783121
+"477","Global",2030,"1p5 delay","coal",29.2793457398895
+"478","Global",2030,"1p5 delay","coal with CCS",0
+"479","Global",2030,"1p5 delay","electricity",5.54595571835331
+"480","Global",2030,"1p5 delay","gas",2.61031291871023
+"481","Global",2030,"1p5 delay","gas with CCS",0.000000034294066
+"482","Global",2030,"1p5 delay","hydrogen",0.7620420977172
+"483","Global",2030,"1p5 delay","refined liquids",0.612113790555421
+"484","Global",2030,"1p5 delay","refined liquids with CCS",0
+"485","Global",2035,"Ref","biomass",0.507831354974108
+"486","Global",2035,"Ref","coal",37.3449132764412
+"487","Global",2035,"Ref","electricity",5.77529804208887
+"488","Global",2035,"Ref","gas",2.18562000879425
+"489","Global",2035,"Ref","gas with CCS",0.000000335958159
+"490","Global",2035,"Ref","hydrogen",0.394527963192061
+"491","Global",2035,"Ref","refined liquids",0.690993083687073
+"492","Global",2035,"1p5","biomass",0.6554478912556
+"493","Global",2035,"1p5","coal",5.92235403237096
+"494","Global",2035,"1p5","coal with CCS",9.9467261764
+"495","Global",2035,"1p5","electricity",6.17269227031273
+"496","Global",2035,"1p5","gas",0.952808881922073
+"497","Global",2035,"1p5","gas with CCS",1.36972649219942
+"498","Global",2035,"1p5","hydrogen",2.15842160752235
+"499","Global",2035,"1p5","refined liquids",0.546011790093246
+"500","Global",2035,"1p5","refined liquids with CCS",0.188407638844474
+"501","Global",2035,"1p5 delay","biomass",0.31303544927501
+"502","Global",2035,"1p5 delay","coal",16.6596341226433
+"503","Global",2035,"1p5 delay","coal with CCS",3.93304295101
+"504","Global",2035,"1p5 delay","electricity",5.72562165126148
+"505","Global",2035,"1p5 delay","gas",1.61504643075137
+"506","Global",2035,"1p5 delay","gas with CCS",0.58149252054142
+"507","Global",2035,"1p5 delay","hydrogen",1.55271276342116
+"508","Global",2035,"1p5 delay","refined liquids",0.597659012367952
+"509","Global",2035,"1p5 delay","refined liquids with CCS",0.08027639138353
+"510","Global",2040,"Ref","biomass",0.631642017667975
+"511","Global",2040,"Ref","coal",37.1386369339131
+"512","Global",2040,"Ref","electricity",6.052274834282
+"513","Global",2040,"Ref","gas",2.28670795182487
+"514","Global",2040,"Ref","gas with CCS",0.00000051137876
+"515","Global",2040,"Ref","hydrogen",0.532480031654334
+"516","Global",2040,"Ref","refined liquids",0.779062728181719
+"517","Global",2040,"1p5","biomass",0.350463631133888
+"518","Global",2040,"1p5","coal",2.03576326588093
+"519","Global",2040,"1p5","coal with CCS",9.18126207305
+"520","Global",2040,"1p5","electricity",6.5679126756556
+"521","Global",2040,"1p5","gas",0.456236274449596
+"522","Global",2040,"1p5","gas with CCS",1.76574994038248
+"523","Global",2040,"1p5","hydrogen",2.91790634355959
+"524","Global",2040,"1p5","refined liquids",0.488850506684276
+"525","Global",2040,"1p5","refined liquids with CCS",0.275220047488204
+"526","Global",2040,"1p5 delay","biomass",0.25070085219874
+"527","Global",2040,"1p5 delay","coal",8.01905051778803
+"528","Global",2040,"1p5 delay","coal with CCS",5.85474878233
+"529","Global",2040,"1p5 delay","electricity",6.27426968500201
+"530","Global",2040,"1p5 delay","gas",1.00325187209024
+"531","Global",2040,"1p5 delay","gas with CCS",1.16242196264037
+"532","Global",2040,"1p5 delay","hydrogen",2.32796535984863
+"533","Global",2040,"1p5 delay","refined liquids",0.594236101928662
+"534","Global",2040,"1p5 delay","refined liquids with CCS",0.17294629409735
+"535","Global",2045,"Ref","biomass",0.69960706558836
+"536","Global",2045,"Ref","coal",36.2561137185
+"537","Global",2045,"Ref","electricity",6.37906650747125
+"538","Global",2045,"Ref","gas",2.40389046634346
+"539","Global",2045,"Ref","gas with CCS",0.00000072245488
+"540","Global",2045,"Ref","hydrogen",0.714690013655864
+"541","Global",2045,"Ref","refined liquids",0.85055382550408
+"542","Global",2045,"1p5","biomass",0.034322093872309
+"543","Global",2045,"1p5","coal",0.374277658630166
+"544","Global",2045,"1p5","coal with CCS",6.340107838872
+"545","Global",2045,"1p5","electricity",6.93225998469347
+"546","Global",2045,"1p5","gas",0.136496515122738
+"547","Global",2045,"1p5","gas with CCS",1.46318023776832
+"548","Global",2045,"1p5","hydrogen",3.82923419253619
+"549","Global",2045,"1p5","refined liquids",0.421085677648775
+"550","Global",2045,"1p5","refined liquids with CCS",0.335323686829202
+"551","Global",2045,"1p5 delay","biomass",0.09776968986298
+"552","Global",2045,"1p5 delay","coal",1.24221860689403
+"553","Global",2045,"1p5 delay","coal with CCS",5.69154211533
+"554","Global",2045,"1p5 delay","electricity",6.9567739847245
+"555","Global",2045,"1p5 delay","gas",0.287145933201872
+"556","Global",2045,"1p5 delay","gas with CCS",1.6880655667142
+"557","Global",2045,"1p5 delay","hydrogen",3.45055807186336
+"558","Global",2045,"1p5 delay","refined liquids",0.532737195724001
+"559","Global",2045,"1p5 delay","refined liquids with CCS",0.297396503242922
+"560","Global",2050,"Ref","biomass",0.718441782614149
+"561","Global",2050,"Ref","coal",34.8363102085228
+"562","Global",2050,"Ref","electricity",6.77207497885468
+"563","Global",2050,"Ref","gas",2.50791431187706
+"564","Global",2050,"Ref","gas with CCS",0.00000094194171
+"565","Global",2050,"Ref","hydrogen",0.91332088567047
+"566","Global",2050,"Ref","refined liquids",0.90392800068645
+"567","Global",2050,"1p5","biomass",0.002616340593596
+"568","Global",2050,"1p5","coal",0.02007725449747
+"569","Global",2050,"1p5","coal with CCS",3.29543635633284
+"570","Global",2050,"1p5","electricity",6.97591460034989
+"571","Global",2050,"1p5","gas",0.021241970612882
+"572","Global",2050,"1p5","gas with CCS",0.828288459091389
+"573","Global",2050,"1p5","hydrogen",5.07152486089616
+"574","Global",2050,"1p5","refined liquids",0.330507626131938
+"575","Global",2050,"1p5","refined liquids with CCS",0.311143904098552
+"576","Global",2050,"1p5 delay","biomass",0.003778617433503
+"577","Global",2050,"1p5 delay","coal",0.022291248555991
+"578","Global",2050,"1p5 delay","coal with CCS",3.01567680688732
+"579","Global",2050,"1p5 delay","electricity",6.90596229343969
+"580","Global",2050,"1p5 delay","gas",0.016282309468745
+"581","Global",2050,"1p5 delay","gas with CCS",0.727731363220906
+"582","Global",2050,"1p5 delay","hydrogen",5.13485309290282
+"583","Global",2050,"1p5 delay","refined liquids",0.334578703993863
+"584","Global",2050,"1p5 delay","refined liquids with CCS",0.276589155975066
+"585","India",2015,"Ref","biomass",0
+"586","India",2015,"Ref","coal",2.648946
+"587","India",2015,"Ref","electricity",0.2232381
+"588","India",2015,"Ref","gas",0.00088008
+"589","India",2015,"Ref","hydrogen",0
+"590","India",2015,"Ref","refined liquids",0.02808806
+"591","India",2015,"1p5","biomass",0
+"592","India",2015,"1p5","coal",2.648946
+"593","India",2015,"1p5","coal with CCS",0
+"594","India",2015,"1p5","electricity",0.2232381
+"595","India",2015,"1p5","gas",0.00088008
+"596","India",2015,"1p5","gas with CCS",0
+"597","India",2015,"1p5","hydrogen",0
+"598","India",2015,"1p5","refined liquids",0.02808806
+"599","India",2015,"1p5","refined liquids with CCS",0
+"600","India",2015,"1p5 delay","biomass",0
+"601","India",2015,"1p5 delay","coal",2.648946
+"602","India",2015,"1p5 delay","coal with CCS",0
+"603","India",2015,"1p5 delay","electricity",0.2232381
+"604","India",2015,"1p5 delay","gas",0.00088008
+"605","India",2015,"1p5 delay","gas with CCS",0
+"606","India",2015,"1p5 delay","hydrogen",0
+"607","India",2015,"1p5 delay","refined liquids",0.02808806
+"608","India",2015,"1p5 delay","refined liquids with CCS",0
+"609","India",2020,"Ref","biomass",0.00237271
+"610","India",2020,"Ref","coal",3.43084898
+"611","India",2020,"Ref","electricity",0.2967312889
+"612","India",2020,"Ref","gas",0.00117959195
+"613","India",2020,"Ref","hydrogen",0.0040514
+"614","India",2020,"Ref","refined liquids",0.03753361905
+"615","India",2020,"1p5","biomass",0.00211208
+"616","India",2020,"1p5","coal",3.330262
+"617","India",2020,"1p5","coal with CCS",0
+"618","India",2020,"1p5","electricity",0.30057921
+"619","India",2020,"1p5","gas",0.00122130285
+"620","India",2020,"1p5","gas with CCS",0
+"621","India",2020,"1p5","hydrogen",0
+"622","India",2020,"1p5","refined liquids",0.03887056035
+"623","India",2020,"1p5","refined liquids with CCS",0
+"624","India",2020,"1p5 delay","biomass",0.00211208
+"625","India",2020,"1p5 delay","coal",3.330262
+"626","India",2020,"1p5 delay","coal with CCS",0
+"627","India",2020,"1p5 delay","electricity",0.30057921
+"628","India",2020,"1p5 delay","gas",0.00122130285
+"629","India",2020,"1p5 delay","gas with CCS",0
+"630","India",2020,"1p5 delay","hydrogen",0
+"631","India",2020,"1p5 delay","refined liquids",0.03887056035
+"632","India",2020,"1p5 delay","refined liquids with CCS",0
+"633","India",2025,"Ref","biomass",0.04324489
+"634","India",2025,"Ref","coal",5.79435042
+"635","India",2025,"Ref","electricity",0.5493345359
+"636","India",2025,"Ref","gas",0.002292015
+"637","India",2025,"Ref","hydrogen",0.02639476
+"638","India",2025,"Ref","refined liquids",0.0710538528
+"639","India",2025,"1p5","biomass",0.33539742
+"640","India",2025,"1p5","coal",2.5687689
+"641","India",2025,"1p5","coal with CCS",0.487749
+"642","India",2025,"1p5","electricity",0.518288561
+"643","India",2025,"1p5","gas",0.00230767145
+"644","India",2025,"1p5","gas with CCS",0.000218471
+"645","India",2025,"1p5","hydrogen",0.0647373
+"646","India",2025,"1p5","refined liquids",0.06592513945
+"647","India",2025,"1p5","refined liquids with CCS",0.0065089392
+"648","India",2025,"1p5 delay","biomass",0.02626987
+"649","India",2025,"1p5 delay","coal",5.0788821
+"650","India",2025,"1p5 delay","coal with CCS",0
+"651","India",2025,"1p5 delay","electricity",0.5473991389
+"652","India",2025,"1p5 delay","gas",0.00230691354
+"653","India",2025,"1p5 delay","gas with CCS",0
+"654","India",2025,"1p5 delay","hydrogen",0.03886043
+"655","India",2025,"1p5 delay","refined liquids",0.07241671614
+"656","India",2025,"1p5 delay","refined liquids with CCS",0
+"657","India",2030,"Ref","biomass",0.08601693
+"658","India",2030,"Ref","coal",7.52835298
+"659","India",2030,"Ref","electricity",0.7591561852
+"660","India",2030,"Ref","gas",0.003242485295
+"661","India",2030,"Ref","hydrogen",0.058664284
+"662","India",2030,"Ref","refined liquids",0.098617389595
+"663","India",2030,"1p5","biomass",0.3816027
+"664","India",2030,"1p5","coal",1.6152257
+"665","India",2030,"1p5","coal with CCS",1.3108487
+"666","India",2030,"1p5","electricity",0.7057980747
+"667","India",2030,"1p5","gas",0.002733953018
+"668","India",2030,"1p5","gas with CCS",0.0006312
+"669","India",2030,"1p5","hydrogen",0.1941044
+"670","India",2030,"1p5","refined liquids",0.077924078578
+"671","India",2030,"1p5","refined liquids with CCS",0.0188010474
+"672","India",2030,"1p5 delay","biomass",0.04199355
+"673","India",2030,"1p5 delay","coal",5.8959986
+"674","India",2030,"1p5 delay","coal with CCS",0
+"675","India",2030,"1p5 delay","electricity",0.7329246029
+"676","India",2030,"1p5 delay","gas",0.003089829605
+"677","India",2030,"1p5 delay","gas with CCS",0
+"678","India",2030,"1p5 delay","hydrogen",0.12930473
+"679","India",2030,"1p5 delay","refined liquids",0.095427742505
+"680","India",2030,"1p5 delay","refined liquids with CCS",0
+"681","India",2035,"Ref","biomass",0.12531448
+"682","India",2035,"Ref","coal",8.982784733
+"683","India",2035,"Ref","electricity",0.9605147579
+"684","India",2035,"Ref","gas",0.004207018167
+"685","India",2035,"Ref","hydrogen",0.104765206
+"686","India",2035,"Ref","refined liquids",0.125524099467
+"687","India",2035,"1p5","biomass",0.288506456
+"688","India",2035,"1p5","coal",1.18749612
+"689","India",2035,"1p5","coal with CCS",1.7875914
+"690","India",2035,"1p5","electricity",0.8884254899
+"691","India",2035,"1p5","gas",0.002694518063
+"692","India",2035,"1p5","gas with CCS",0.001279443
+"693","India",2035,"1p5","hydrogen",0.3182094
+"694","India",2035,"1p5","refined liquids",0.080308104734
+"695","India",2035,"1p5","refined liquids with CCS",0.0380712293
+"696","India",2035,"1p5 delay","biomass",0.080277517
+"697","India",2035,"1p5 delay","coal",3.5130762
+"698","India",2035,"1p5 delay","coal with CCS",0.99508
+"699","India",2035,"1p5 delay","electricity",0.8896636949
+"700","India",2035,"1p5 delay","gas",0.003377591796
+"701","India",2035,"1p5 delay","gas with CCS",0.000572052
+"702","India",2035,"1p5 delay","hydrogen",0.2649445
+"703","India",2035,"1p5 delay","refined liquids",0.102557066456
+"704","India",2035,"1p5 delay","refined liquids with CCS",0.0170307567
+"705","India",2040,"Ref","biomass",0.151356283
+"706","India",2040,"Ref","coal",10.09136665
+"707","India",2040,"Ref","electricity",1.1505907199
+"708","India",2040,"Ref","gas",0.005231103314
+"709","India",2040,"Ref","hydrogen",0.158053592
+"710","India",2040,"Ref","refined liquids",0.153331651564
+"711","India",2040,"1p5","biomass",0.152307556
+"712","India",2040,"1p5","coal",0.8822792612
+"713","India",2040,"1p5","coal with CCS",1.9141383
+"714","India",2040,"1p5","electricity",1.067156566939
+"715","India",2040,"1p5","gas",0.002119520741
+"716","India",2040,"1p5","gas with CCS",0.0022672345
+"717","India",2040,"1p5","hydrogen",0.454612
+"718","India",2040,"1p5","refined liquids",0.07035431243843
+"719","India",2040,"1p5","refined liquids with CCS",0.06740831568
+"720","India",2040,"1p5 delay","biomass",0.068255426
+"721","India",2040,"1p5 delay","coal",1.72326208
+"722","India",2040,"1p5 delay","coal with CCS",1.744551
+"723","India",2040,"1p5 delay","electricity",1.06255696626
+"724","India",2040,"1p5 delay","gas",0.00324386323
+"725","India",2040,"1p5 delay","gas with CCS",0.001460863
+"726","India",2040,"1p5 delay","hydrogen",0.37762575
+"727","India",2040,"1p5 delay","refined liquids",0.1015054830576
+"728","India",2040,"1p5 delay","refined liquids with CCS",0.0434563706
+"729","India",2045,"Ref","biomass",0.1631031
+"730","India",2045,"Ref","coal",10.8394172
+"731","India",2045,"Ref","electricity",1.314249971
+"732","India",2045,"Ref","gas",0.00618268927
+"733","India",2045,"Ref","hydrogen",0.222996031
+"734","India",2045,"Ref","refined liquids",0.17806745947
+"735","India",2045,"1p5","biomass",0.0093649465
+"736","India",2045,"1p5","coal",0.24239018471042
+"737","India",2045,"1p5","coal with CCS",1.68733908
+"738","India",2045,"1p5","electricity",1.23477373171519
+"739","India",2045,"1p5","gas",0.0006327984336
+"740","India",2045,"1p5","gas with CCS",0.0035360918
+"741","India",2045,"1p5","hydrogen",0.765126412
+"742","India",2045,"1p5","refined liquids",0.036671292291495
+"743","India",2045,"1p5","refined liquids with CCS",0.105075531842
+"744","India",2045,"1p5 delay","biomass",0.030569789
+"745","India",2045,"1p5 delay","coal",0.75763988621
+"746","India",2045,"1p5 delay","coal with CCS",2.0208597
+"747","India",2045,"1p5 delay","electricity",1.200291768196
+"748","India",2045,"1p5 delay","gas",0.0018583330737
+"749","India",2045,"1p5 delay","gas with CCS",0.002848839
+"750","India",2045,"1p5 delay","hydrogen",0.595986055
+"751","India",2045,"1p5 delay","refined liquids",0.067929980055694
+"752","India",2045,"1p5 delay","refined liquids with CCS",0.08468312033
+"753","India",2050,"Ref","biomass",0.16308692
+"754","India",2050,"Ref","coal",11.22072
+"755","India",2050,"Ref","electricity",1.447273913
+"756","India",2050,"Ref","gas",0.00701397512
+"757","India",2050,"Ref","hydrogen",0.28750775
+"758","India",2050,"Ref","refined liquids",0.19909386412
+"759","India",2050,"1p5","biomass",0.000017337847
+"760","India",2050,"1p5","coal",0.001903718401936
+"761","India",2050,"1p5","coal with CCS",1.296632268
+"762","India",2050,"1p5","electricity",1.30477805996169
+"763","India",2050,"1p5","gas",0.000004995431884
+"764","India",2050,"1p5","gas with CCS",0.0034502356
+"765","India",2050,"1p5","hydrogen",1.175964204758
+"766","India",2050,"1p5","refined liquids",0.021790982952884
+"767","India",2050,"1p5","refined liquids with CCS",0.1025089042514
+"768","India",2050,"1p5 delay","biomass",0.0000057259144
+"769","India",2050,"1p5 delay","coal",0.00099241197031
+"770","India",2050,"1p5 delay","coal with CCS",1.157180626
+"771","India",2050,"1p5 delay","electricity",1.29603690355321
+"772","India",2050,"1p5 delay","gas",0.000002595175152
+"773","India",2050,"1p5 delay","gas with CCS",0.003073563
+"774","India",2050,"1p5 delay","hydrogen",1.322781968163
+"775","India",2050,"1p5 delay","refined liquids",0.022194776465152
+"776","India",2050,"1p5 delay","refined liquids with CCS",0.0913178506232
+"777","Japan",2015,"Ref","biomass",0
+"778","Japan",2015,"Ref","coal",1.4313579
+"779","Japan",2015,"Ref","electricity",0.2599107
+"780","Japan",2015,"Ref","gas",0.09933264
+"781","Japan",2015,"Ref","hydrogen",0
+"782","Japan",2015,"Ref","refined liquids",0.08280043
+"783","Japan",2015,"1p5","biomass",0
+"784","Japan",2015,"1p5","coal",1.4313579
+"785","Japan",2015,"1p5","coal with CCS",0
+"786","Japan",2015,"1p5","electricity",0.2599107
+"787","Japan",2015,"1p5","gas",0.09933264
+"788","Japan",2015,"1p5","gas with CCS",0
+"789","Japan",2015,"1p5","hydrogen",0
+"790","Japan",2015,"1p5","refined liquids",0.08280043
+"791","Japan",2015,"1p5","refined liquids with CCS",0
+"792","Japan",2015,"1p5 delay","biomass",0
+"793","Japan",2015,"1p5 delay","coal",1.4313579
+"794","Japan",2015,"1p5 delay","coal with CCS",0
+"795","Japan",2015,"1p5 delay","electricity",0.2599107
+"796","Japan",2015,"1p5 delay","gas",0.09933264
+"797","Japan",2015,"1p5 delay","gas with CCS",0
+"798","Japan",2015,"1p5 delay","hydrogen",0
+"799","Japan",2015,"1p5 delay","refined liquids",0.08280043
+"800","Japan",2015,"1p5 delay","refined liquids with CCS",0
+"801","Japan",2020,"Ref","biomass",0.000126485
+"802","Japan",2020,"Ref","coal",1.358101755
+"803","Japan",2020,"Ref","electricity",0.24458550097
+"804","Japan",2020,"Ref","gas",0.0908156486728
+"805","Japan",2020,"Ref","hydrogen",0.001116058
+"806","Japan",2020,"Ref","refined liquids",0.0760223791728
+"807","Japan",2020,"1p5","biomass",0.000119899
+"808","Japan",2020,"1p5","coal",1.34942563
+"809","Japan",2020,"1p5","coal with CCS",0
+"810","Japan",2020,"1p5","electricity",0.24506041756
+"811","Japan",2020,"1p5","gas",0.0923196139622
+"812","Japan",2020,"1p5","gas with CCS",0
+"813","Japan",2020,"1p5","hydrogen",0
+"814","Japan",2020,"1p5","refined liquids",0.0772657234622
+"815","Japan",2020,"1p5","refined liquids with CCS",0
+"816","Japan",2020,"1p5 delay","biomass",0.000119899
+"817","Japan",2020,"1p5 delay","coal",1.34942563
+"818","Japan",2020,"1p5 delay","coal with CCS",0
+"819","Japan",2020,"1p5 delay","electricity",0.24506041756
+"820","Japan",2020,"1p5 delay","gas",0.0923196139622
+"821","Japan",2020,"1p5 delay","gas with CCS",0
+"822","Japan",2020,"1p5 delay","hydrogen",0
+"823","Japan",2020,"1p5 delay","refined liquids",0.0772657234622
+"824","Japan",2020,"1p5 delay","refined liquids with CCS",0
+"825","Japan",2025,"Ref","biomass",0.001968872
+"826","Japan",2025,"Ref","coal",1.341865001
+"827","Japan",2025,"Ref","electricity",0.24002023198
+"828","Japan",2025,"Ref","gas",0.086118995176
+"829","Japan",2025,"Ref","hydrogen",0.0036898438
+"830","Japan",2025,"Ref","refined liquids",0.072495546376
+"831","Japan",2025,"1p5","biomass",0.0044195191
+"832","Japan",2025,"1p5","coal",1.00141348
+"833","Japan",2025,"1p5","coal with CCS",0.02536831
+"834","Japan",2025,"1p5","electricity",0.21614771304
+"835","Japan",2025,"1p5","gas",0.0837263185896
+"836","Japan",2025,"1p5","gas with CCS",0.00421652676
+"837","Japan",2025,"1p5","hydrogen",0.009621184
+"838","Japan",2025,"1p5","refined liquids",0.0717111755896
+"839","Japan",2025,"1p5","refined liquids with CCS",0.0031137737
+"840","Japan",2025,"1p5 delay","biomass",0.0012070548
+"841","Japan",2025,"1p5 delay","coal",1.21667632
+"842","Japan",2025,"1p5 delay","coal with CCS",0
+"843","Japan",2025,"1p5 delay","electricity",0.22648289165
+"844","Japan",2025,"1p5 delay","gas",0.0809380038051
+"845","Japan",2025,"1p5 delay","gas with CCS",0
+"846","Japan",2025,"1p5 delay","hydrogen",0.006164099
+"847","Japan",2025,"1p5 delay","refined liquids",0.0690406039051
+"848","Japan",2025,"1p5 delay","refined liquids with CCS",0
+"849","Japan",2030,"Ref","biomass",0.0056676852
+"850","Japan",2030,"Ref","coal",1.2957957545
+"851","Japan",2030,"Ref","electricity",0.23155037129
+"852","Japan",2030,"Ref","gas",0.0806418688549
+"853","Japan",2030,"Ref","hydrogen",0.0060769859
+"854","Japan",2030,"Ref","refined liquids",0.0683821021549
+"855","Japan",2030,"1p5","biomass",0.0106535716
+"856","Japan",2030,"1p5","coal",0.595803854
+"857","Japan",2030,"1p5","coal with CCS",0.22359495
+"858","Japan",2030,"1p5","electricity",0.22051834461
+"859","Japan",2030,"1p5","gas",0.0693421841898
+"860","Japan",2030,"1p5","gas with CCS",0.01446011467
+"861","Japan",2030,"1p5","hydrogen",0.038122443
+"862","Japan",2030,"1p5","refined liquids",0.0649844187898
+"863","Japan",2030,"1p5","refined liquids with CCS",0.0107989419
+"864","Japan",2030,"1p5 delay","biomass",0.0031507548
+"865","Japan",2030,"1p5 delay","coal",1.06642446
+"866","Japan",2030,"1p5 delay","coal with CCS",0
+"867","Japan",2030,"1p5 delay","electricity",0.21343612852
+"868","Japan",2030,"1p5 delay","gas",0.0670623324467
+"869","Japan",2030,"1p5 delay","gas with CCS",0
+"870","Japan",2030,"1p5 delay","hydrogen",0.019952073
+"871","Japan",2030,"1p5 delay","refined liquids",0.0604378520467
+"872","Japan",2030,"1p5 delay","refined liquids with CCS",0
+"873","Japan",2035,"Ref","biomass",0.0097898204
+"874","Japan",2035,"Ref","coal",1.2491138634
+"875","Japan",2035,"Ref","electricity",0.223570530863
+"876","Japan",2035,"Ref","gas",0.0765520255668
+"877","Japan",2035,"Ref","hydrogen",0.00786631359
+"878","Japan",2035,"Ref","refined liquids",0.0652701857568
+"879","Japan",2035,"1p5","biomass",0.0098675893
+"880","Japan",2035,"1p5","coal",0.228062368
+"881","Japan",2035,"1p5","coal with CCS",0.485911149
+"882","Japan",2035,"1p5","electricity",0.215661031994
+"883","Japan",2035,"1p5","gas",0.045348255022
+"884","Japan",2035,"1p5","gas with CCS",0.02278589593
+"885","Japan",2035,"1p5","hydrogen",0.050147683
+"886","Japan",2035,"1p5","refined liquids",0.049705927542
+"887","Japan",2035,"1p5","refined liquids with CCS",0.0171345908
+"888","Japan",2035,"1p5 delay","biomass",0.0076152006
+"889","Japan",2035,"1p5 delay","coal",0.635715404
+"890","Japan",2035,"1p5 delay","coal with CCS",0.17563942
+"891","Japan",2035,"1p5 delay","electricity",0.199357447247
+"892","Japan",2035,"1p5 delay","gas",0.0507125101245
+"893","Japan",2035,"1p5 delay","gas with CCS",0.008561888
+"894","Japan",2035,"1p5 delay","hydrogen",0.034661182
+"895","Japan",2035,"1p5 delay","refined liquids",0.0509203527445
+"896","Japan",2035,"1p5 delay","refined liquids with CCS",0.006432267
+"897","Japan",2040,"Ref","biomass",0.01191439
+"898","Japan",2040,"Ref","coal",1.204744873
+"899","Japan",2040,"Ref","electricity",0.2159739257
+"900","Japan",2040,"Ref","gas",0.073845311251
+"901","Japan",2040,"Ref","hydrogen",0.0083541862
+"902","Japan",2040,"Ref","refined liquids",0.063071842351
+"903","Japan",2040,"1p5","biomass",0.0048460656
+"904","Japan",2040,"1p5","coal",0.056822383
+"905","Japan",2040,"1p5","coal with CCS",0.535957128
+"906","Japan",2040,"1p5","electricity",0.20741460141
+"907","Japan",2040,"1p5","gas",0.0235830083773
+"908","Japan",2040,"1p5","gas with CCS",0.02964641173
+"909","Japan",2040,"1p5","hydrogen",0.0587411783
+"910","Japan",2040,"1p5","refined liquids",0.0358697689713
+"911","Japan",2040,"1p5","refined liquids with CCS",0.02220854838
+"912","Japan",2040,"1p5 delay","biomass",0.006235709
+"913","Japan",2040,"1p5 delay","coal",0.342122851
+"914","Japan",2040,"1p5 delay","coal with CCS",0.33784658
+"915","Japan",2040,"1p5 delay","electricity",0.19887069552
+"916","Japan",2040,"1p5 delay","gas",0.037730062573
+"917","Japan",2040,"1p5 delay","gas with CCS",0.0162807586
+"918","Japan",2040,"1p5 delay","hydrogen",0.0401697315
+"919","Japan",2040,"1p5 delay","refined liquids",0.044169255973
+"920","Japan",2040,"1p5 delay","refined liquids with CCS",0.012234604
+"921","Japan",2045,"Ref","biomass",0.013373855
+"922","Japan",2045,"Ref","coal",1.158608482
+"923","Japan",2045,"Ref","electricity",0.208461299
+"924","Japan",2045,"Ref","gas",0.071020887315
+"925","Japan",2045,"Ref","hydrogen",0.010144391
+"926","Japan",2045,"Ref","refined liquids",0.060802302715
+"927","Japan",2045,"1p5","biomass",0.000198472804
+"928","Japan",2045,"1p5","coal",0.00212706931
+"929","Japan",2045,"1p5","coal with CCS",0.369583399
+"930","Japan",2045,"1p5","electricity",0.2100790522825
+"931","Japan",2045,"1p5","gas",0.00359695798388
+"932","Japan",2045,"1p5","gas with CCS",0.04184186111
+"933","Japan",2045,"1p5","hydrogen",0.08220040235
+"934","Japan",2045,"1p5","refined liquids",0.02591969638786
+"935","Japan",2045,"1p5","refined liquids with CCS",0.0310029823
+"936","Japan",2045,"1p5 delay","biomass",0.00144722518
+"937","Japan",2045,"1p5 delay","coal",0.0199606998
+"938","Japan",2045,"1p5 delay","coal with CCS",0.30309239
+"939","Japan",2045,"1p5 delay","electricity",0.222732536183
+"940","Japan",2045,"1p5 delay","gas",0.0127823601758
+"941","Japan",2045,"1p5 delay","gas with CCS",0.0378072587
+"942","Japan",2045,"1p5 delay","hydrogen",0.07698986148
+"943","Japan",2045,"1p5 delay","refined liquids",0.0359358225476
+"944","Japan",2045,"1p5 delay","refined liquids with CCS",0.0279861886
+"945","Japan",2050,"Ref","biomass",0.01375077
+"946","Japan",2050,"Ref","coal",1.11514004
+"947","Japan",2050,"Ref","electricity",0.2007580748
+"948","Japan",2050,"Ref","gas",0.068080727674
+"949","Japan",2050,"Ref","hydrogen",0.011376
+"950","Japan",2050,"Ref","refined liquids",0.058405883274
+"951","Japan",2050,"1p5","biomass",0.00000064201074
+"952","Japan",2050,"1p5","coal",0.00002597916987
+"953","Japan",2050,"1p5","coal with CCS",0.185003511
+"954","Japan",2050,"1p5","electricity",0.204145142833172
+"955","Japan",2050,"1p5","gas",0.000061992280657
+"956","Japan",2050,"1p5","gas with CCS",0.04315565892
+"957","Japan",2050,"1p5","hydrogen",0.13499689835618
+"958","Japan",2050,"1p5","refined liquids",0.023166472261205
+"959","Japan",2050,"1p5","refined liquids with CCS",0.03180321815
+"960","Japan",2050,"1p5 delay","biomass",0.00000078333601
+"961","Japan",2050,"1p5 delay","coal",0.00002055608145
+"962","Japan",2050,"1p5 delay","coal with CCS",0.18128352
+"963","Japan",2050,"1p5 delay","electricity",0.201335485808422
+"964","Japan",2050,"1p5 delay","gas",0.000045436939286
+"965","Japan",2050,"1p5 delay","gas with CCS",0.03744281911
+"966","Japan",2050,"1p5 delay","hydrogen",0.13128559995126
+"967","Japan",2050,"1p5 delay","refined liquids",0.023644719666479
+"968","Japan",2050,"1p5 delay","refined liquids with CCS",0.02761148675
+"969","ROW",2015,"Ref","biomass",0
+"970","ROW",2015,"Ref","coal",3.9645183182
+"971","ROW",2015,"Ref","electricity",0.868528146
+"972","ROW",2015,"Ref","gas",1.26316549869
+"973","ROW",2015,"Ref","gas with CCS",0
+"974","ROW",2015,"Ref","hydrogen",0
+"975","ROW",2015,"Ref","refined liquids",0.1980806463
+"976","ROW",2015,"1p5","biomass",0
+"977","ROW",2015,"1p5","coal",3.9645173182
+"978","ROW",2015,"1p5","coal with CCS",0
+"979","ROW",2015,"1p5","electricity",0.868528146
+"980","ROW",2015,"1p5","gas",1.26316549869
+"981","ROW",2015,"1p5","gas with CCS",0
+"982","ROW",2015,"1p5","hydrogen",0
+"983","ROW",2015,"1p5","refined liquids",0.1980806463
+"984","ROW",2015,"1p5","refined liquids with CCS",0
+"985","ROW",2015,"1p5 delay","biomass",0
+"986","ROW",2015,"1p5 delay","coal",3.9645173182
+"987","ROW",2015,"1p5 delay","coal with CCS",0
+"988","ROW",2015,"1p5 delay","electricity",0.868528146
+"989","ROW",2015,"1p5 delay","gas",1.26316549869
+"990","ROW",2015,"1p5 delay","gas with CCS",0
+"991","ROW",2015,"1p5 delay","hydrogen",0
+"992","ROW",2015,"1p5 delay","refined liquids",0.1980806463
+"993","ROW",2015,"1p5 delay","refined liquids with CCS",0
+"994","ROW",2020,"Ref","biomass",0.0035706933895
+"995","ROW",2020,"Ref","coal",4.2478768448764
+"996","ROW",2020,"Ref","electricity",0.915385619031704
+"997","ROW",2020,"Ref","gas",1.11433444084185
+"998","ROW",2020,"Ref","gas with CCS",0.000000005528437
+"999","ROW",2020,"Ref","hydrogen",0.02184646429277
+"1000","ROW",2020,"Ref","refined liquids",0.19832820353202
+"1001","ROW",2020,"1p5","biomass",0.004354531427
+"1002","ROW",2020,"1p5","coal",4.181628512287
+"1003","ROW",2020,"1p5","coal with CCS",0
+"1004","ROW",2020,"1p5","electricity",0.926651223210219
+"1005","ROW",2020,"1p5","gas",1.17997413379874
+"1006","ROW",2020,"1p5","gas with CCS",0
+"1007","ROW",2020,"1p5","hydrogen",0
+"1008","ROW",2020,"1p5","refined liquids",0.218259782255322
+"1009","ROW",2020,"1p5","refined liquids with CCS",0
+"1010","ROW",2020,"1p5 delay","biomass",0.004354531398
+"1011","ROW",2020,"1p5 delay","coal",4.181628611287
+"1012","ROW",2020,"1p5 delay","coal with CCS",0
+"1013","ROW",2020,"1p5 delay","electricity",0.926651228106019
+"1014","ROW",2020,"1p5 delay","gas",1.17997413577572
+"1015","ROW",2020,"1p5 delay","gas with CCS",0
+"1016","ROW",2020,"1p5 delay","hydrogen",0
+"1017","ROW",2020,"1p5 delay","refined liquids",0.218259782255301
+"1018","ROW",2020,"1p5 delay","refined liquids with CCS",0
+"1019","ROW",2025,"Ref","biomass",0.031834391733464
+"1020","ROW",2025,"Ref","coal",4.43439614009901
+"1021","ROW",2025,"Ref","electricity",1.03980470903374
+"1022","ROW",2025,"Ref","gas",1.14176336867182
+"1023","ROW",2025,"Ref","gas with CCS",0.000000062548372
+"1024","ROW",2025,"Ref","hydrogen",0.063864277910033
+"1025","ROW",2025,"Ref","refined liquids",0.253098381569856
+"1026","ROW",2025,"1p5","biomass",0.1209870163115
+"1027","ROW",2025,"1p5","coal",3.0846194029279
+"1028","ROW",2025,"1p5","coal with CCS",0.15584835407
+"1029","ROW",2025,"1p5","electricity",0.964741014629585
+"1030","ROW",2025,"1p5","gas",0.971227484205453
+"1031","ROW",2025,"1p5","gas with CCS",0.062084695908828
+"1032","ROW",2025,"1p5","hydrogen",0.13516095023411
+"1033","ROW",2025,"1p5","refined liquids",0.225153969575233
+"1034","ROW",2025,"1p5","refined liquids with CCS",0.015164570378938
+"1035","ROW",2025,"1p5 delay","biomass",0.0257525958763
+"1036","ROW",2025,"1p5 delay","coal",4.184314254637
+"1037","ROW",2025,"1p5 delay","coal with CCS",0
+"1038","ROW",2025,"1p5 delay","electricity",1.01175678741288
+"1039","ROW",2025,"1p5 delay","gas",1.09384219370833
+"1040","ROW",2025,"1p5 delay","gas with CCS",0.00000000492025
+"1041","ROW",2025,"1p5 delay","hydrogen",0.097594123562
+"1042","ROW",2025,"1p5 delay","refined liquids",0.242847391611732
+"1043","ROW",2025,"1p5 delay","refined liquids with CCS",0
+"1044","ROW",2030,"Ref","biomass",0.076739095607521
+"1045","ROW",2030,"Ref","coal",4.54369259824199
+"1046","ROW",2030,"Ref","electricity",1.19324480382939
+"1047","ROW",2030,"Ref","gas",1.20760029635993
+"1048","ROW",2030,"Ref","gas with CCS",0.000000178173813
+"1049","ROW",2030,"Ref","hydrogen",0.120132250885937
+"1050","ROW",2030,"Ref","refined liquids",0.321141510820256
+"1051","ROW",2030,"1p5","biomass",0.1704602500986
+"1052","ROW",2030,"1p5","coal",1.8248552976637
+"1053","ROW",2030,"1p5","coal with CCS",0.82242829402
+"1054","ROW",2030,"1p5","electricity",1.11135817214198
+"1055","ROW",2030,"1p5","gas",0.671552631672625
+"1056","ROW",2030,"1p5","gas with CCS",0.169052295152381
+"1057","ROW",2030,"1p5","hydrogen",0.40642725702192
+"1058","ROW",2030,"1p5","refined liquids",0.222522800744038
+"1059","ROW",2030,"1p5","refined liquids with CCS",0.040627693646441
+"1060","ROW",2030,"1p5 delay","biomass",0.04763072283121
+"1061","ROW",2030,"1p5 delay","coal",3.9516024888895
+"1062","ROW",2030,"1p5 delay","coal with CCS",0
+"1063","ROW",2030,"1p5 delay","electricity",1.09640921429131
+"1064","ROW",2030,"1p5 delay","gas",0.952289309647041
+"1065","ROW",2030,"1p5 delay","gas with CCS",0.000000034294066
+"1066","ROW",2030,"1p5 delay","hydrogen",0.2853809651172
+"1067","ROW",2030,"1p5 delay","refined liquids",0.253238601911231
+"1068","ROW",2030,"1p5 delay","refined liquids with CCS",0
+"1069","ROW",2035,"Ref","biomass",0.123254206834108
+"1070","ROW",2035,"Ref","coal",4.59719981807122
+"1071","ROW",2035,"Ref","electricity",1.37932276011287
+"1072","ROW",2035,"Ref","gas",1.29861027512366
+"1073","ROW",2035,"Ref","gas with CCS",0.000000335958159
+"1074","ROW",2035,"Ref","hydrogen",0.177211250702061
+"1075","ROW",2035,"Ref","refined liquids",0.388997267096483
+"1076","ROW",2035,"1p5","biomass",0.1464431981656
+"1077","ROW",2035,"1p5","coal",0.793419316270963
+"1078","ROW",2035,"1p5","coal with CCS",1.5581485244
+"1079","ROW",2035,"1p5","electricity",1.24469088925473
+"1080","ROW",2035,"1p5","gas",0.424836119021373
+"1081","ROW",2035,"1p5","gas with CCS",0.271742179898421
+"1082","ROW",2035,"1p5","hydrogen",0.60476304122235
+"1083","ROW",2035,"1p5","refined liquids",0.197942243668546
+"1084","ROW",2035,"1p5","refined liquids with CCS",0.071943843856074
+"1085","ROW",2035,"1p5 delay","biomass",0.09423392664501
+"1086","ROW",2035,"1p5 delay","coal",2.3982781546433
+"1087","ROW",2035,"1p5 delay","coal with CCS",0.67389356101
+"1088","ROW",2035,"1p5 delay","electricity",1.15541303882148
+"1089","ROW",2035,"1p5 delay","gas",0.640213853433652
+"1090","ROW",2035,"1p5 delay","gas with CCS",0.11849532511142
+"1091","ROW",2035,"1p5 delay","hydrogen",0.472301721221158
+"1092","ROW",2035,"1p5 delay","refined liquids",0.233072626847232
+"1093","ROW",2035,"1p5 delay","refined liquids with CCS",0.03128132212753
+"1094","ROW",2040,"Ref","biomass",0.155401951567975
+"1095","ROW",2040,"Ref","coal",4.67075844831315
+"1096","ROW",2040,"Ref","electricity",1.641647384602
+"1097","ROW",2040,"Ref","gas",1.43174715522817
+"1098","ROW",2040,"Ref","gas with CCS",0.00000051137876
+"1099","ROW",2040,"Ref","hydrogen",0.236802710754334
+"1100","ROW",2040,"Ref","refined liquids",0.455666136370019
+"1101","ROW",2040,"1p5","biomass",0.081949869693888
+"1102","ROW",2040,"1p5","coal",0.360811256590933
+"1103","ROW",2040,"1p5","coal with CCS",1.79927272305
+"1104","ROW",2040,"1p5","electricity",1.4033334018756
+"1105","ROW",2040,"1p5","gas",0.265270658545796
+"1106","ROW",2040,"1p5","gas with CCS",0.351778200356277
+"1107","ROW",2040,"1p5","hydrogen",0.746163473929592
+"1108","ROW",2040,"1p5","refined liquids",0.156470243066816
+"1109","ROW",2040,"1p5","refined liquids with CCS",0.106498522176904
+"1110","ROW",2040,"1p5 delay","biomass",0.08096649839874
+"1111","ROW",2040,"1p5 delay","coal",1.26025720598803
+"1112","ROW",2040,"1p5 delay","coal with CCS",1.34920519233
+"1113","ROW",2040,"1p5 delay","electricity",1.30420808199201
+"1114","ROW",2040,"1p5 delay","gas",0.437144263603236
+"1115","ROW",2040,"1p5 delay","gas with CCS",0.238067955370368
+"1116","ROW",2040,"1p5 delay","hydrogen",0.606700305808633
+"1117","ROW",2040,"1p5 delay","refined liquids",0.210876821515462
+"1118","ROW",2040,"1p5 delay","refined liquids with CCS",0.06658852091535
+"1119","ROW",2045,"Ref","biomass",0.17705736458836
+"1120","ROW",2045,"Ref","coal",4.6971499691
+"1121","ROW",2045,"Ref","electricity",2.01209937299125
+"1122","ROW",2045,"Ref","gas",1.57886962198726
+"1123","ROW",2045,"Ref","gas with CCS",0.00000072245488
+"1124","ROW",2045,"Ref","hydrogen",0.325021927855864
+"1125","ROW",2045,"Ref","refined liquids",0.50918223957688
+"1126","ROW",2045,"1p5","biomass",0.019764310382409
+"1127","ROW",2045,"1p5","coal",0.118089582453246
+"1128","ROW",2045,"1p5","coal with CCS",1.417966243872
+"1129","ROW",2045,"1p5","electricity",1.70394668155837
+"1130","ROW",2045,"1p5","gas",0.116409781645649
+"1131","ROW",2045,"1p5","gas with CCS",0.404290543332317
+"1132","ROW",2045,"1p5","hydrogen",0.912641640120791
+"1133","ROW",2045,"1p5","refined liquids",0.139016443159154
+"1134","ROW",2045,"1p5","refined liquids with CCS",0.135197435597002
+"1135","ROW",2045,"1p5 delay","biomass",0.03810371427598
+"1136","ROW",2045,"1p5 delay","coal",0.297960404524031
+"1137","ROW",2045,"1p5 delay","coal with CCS",1.38284833133
+"1138","ROW",2045,"1p5 delay","electricity",1.6063108997772
+"1139","ROW",2045,"1p5 delay","gas",0.200564426626685
+"1140","ROW",2045,"1p5 delay","gas with CCS",0.381226588664199
+"1141","ROW",2045,"1p5 delay","hydrogen",0.783708448074361
+"1142","ROW",2045,"1p5 delay","refined liquids",0.182924033248396
+"1143","ROW",2045,"1p5 delay","refined liquids with CCS",0.110101576474922
+"1144","ROW",2050,"Ref","biomass",0.188213567614149
+"1145","ROW",2050,"Ref","coal",4.69327074552281
+"1146","ROW",2050,"Ref","electricity",2.50409162876468
+"1147","ROW",2050,"Ref","gas",1.72598251659206
+"1148","ROW",2050,"Ref","gas with CCS",0.00000094194171
+"1149","ROW",2050,"Ref","hydrogen",0.43616953757047
+"1150","ROW",2050,"Ref","refined liquids",0.54945885188245
+"1151","ROW",2050,"1p5","biomass",0.002592530558344
+"1152","ROW",2050,"1p5","coal",0.018103764261129
+"1153","ROW",2050,"1p5","coal with CCS",0.79686109413284
+"1154","ROW",2050,"1p5","electricity",2.05008685862822
+"1155","ROW",2050,"1p5","gas",0.02105175453539
+"1156","ROW",2050,"1p5","gas with CCS",0.399817720757389
+"1157","ROW",2050,"1p5","hydrogen",1.3003159807505
+"1158","ROW",2050,"1p5","refined liquids",0.08936855083618
+"1159","ROW",2050,"1p5","refined liquids with CCS",0.144853722330252
+"1160","ROW",2050,"1p5 delay","biomass",0.003766837252224
+"1161","ROW",2050,"1p5 delay","coal",0.02125131612334
+"1162","ROW",2050,"1p5 delay","coal with CCS",0.75818954418732
+"1163","ROW",2050,"1p5 delay","electricity",2.00041786396616
+"1164","ROW",2050,"1p5 delay","gas",0.01617071841658
+"1165","ROW",2050,"1p5 delay","gas with CCS",0.366028268138906
+"1166","ROW",2050,"1p5 delay","hydrogen",1.34082881882943
+"1167","ROW",2050,"1p5 delay","refined liquids",0.088036381573541
+"1168","ROW",2050,"1p5 delay","refined liquids with CCS",0.129358113098116
+"1169","South Korea",2015,"Ref","biomass",0
+"1170","South Korea",2015,"Ref","coal",0.8536073
+"1171","South Korea",2015,"Ref","electricity",0.1954459
+"1172","South Korea",2015,"Ref","gas",0.0639627
+"1173","South Korea",2015,"Ref","hydrogen",0
+"1174","South Korea",2015,"Ref","refined liquids",0.00418857
+"1175","South Korea",2015,"1p5","biomass",0
+"1176","South Korea",2015,"1p5","coal",0.8536073
+"1177","South Korea",2015,"1p5","coal with CCS",0
+"1178","South Korea",2015,"1p5","electricity",0.1954459
+"1179","South Korea",2015,"1p5","gas",0.0639627
+"1180","South Korea",2015,"1p5","gas with CCS",0
+"1181","South Korea",2015,"1p5","hydrogen",0
+"1182","South Korea",2015,"1p5","refined liquids",0.00418857
+"1183","South Korea",2015,"1p5","refined liquids with CCS",0
+"1184","South Korea",2015,"1p5 delay","biomass",0
+"1185","South Korea",2015,"1p5 delay","coal",0.8536073
+"1186","South Korea",2015,"1p5 delay","coal with CCS",0
+"1187","South Korea",2015,"1p5 delay","electricity",0.1954459
+"1188","South Korea",2015,"1p5 delay","gas",0.0639627
+"1189","South Korea",2015,"1p5 delay","gas with CCS",0
+"1190","South Korea",2015,"1p5 delay","hydrogen",0
+"1191","South Korea",2015,"1p5 delay","refined liquids",0.00418857
+"1192","South Korea",2015,"1p5 delay","refined liquids with CCS",0
+"1193","South Korea",2020,"Ref","biomass",0.000126805
+"1194","South Korea",2020,"Ref","coal",0.883653015
+"1195","South Korea",2020,"Ref","electricity",0.20331003315
+"1196","South Korea",2020,"Ref","gas",0.0666903642992
+"1197","South Korea",2020,"Ref","hydrogen",0.000032435
+"1198","South Korea",2020,"Ref","refined liquids",0.0043700614992
+"1199","South Korea",2020,"1p5","biomass",0.000112259
+"1200","South Korea",2020,"1p5","coal",0.8634945
+"1201","South Korea",2020,"1p5","coal with CCS",0
+"1202","South Korea",2020,"1p5","electricity",0.20209026793
+"1203","South Korea",2020,"1p5","gas",0.0670534974087
+"1204","South Korea",2020,"1p5","gas with CCS",0
+"1205","South Korea",2020,"1p5","hydrogen",0
+"1206","South Korea",2020,"1p5","refined liquids",0.0043976704087
+"1207","South Korea",2020,"1p5","refined liquids with CCS",0
+"1208","South Korea",2020,"1p5 delay","biomass",0.000112259
+"1209","South Korea",2020,"1p5 delay","coal",0.8634945
+"1210","South Korea",2020,"1p5 delay","coal with CCS",0
+"1211","South Korea",2020,"1p5 delay","electricity",0.20209026793
+"1212","South Korea",2020,"1p5 delay","gas",0.0670534974087
+"1213","South Korea",2020,"1p5 delay","gas with CCS",0
+"1214","South Korea",2020,"1p5 delay","hydrogen",0
+"1215","South Korea",2020,"1p5 delay","refined liquids",0.0043976704087
+"1216","South Korea",2020,"1p5 delay","refined liquids with CCS",0
+"1217","South Korea",2025,"Ref","biomass",0.001310026
+"1218","South Korea",2025,"Ref","coal",0.877927538
+"1219","South Korea",2025,"Ref","electricity",0.2013984931
+"1220","South Korea",2025,"Ref","gas",0.0617338894188
+"1221","South Korea",2025,"Ref","hydrogen",0.0038649633
+"1222","South Korea",2025,"Ref","refined liquids",0.0041246046188
+"1223","South Korea",2025,"1p5","biomass",0.0028552633
+"1224","South Korea",2025,"1p5","coal",0.652934391
+"1225","South Korea",2025,"1p5","coal with CCS",0.001850357
+"1226","South Korea",2025,"1p5","electricity",0.19303515494
+"1227","South Korea",2025,"1p5","gas",0.060944004523
+"1228","South Korea",2025,"1p5","gas with CCS",0.00153800526
+"1229","South Korea",2025,"1p5","hydrogen",0.013525956
+"1230","South Korea",2025,"1p5","refined liquids",0.004234680103
+"1231","South Korea",2025,"1p5","refined liquids with CCS",0.0000814917853
+"1232","South Korea",2025,"1p5 delay","biomass",0.0008525245
+"1233","South Korea",2025,"1p5 delay","coal",0.798915451
+"1234","South Korea",2025,"1p5 delay","coal with CCS",0
+"1235","South Korea",2025,"1p5 delay","electricity",0.19594299983
+"1236","South Korea",2025,"1p5 delay","gas",0.0562134454578
+"1237","South Korea",2025,"1p5 delay","gas with CCS",0
+"1238","South Korea",2025,"1p5 delay","hydrogen",0.012229999
+"1239","South Korea",2025,"1p5 delay","refined liquids",0.0038861478178
+"1240","South Korea",2025,"1p5 delay","refined liquids with CCS",0
+"1241","South Korea",2030,"Ref","biomass",0.0037722696
+"1242","South Korea",2030,"Ref","coal",0.8636992102
+"1243","South Korea",2030,"Ref","electricity",0.19723308068
+"1244","South Korea",2030,"Ref","gas",0.0537046829941
+"1245","South Korea",2030,"Ref","hydrogen",0.0077586451
+"1246","South Korea",2030,"Ref","refined liquids",0.0037312638241
+"1247","South Korea",2030,"1p5","biomass",0.0067515948
+"1248","South Korea",2030,"1p5","coal",0.397049146
+"1249","South Korea",2030,"1p5","coal with CCS",0.014888985
+"1250","South Korea",2030,"1p5","electricity",0.21133524496
+"1251","South Korea",2030,"1p5","gas",0.0551086417329
+"1252","South Korea",2030,"1p5","gas with CCS",0.005958401341
+"1253","South Korea",2030,"1p5","hydrogen",0.040129749
+"1254","South Korea",2030,"1p5","refined liquids",0.0044177901129
+"1255","South Korea",2030,"1p5","refined liquids with CCS",0.0003161948493
+"1256","South Korea",2030,"1p5 delay","biomass",0.0020035655
+"1257","South Korea",2030,"1p5 delay","coal",0.689622782
+"1258","South Korea",2030,"1p5 delay","coal with CCS",0
+"1259","South Korea",2030,"1p5 delay","electricity",0.19040556233
+"1260","South Korea",2030,"1p5 delay","gas",0.0419737591706
+"1261","South Korea",2030,"1p5 delay","gas with CCS",0
+"1262","South Korea",2030,"1p5 delay","hydrogen",0.029052053
+"1263","South Korea",2030,"1p5 delay","refined liquids",0.0032856794806
+"1264","South Korea",2030,"1p5 delay","refined liquids with CCS",0
+"1265","South Korea",2035,"Ref","biomass",0.0064788986
+"1266","South Korea",2035,"Ref","coal",0.8398488507
+"1267","South Korea",2035,"Ref","electricity",0.190052308763
+"1268","South Korea",2035,"Ref","gas",0.0450125261054
+"1269","South Korea",2035,"Ref","hydrogen",0.01058068631
+"1270","South Korea",2035,"Ref","refined liquids",0.0032883740954
+"1271","South Korea",2035,"1p5","biomass",0.0072708338
+"1272","South Korea",2035,"1p5","coal",0.174018402
+"1273","South Korea",2035,"1p5","coal with CCS",0.047026475
+"1274","South Korea",2035,"1p5","electricity",0.219766945564
+"1275","South Korea",2035,"1p5","gas",0.0425286122633
+"1276","South Korea",2035,"1p5","gas with CCS",0.010148382901
+"1277","South Korea",2035,"1p5","hydrogen",0.0613274345
+"1278","South Korea",2035,"1p5","refined liquids",0.0041264207233
+"1279","South Korea",2035,"1p5","refined liquids with CCS",0.0005399111064
+"1280","South Korea",2035,"1p5 delay","biomass",0.0052985371
+"1281","South Korea",2035,"1p5 delay","coal",0.416338788
+"1282","South Korea",2035,"1p5 delay","coal with CCS",0.01206793
+"1283","South Korea",2035,"1p5 delay","electricity",0.186205041907
+"1284","South Korea",2035,"1p5 delay","gas",0.0331538847672
+"1285","South Korea",2035,"1p5 delay","gas with CCS",0.00349045793
+"1286","South Korea",2035,"1p5 delay","hydrogen",0.047255067
+"1287","South Korea",2035,"1p5 delay","refined liquids",0.0031112346672
+"1288","South Korea",2035,"1p5 delay","refined liquids with CCS",0.000185439406
+"1289","South Korea",2040,"Ref","biomass",0.007751474
+"1290","South Korea",2040,"Ref","coal",0.801870584
+"1291","South Korea",2040,"Ref","electricity",0.180223816
+"1292","South Korea",2040,"Ref","gas",0.040109942647
+"1293","South Korea",2040,"Ref","hydrogen",0.0104139547
+"1294","South Korea",2040,"Ref","refined liquids",0.003004500877
+"1295","South Korea",2040,"1p5","biomass",0.004077745
+"1296","South Korea",2040,"1p5","coal",0.0538942223
+"1297","South Korea",2040,"1p5","coal with CCS",0.071801084
+"1298","South Korea",2040,"1p5","electricity",0.21365184637
+"1299","South Korea",2040,"1p5","gas",0.0285508265465
+"1300","South Korea",2040,"1p5","gas with CCS",0.0126445306562
+"1301","South Korea",2040,"1p5","hydrogen",0.0668473314
+"1302","South Korea",2040,"1p5","refined liquids",0.0035172522931
+"1303","South Korea",2040,"1p5","refined liquids with CCS",0.0006735446417
+"1304","South Korea",2040,"1p5 delay","biomass",0.004698024
+"1305","South Korea",2040,"1p5 delay","coal",0.230582989
+"1306","South Korea",2040,"1p5 delay","coal with CCS",0.03107925
+"1307","South Korea",2040,"1p5 delay","electricity",0.18785569774
+"1308","South Korea",2040,"1p5 delay","gas",0.0295183322633
+"1309","South Korea",2040,"1p5 delay","gas with CCS",0.00741508117
+"1310","South Korea",2040,"1p5 delay","hydrogen",0.0555035642
+"1311","South Korea",2040,"1p5 delay","refined liquids",0.0031366595963
+"1312","South Korea",2040,"1p5 delay","refined liquids with CCS",0.000394288268
+"1313","South Korea",2045,"Ref","biomass",0.008401708
+"1314","South Korea",2045,"Ref","coal",0.751309581
+"1315","South Korea",2045,"Ref","electricity",0.1686731831
+"1316","South Korea",2045,"Ref","gas",0.035948323133
+"1317","South Korea",2045,"Ref","hydrogen",0.01195933
+"1318","South Korea",2045,"Ref","refined liquids",0.002741112933
+"1319","South Korea",2045,"1p5","biomass",0.000069426837
+"1320","South Korea",2045,"1p5","coal",0.00328542121
+"1321","South Korea",2045,"1p5","coal with CCS",0.054774214
+"1322","South Korea",2045,"1p5","electricity",0.2003415986823
+"1323","South Korea",2045,"1p5","gas",0.007701041996395
+"1324","South Korea",2045,"1p5","gas with CCS",0.013546549336
+"1325","South Korea",2045,"1p5","hydrogen",0.075621761142
+"1326","South Korea",2045,"1p5","refined liquids",0.002475888679705
+"1327","South Korea",2045,"1p5","refined liquids with CCS",0.00072019532
+"1328","South Korea",2045,"1p5 delay","biomass",0.00086617788
+"1329","South Korea",2045,"1p5 delay","coal",0.0137155205
+"1330","South Korea",2045,"1p5 delay","coal with CCS",0.032521254
+"1331","South Korea",2045,"1p5 delay","electricity",0.201069160449
+"1332","South Korea",2045,"1p5 delay","gas",0.01689285294892
+"1333","South Korea",2045,"1p5 delay","gas with CCS",0.01296724502
+"1334","South Korea",2045,"1p5 delay","hydrogen",0.07637017314
+"1335","South Korea",2045,"1p5 delay","refined liquids",0.0029080413482
+"1336","South Korea",2045,"1p5 delay","refined liquids with CCS",0.000688140853
+"1337","South Korea",2050,"Ref","biomass",0.008434145
+"1338","South Korea",2050,"Ref","coal",0.695144563
+"1339","South Korea",2050,"Ref","electricity",0.1554752167
+"1340","South Korea",2050,"Ref","gas",0.032331362301
+"1341","South Korea",2050,"Ref","hydrogen",0.012561328
+"1342","South Korea",2050,"Ref","refined liquids",0.002490535241
+"1343","South Korea",2050,"1p5","biomass",0.00000005207237
+"1344","South Korea",2050,"1p5","coal",0.000020121684065
+"1345","South Korea",2050,"1p5","coal with CCS",0.023869881
+"1346","South Korea",2050,"1p5","electricity",0.179303111821855
+"1347","South Korea",2050,"1p5","gas",0.00005023461
+"1348","South Korea",2050,"1p5","gas with CCS",0.010577389158
+"1349","South Korea",2050,"1p5","hydrogen",0.07563107307777
+"1350","South Korea",2050,"1p5","refined liquids",0.001940483139
+"1351","South Korea",2050,"1p5","refined liquids with CCS",0.0005611487455
+"1352","South Korea",2050,"1p5 delay","biomass",0.00000002722399
+"1353","South Korea",2050,"1p5 delay","coal",0.000009584596306
+"1354","South Korea",2050,"1p5 delay","coal with CCS",0.0131534
+"1355","South Korea",2050,"1p5 delay","electricity",0.181102213830649
+"1356","South Korea",2050,"1p5 delay","gas",0.00002387523
+"1357","South Korea",2050,"1p5 delay","gas with CCS",0.010583086063
+"1358","South Korea",2050,"1p5 delay","hydrogen",0.07653117250449
+"1359","South Korea",2050,"1p5 delay","refined liquids",0.001975219817
+"1360","South Korea",2050,"1p5 delay","refined liquids with CCS",0.0005607744084
+"1361","US",2015,"Ref","biomass",0
+"1362","US",2015,"Ref","coal",0.5036184
+"1363","US",2015,"Ref","electricity",0.1940623
+"1364","US",2015,"Ref","gas",0.38946492
+"1365","US",2015,"Ref","hydrogen",0
+"1366","US",2015,"Ref","refined liquids",0.00824825
+"1367","US",2015,"1p5","biomass",0
+"1368","US",2015,"1p5","coal",0.5036184
+"1369","US",2015,"1p5","coal with CCS",0
+"1370","US",2015,"1p5","electricity",0.1940623
+"1371","US",2015,"1p5","gas",0.38946492
+"1372","US",2015,"1p5","gas with CCS",0
+"1373","US",2015,"1p5","hydrogen",0
+"1374","US",2015,"1p5","refined liquids",0.00824825
+"1375","US",2015,"1p5","refined liquids with CCS",0
+"1376","US",2015,"1p5 delay","biomass",0
+"1377","US",2015,"1p5 delay","coal",0.5036184
+"1378","US",2015,"1p5 delay","coal with CCS",0
+"1379","US",2015,"1p5 delay","electricity",0.1940623
+"1380","US",2015,"1p5 delay","gas",0.38946492
+"1381","US",2015,"1p5 delay","gas with CCS",0
+"1382","US",2015,"1p5 delay","hydrogen",0
+"1383","US",2015,"1p5 delay","refined liquids",0.00824825
+"1384","US",2015,"1p5 delay","refined liquids with CCS",0
+"1385","US",2020,"Ref","biomass",0.0000482264
+"1386","US",2020,"Ref","coal",0.5772827148
+"1387","US",2020,"Ref","electricity",0.21836267746
+"1388","US",2020,"Ref","gas",0.3904057928069
+"1389","US",2020,"Ref","hydrogen",0.004352466
+"1390","US",2020,"Ref","refined liquids",0.0087411753069
+"1391","US",2020,"1p5","biomass",0.0000426251
+"1392","US",2020,"1p5","coal",0.56031229
+"1393","US",2020,"1p5","coal with CCS",0
+"1394","US",2020,"1p5","electricity",0.22012269273
+"1395","US",2020,"1p5","gas",0.4103283234055
+"1396","US",2020,"1p5","gas with CCS",0
+"1397","US",2020,"1p5","hydrogen",0
+"1398","US",2020,"1p5","refined liquids",0.0090489243055
+"1399","US",2020,"1p5","refined liquids with CCS",0
+"1400","US",2020,"1p5 delay","biomass",0.0000426251
+"1401","US",2020,"1p5 delay","coal",0.56031229
+"1402","US",2020,"1p5 delay","coal with CCS",0
+"1403","US",2020,"1p5 delay","electricity",0.22012269273
+"1404","US",2020,"1p5 delay","gas",0.4103283234055
+"1405","US",2020,"1p5 delay","gas with CCS",0
+"1406","US",2020,"1p5 delay","hydrogen",0
+"1407","US",2020,"1p5 delay","refined liquids",0.0090489243055
+"1408","US",2020,"1p5 delay","refined liquids with CCS",0
+"1409","US",2025,"Ref","biomass",0.0004173958
+"1410","US",2025,"Ref","coal",0.6142655151
+"1411","US",2025,"Ref","electricity",0.22743270039
+"1412","US",2025,"Ref","gas",0.3625005671639
+"1413","US",2025,"Ref","hydrogen",0.0073072268
+"1414","US",2025,"Ref","refined liquids",0.0086077483639
+"1415","US",2025,"1p5","biomass",0.0006959897
+"1416","US",2025,"1p5","coal",0.40785494
+"1417","US",2025,"1p5","coal with CCS",0.0117747
+"1418","US",2025,"1p5","electricity",0.21693865472
+"1419","US",2025,"1p5","gas",0.2300112359033
+"1420","US",2025,"1p5","gas with CCS",0.0175005708
+"1421","US",2025,"1p5","hydrogen",0.0205791134
+"1422","US",2025,"1p5","refined liquids",0.0072007819033
+"1423","US",2025,"1p5","refined liquids with CCS",0.00022254206
+"1424","US",2025,"1p5 delay","biomass",0.0002241791
+"1425","US",2025,"1p5 delay","coal",0.515430068
+"1426","US",2025,"1p5 delay","coal with CCS",0
+"1427","US",2025,"1p5 delay","electricity",0.21703568101
+"1428","US",2025,"1p5 delay","gas",0.3395496574193
+"1429","US",2025,"1p5 delay","gas with CCS",0
+"1430","US",2025,"1p5 delay","hydrogen",0.0118136352
+"1431","US",2025,"1p5 delay","refined liquids",0.0082527351193
+"1432","US",2025,"1p5 delay","refined liquids with CCS",0
+"1433","US",2030,"Ref","biomass",0.0011617888
+"1434","US",2030,"Ref","coal",0.6340118218
+"1435","US",2030,"Ref","electricity",0.234262865699
+"1436","US",2030,"Ref","gas",0.3448231245691
+"1437","US",2030,"Ref","hydrogen",0.01031987575
+"1438","US",2030,"Ref","refined liquids",0.0085545045391
+"1439","US",2030,"1p5","biomass",0.0013411381
+"1440","US",2030,"1p5","coal",0.216698172
+"1441","US",2030,"1p5","coal with CCS",0.073960053
+"1442","US",2030,"1p5","electricity",0.228094432163
+"1443","US",2030,"1p5","gas",0.0964782202731
+"1444","US",2030,"1p5","gas with CCS",0.0445457505
+"1445","US",2030,"1p5","hydrogen",0.0569746949
+"1446","US",2030,"1p5","refined liquids",0.0060894637031
+"1447","US",2030,"1p5","refined liquids with CCS",0.000570055206
+"1448","US",2030,"1p5 delay","biomass",0.0005096564
+"1449","US",2030,"1p5 delay","coal",0.436385785
+"1450","US",2030,"1p5 delay","coal with CCS",0
+"1451","US",2030,"1p5 delay","electricity",0.222314719795
+"1452","US",2030,"1p5 delay","gas",0.262614104449
+"1453","US",2030,"1p5 delay","gas with CCS",0
+"1454","US",2030,"1p5 delay","hydrogen",0.0327194556
+"1455","US",2030,"1p5 delay","refined liquids",0.007631362209
+"1456","US",2030,"1p5 delay","refined liquids with CCS",0
+"1457","US",2035,"Ref","biomass",0.00206616123
+"1458","US",2035,"Ref","coal",0.6444784709
+"1459","US",2035,"Ref","electricity",0.239523954602
+"1460","US",2035,"Ref","gas",0.3346910490373
+"1461","US",2035,"Ref","hydrogen",0.01231674852
+"1462","US",2035,"Ref","refined liquids",0.0085616040873
+"1463","US",2035,"1p5","biomass",0.00114289273
+"1464","US",2035,"1p5","coal",0.0623660481
+"1465","US",2035,"1p5","coal with CCS",0.141019854
+"1466","US",2035,"1p5","electricity",0.231078260289
+"1467","US",2035,"1p5","gas",0.02570122233637
+"1468","US",2035,"1p5","gas with CCS",0.06897811254
+"1469","US",2035,"1p5","hydrogen",0.0747280238
+"1470","US",2035,"1p5","refined liquids",0.00544023915537
+"1471","US",2035,"1p5","refined liquids with CCS",0.000884887366
+"1472","US",2035,"1p5 delay","biomass",0.00101654426
+"1473","US",2035,"1p5 delay","coal",0.236843882
+"1474","US",2035,"1p5 delay","coal with CCS",0.06359073
+"1475","US",2035,"1p5 delay","electricity",0.221144618504
+"1476","US",2035,"1p5 delay","gas",0.10196580080204
+"1477","US",2035,"1p5 delay","gas with CCS",0.0327348219
+"1478","US",2035,"1p5 delay","hydrogen",0.0551694338
+"1479","US",2035,"1p5 delay","refined liquids",0.00598556499204
+"1480","US",2035,"1p5 delay","refined liquids with CCS",0.00041966766
+"1481","US",2040,"Ref","biomass",0.0026962311
+"1482","US",2040,"Ref","coal",0.649218755
+"1483","US",2040,"Ref","electricity",0.24312743753
+"1484","US",2040,"Ref","gas",0.3344383088795
+"1485","US",2040,"Ref","hydrogen",0.0128354507
+"1486","US",2040,"Ref","refined liquids",0.0086458199795
+"1487","US",2040,"1p5","biomass",0.00025321414
+"1488","US",2040,"1p5","coal",0.00377590879
+"1489","US",2040,"1p5","coal with CCS",0.136599644
+"1490","US",2040,"1p5","electricity",0.228496884218
+"1491","US",2040,"1p5","gas",0.002458646611
+"1492","US",2040,"1p5","gas with CCS",0.07528633406
+"1493","US",2040,"1p5","hydrogen",0.07977221959
+"1494","US",2040,"1p5","refined liquids",0.00520473637461
+"1495","US",2040,"1p5","refined liquids with CCS",0.000964395983
+"1496","US",2040,"1p5 delay","biomass",0.0007643314
+"1497","US",2040,"1p5 delay","coal",0.1058609378
+"1498","US",2040,"1p5 delay","coal with CCS",0.10136889
+"1499","US",2040,"1p5 delay","electricity",0.22254098073
+"1500","US",2040,"1p5 delay","gas",0.0282529212815
+"1501","US",2040,"1p5 delay","gas with CCS",0.0556808074
+"1502","US",2040,"1p5 delay","hydrogen",0.06313364604
+"1503","US",2040,"1p5 delay","refined liquids",0.0053300817855
+"1504","US",2040,"1p5 delay","refined liquids with CCS",0.0007132829
+"1505","US",2045,"Ref","biomass",0.003201077
+"1506","US",2045,"Ref","coal",0.649352515
+"1507","US",2045,"Ref","electricity",0.24533324727
+"1508","US",2045,"Ref","gas",0.3287785992362
+"1509","US",2045,"Ref","hydrogen",0.0150134555
+"1510","US",2045,"Ref","refined liquids",0.0086372069162
+"1511","US",2045,"1p5","biomass",0.0000009646669
+"1512","US",2045,"1p5","coal",0.0000129694215
+"1513","US",2045,"1p5","coal with CCS",0.083739793
+"1514","US",2045,"1p5","electricity",0.2226014881897
+"1515","US",2045,"1p5","gas",0.000062601902759
+"1516","US",2045,"1p5","gas with CCS",0.04283216605
+"1517","US",2045,"1p5","hydrogen",0.0823471519384
+"1518","US",2045,"1p5","refined liquids",0.005192387772388
+"1519","US",2045,"1p5","refined liquids with CCS",0.000549160991
+"1520","US",2045,"1p5 delay","biomass",0.000017087248
+"1521","US",2045,"1p5 delay","coal",0.00047986237
+"1522","US",2045,"1p5 delay","coal with CCS",0.078746872
+"1523","US",2045,"1p5 delay","electricity",0.2243870250845
+"1524","US",2045,"1p5 delay","gas",0.000426265087828
+"1525","US",2045,"1p5 delay","gas with CCS",0.06186762155
+"1526","US",2045,"1p5 delay","hydrogen",0.076297569194
+"1527","US",2045,"1p5 delay","refined liquids",0.005240852337222
+"1528","US",2045,"1p5 delay","refined liquids with CCS",0.000789765368
+"1529","US",2050,"Ref","biomass",0.003558659
+"1530","US",2050,"Ref","coal",0.650495454
+"1531","US",2050,"Ref","electricity",0.24585269189
+"1532","US",2050,"Ref","gas",0.313441144284
+"1533","US",2050,"Ref","hydrogen",0.0169665025
+"1534","US",2050,"Ref","refined liquids",0.008482942634
+"1535","US",2050,"1p5","biomass",0.000000001869262
+"1536","US",2050,"1p5","coal",0.000000068610537
+"1537","US",2050,"1p5","coal with CCS",0.0244729882
+"1538","US",2050,"1p5","electricity",0.213851366075795
+"1539","US",2050,"1p5","gas",0.00000067154106
+"1540","US",2050,"1p5","gas with CCS",0.006767463081
+"1541","US",2050,"1p5","hydrogen",0.089018082097621
+"1542","US",2050,"1p5","refined liquids",0.00512150944605
+"1543","US",2050,"1p5","refined liquids with CCS",0.00008768706
+"1544","US",2050,"1p5 delay","biomass",0.000000001112851
+"1545","US",2050,"1p5 delay","coal",0.000000026624291
+"1546","US",2050,"1p5 delay","coal with CCS",0.0170736067
+"1547","US",2050,"1p5 delay","electricity",0.214480075813992
+"1548","US",2050,"1p5 delay","gas",0.000000206585167
+"1549","US",2050,"1p5 delay","gas with CCS",0.003924164143
+"1550","US",2050,"1p5 delay","hydrogen",0.083540531071484
+"1551","US",2050,"1p5 delay","refined liquids",0.00518741355868
+"1552","US",2050,"1p5 delay","refined liquids with CCS",0.000051081972

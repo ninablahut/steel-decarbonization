@@ -1,0 +1,337 @@
+"","region","scenario","sector","year","total_emissions"
+"1","China","Ref","electricity",1990,616.43553480548
+"2","China","Ref","electricity",2005,2438.62335575773
+"3","China","Ref","electricity",2010,3499.92215343861
+"4","China","Ref","electricity",2015,4267.01313496034
+"5","China","Ref","electricity",2020,4920.04472299913
+"6","China","Ref","electricity",2025,5446.87807149114
+"7","China","Ref","electricity",2030,5719.69572020824
+"8","China","Ref","electricity",2035,5744.07463052661
+"9","China","Ref","electricity",2040,5600.59149137246
+"10","China","Ref","electricity",2045,5405.9040306764
+"11","China","Ref","electricity",2050,5116.10940738743
+"12","China","Ref","electricity",2065,0
+"13","China","Ref","electricity",2080,0
+"14","China","Ref","electricity",2095,0
+"15","China","1p5","electricity",1990,616.43553480548
+"16","China","1p5","electricity",2005,2438.62335575773
+"17","China","1p5","electricity",2010,3499.92215343861
+"18","China","1p5","electricity",2015,4267.01313496034
+"19","China","1p5","electricity",2020,4930.74000771304
+"20","China","1p5","electricity",2025,3598.00106520935
+"21","China","1p5","electricity",2030,1673.9439143176
+"22","China","1p5","electricity",2035,413.089990465767
+"23","China","1p5","electricity",2040,64.3613521100301
+"24","China","1p5","electricity",2045,-102.431869686987
+"25","China","1p5","electricity",2050,-36.678544814341
+"26","China","1p5","electricity",2065,0
+"27","China","1p5","electricity",2080,0
+"28","China","1p5","electricity",2095,0
+"29","China","1p5 delay","electricity",1990,616.43553480548
+"30","China","1p5 delay","electricity",2005,2438.62335575773
+"31","China","1p5 delay","electricity",2010,3499.92215343861
+"32","China","1p5 delay","electricity",2015,4267.01313496034
+"33","China","1p5 delay","electricity",2020,4930.74000794919
+"34","China","1p5 delay","electricity",2025,5468.88423339738
+"35","China","1p5 delay","electricity",2030,5771.30334069525
+"36","China","1p5 delay","electricity",2035,3704.65907361672
+"37","China","1p5 delay","electricity",2040,934.50637094325
+"38","China","1p5 delay","electricity",2045,-29.1881722562349
+"39","China","1p5 delay","electricity",2050,-23.4342124988709
+"40","China","1p5 delay","electricity",2065,0
+"41","China","1p5 delay","electricity",2080,0
+"42","China","1p5 delay","electricity",2095,0
+"43","EU-27","Ref","electricity",1990,1335.65132787761
+"44","EU-27","Ref","electricity",2005,1295.17851787476
+"45","EU-27","Ref","electricity",2010,1163.37488724118
+"46","EU-27","Ref","electricity",2015,1001.82010153531
+"47","EU-27","Ref","electricity",2020,1033.24887086295
+"48","EU-27","Ref","electricity",2025,1155.73411478482
+"49","EU-27","Ref","electricity",2030,1225.11571291529
+"50","EU-27","Ref","electricity",2035,1277.53545543636
+"51","EU-27","Ref","electricity",2040,1308.99267374794
+"52","EU-27","Ref","electricity",2045,1388.77481930008
+"53","EU-27","Ref","electricity",2050,1387.33429741026
+"54","EU-27","Ref","electricity",2065,0
+"55","EU-27","Ref","electricity",2080,0
+"56","EU-27","Ref","electricity",2095,0
+"57","EU-27","1p5","electricity",1990,1335.65132787761
+"58","EU-27","1p5","electricity",2005,1295.17851787476
+"59","EU-27","1p5","electricity",2010,1163.37488724118
+"60","EU-27","1p5","electricity",2015,1001.82010153531
+"61","EU-27","1p5","electricity",2020,1032.98937619291
+"62","EU-27","1p5","electricity",2025,758.427238234446
+"63","EU-27","1p5","electricity",2030,355.417857794126
+"64","EU-27","1p5","electricity",2035,81.1547223507742
+"65","EU-27","1p5","electricity",2040,-57.2459531600655
+"66","EU-27","1p5","electricity",2045,-72.3088311759847
+"67","EU-27","1p5","electricity",2050,7.30857110791236
+"68","EU-27","1p5","electricity",2065,0
+"69","EU-27","1p5","electricity",2080,0
+"70","EU-27","1p5","electricity",2095,0
+"71","EU-27","1p5 delay","electricity",1990,1335.65132787761
+"72","EU-27","1p5 delay","electricity",2005,1295.17851787476
+"73","EU-27","1p5 delay","electricity",2010,1163.37488724118
+"74","EU-27","1p5 delay","electricity",2015,1001.82010153531
+"75","EU-27","1p5 delay","electricity",2020,1032.98938503968
+"76","EU-27","1p5 delay","electricity",2025,1160.25131821846
+"77","EU-27","1p5 delay","electricity",2030,1233.74586644244
+"78","EU-27","1p5 delay","electricity",2035,790.428847085624
+"79","EU-27","1p5 delay","electricity",2040,203.594545112962
+"80","EU-27","1p5 delay","electricity",2045,-74.5209378351582
+"81","EU-27","1p5 delay","electricity",2050,4.93773154416367
+"82","EU-27","1p5 delay","electricity",2065,0
+"83","EU-27","1p5 delay","electricity",2080,0
+"84","EU-27","1p5 delay","electricity",2095,0
+"85","Global","Ref","electricity",1990,6632.75665395459
+"86","Global","Ref","electricity",2005,10175.7171218971
+"87","Global","Ref","electricity",2010,11696.260696815
+"88","Global","Ref","electricity",2015,12649.8288809729
+"89","Global","Ref","electricity",2020,13460.868357516
+"90","Global","Ref","electricity",2025,15178.9995430257
+"91","Global","Ref","electricity",2030,16572.6690430267
+"92","Global","Ref","electricity",2035,17626.7631389367
+"93","Global","Ref","electricity",2040,18371.3332621636
+"94","Global","Ref","electricity",2045,19068.1372895862
+"95","Global","Ref","electricity",2050,19440.3608408141
+"96","Global","Ref","electricity",2065,0
+"97","Global","Ref","electricity",2080,0
+"98","Global","Ref","electricity",2095,0
+"99","Global","1p5","electricity",1990,6632.75665395459
+"100","Global","1p5","electricity",2005,10175.7171900767
+"101","Global","1p5","electricity",2010,11696.2609747595
+"102","Global","1p5","electricity",2015,12649.829316923
+"103","Global","1p5","electricity",2020,13471.0430978977
+"104","Global","1p5","electricity",2025,9833.25952205932
+"105","Global","1p5","electricity",2030,5382.25382217737
+"106","Global","1p5","electricity",2035,1985.30946354934
+"107","Global","1p5","electricity",2040,170.660605358822
+"108","Global","1p5","electricity",2045,-445.300072423098
+"109","Global","1p5","electricity",2050,-222.036715301185
+"110","Global","1p5","electricity",2065,0
+"111","Global","1p5","electricity",2080,0
+"112","Global","1p5","electricity",2095,0
+"113","Global","1p5 delay","electricity",1990,6632.75665395459
+"114","Global","1p5 delay","electricity",2005,10175.717189861
+"115","Global","1p5 delay","electricity",2010,11696.2609672493
+"116","Global","1p5 delay","electricity",2015,12649.8293111208
+"117","Global","1p5 delay","electricity",2020,13471.0525435723
+"118","Global","1p5 delay","electricity",2025,15225.6572054681
+"119","Global","1p5 delay","electricity",2030,16671.4413334195
+"120","Global","1p5 delay","electricity",2035,11236.6880650381
+"121","Global","1p5 delay","electricity",2040,4079.31268399169
+"122","Global","1p5 delay","electricity",2045,-138.510111678842
+"123","Global","1p5 delay","electricity",2050,-216.086765222419
+"124","Global","1p5 delay","electricity",2065,0
+"125","Global","1p5 delay","electricity",2080,0
+"126","Global","1p5 delay","electricity",2095,0
+"127","India","Ref","electricity",1990,225.283784733333
+"128","India","Ref","electricity",2005,586.856495738525
+"129","India","Ref","electricity",2010,823.167069270841
+"130","India","Ref","electricity",2015,1112.79098797436
+"131","India","Ref","electricity",2020,1259.72615598783
+"132","India","Ref","electricity",2025,1725.968221053
+"133","India","Ref","electricity",2030,2126.58654567358
+"134","India","Ref","electricity",2035,2523.33621197318
+"135","India","Ref","electricity",2040,2911.50839922292
+"136","India","Ref","electricity",2045,3277.59895145234
+"137","India","Ref","electricity",2050,3599.40591681
+"138","India","Ref","electricity",2065,0
+"139","India","Ref","electricity",2080,0
+"140","India","Ref","electricity",2095,0
+"141","India","1p5","electricity",1990,225.283784733333
+"142","India","1p5","electricity",2005,586.856495738525
+"143","India","1p5","electricity",2010,823.167069270841
+"144","India","1p5","electricity",2015,1112.79098797436
+"145","India","1p5","electricity",2020,1260.50059552154
+"146","India","1p5","electricity",2025,1061.88958079617
+"147","India","1p5","electricity",2030,632.178197303193
+"148","India","1p5","electricity",2035,174.345208846298
+"149","India","1p5","electricity",2040,-58.4618364066108
+"150","India","1p5","electricity",2045,-157.562874127538
+"151","India","1p5","electricity",2050,-112.237190505381
+"152","India","1p5","electricity",2065,0
+"153","India","1p5","electricity",2080,0
+"154","India","1p5","electricity",2095,0
+"155","India","1p5 delay","electricity",1990,225.283784733333
+"156","India","1p5 delay","electricity",2005,586.856495738525
+"157","India","1p5 delay","electricity",2010,823.167069270841
+"158","India","1p5 delay","electricity",2015,1112.79098797436
+"159","India","1p5 delay","electricity",2020,1260.50022739235
+"160","India","1p5 delay","electricity",2025,1736.7591858982
+"161","India","1p5 delay","electricity",2030,2147.87517232601
+"162","India","1p5 delay","electricity",2035,1765.63462263417
+"163","India","1p5 delay","electricity",2040,715.731332250977
+"164","India","1p5 delay","electricity",2045,-95.8771580621919
+"165","India","1p5 delay","electricity",2050,-121.788121901489
+"166","India","1p5 delay","electricity",2065,0
+"167","India","1p5 delay","electricity",2080,0
+"168","India","1p5 delay","electricity",2095,0
+"169","Japan","Ref","electricity",1990,346.766816988396
+"170","Japan","Ref","electricity",2005,438.092478743092
+"171","Japan","Ref","electricity",2010,455.395240375198
+"172","Japan","Ref","electricity",2015,521.521777180973
+"173","Japan","Ref","electricity",2020,532.753692345582
+"174","Japan","Ref","electricity",2025,558.945633263062
+"175","Japan","Ref","electricity",2030,562.959111042085
+"176","Japan","Ref","electricity",2035,553.845631076584
+"177","Japan","Ref","electricity",2040,537.165792972528
+"178","Japan","Ref","electricity",2045,524.329286606245
+"179","Japan","Ref","electricity",2050,501.543611193307
+"180","Japan","Ref","electricity",2065,0
+"181","Japan","Ref","electricity",2080,0
+"182","Japan","Ref","electricity",2095,0
+"183","Japan","1p5","electricity",1990,346.766816988396
+"184","Japan","1p5","electricity",2005,438.092478743092
+"185","Japan","1p5","electricity",2010,455.395240375198
+"186","Japan","1p5","electricity",2015,521.521777180973
+"187","Japan","1p5","electricity",2020,532.92120493052
+"188","Japan","1p5","electricity",2025,460.674423952707
+"189","Japan","1p5","electricity",2030,316.618059318042
+"190","Japan","1p5","electricity",2035,136.86682366985
+"191","Japan","1p5","electricity",2040,24.6828250271235
+"192","Japan","1p5","electricity",2045,4.81422649676051
+"193","Japan","1p5","electricity",2050,5.02416614531925
+"194","Japan","1p5","electricity",2065,0
+"195","Japan","1p5","electricity",2080,0
+"196","Japan","1p5","electricity",2095,0
+"197","Japan","1p5 delay","electricity",1990,346.766816988396
+"198","Japan","1p5 delay","electricity",2005,438.092478743092
+"199","Japan","1p5 delay","electricity",2010,455.395240375198
+"200","Japan","1p5 delay","electricity",2015,521.521777180973
+"201","Japan","1p5 delay","electricity",2020,532.921205051834
+"202","Japan","1p5 delay","electricity",2025,557.669518614861
+"203","Japan","1p5 delay","electricity",2030,560.835299142769
+"204","Japan","1p5 delay","electricity",2035,424.150678065698
+"205","Japan","1p5 delay","electricity",2040,175.796146757261
+"206","Japan","1p5 delay","electricity",2045,7.91352952070383
+"207","Japan","1p5 delay","electricity",2050,3.04046668484771
+"208","Japan","1p5 delay","electricity",2065,0
+"209","Japan","1p5 delay","electricity",2080,0
+"210","Japan","1p5 delay","electricity",2095,0
+"211","ROW","Ref","electricity",1990,2207.15516831252
+"212","ROW","Ref","electricity",2005,2765.16644802846
+"213","ROW","Ref","electricity",2010,3178.08999167611
+"214","ROW","Ref","electricity",2015,3558.0326934538
+"215","ROW","Ref","electricity",2020,3522.48314521197
+"216","ROW","Ref","electricity",2025,3942.80140461472
+"217","ROW","Ref","electricity",2030,4443.97266400036
+"218","ROW","Ref","electricity",2035,4913.76420176188
+"219","ROW","Ref","electricity",2040,5342.35465890662
+"220","ROW","Ref","electricity",2045,5738.50836906868
+"221","ROW","Ref","electricity",2050,6094.21351299865
+"222","ROW","Ref","electricity",2065,0
+"223","ROW","Ref","electricity",2080,0
+"224","ROW","Ref","electricity",2095,0
+"225","ROW","1p5","electricity",1990,2207.15516831252
+"226","ROW","1p5","electricity",2005,2765.16651601122
+"227","ROW","1p5","electricity",2010,3178.09026299197
+"228","ROW","1p5","electricity",2015,3558.03312464678
+"229","ROW","1p5","electricity",2020,3521.89222804276
+"230","ROW","1p5","electricity",2025,2339.17823023588
+"231","ROW","1p5","electricity",2030,1458.06482037143
+"232","ROW","1p5","electricity",2035,726.61447160991
+"233","ROW","1p5","electricity",2040,141.609081286519
+"234","ROW","1p5","electricity",2045,-68.190238662901
+"235","ROW","1p5","electricity",2050,-64.8806279478255
+"236","ROW","1p5","electricity",2065,0
+"237","ROW","1p5","electricity",2080,0
+"238","ROW","1p5","electricity",2095,0
+"239","ROW","1p5 delay","electricity",1990,2207.15516831252
+"240","ROW","1p5 delay","electricity",2005,2765.16651599874
+"241","ROW","1p5 delay","electricity",2010,3178.09026211044
+"242","ROW","1p5 delay","electricity",2015,3558.03312360173
+"243","ROW","1p5 delay","electricity",2020,3521.90205507894
+"244","ROW","1p5 delay","electricity",2025,3949.72200364547
+"245","ROW","1p5 delay","electricity",2030,4455.62832268294
+"246","ROW","1p5 delay","electricity",2035,2863.1513734996
+"247","ROW","1p5 delay","electricity",2040,1344.10417102443
+"248","ROW","1p5 delay","electricity",2045,46.2176861079795
+"249","ROW","1p5 delay","electricity",2050,-68.5664602628563
+"250","ROW","1p5 delay","electricity",2065,0
+"251","ROW","1p5 delay","electricity",2080,0
+"252","ROW","1p5 delay","electricity",2095,0
+"253","South Korea","Ref","electricity",1990,34.4245573017236
+"254","South Korea","Ref","electricity",2005,173.72255095228
+"255","South Korea","Ref","electricity",2010,246.002408052185
+"256","South Korea","Ref","electricity",2015,253.74417114349
+"257","South Korea","Ref","electricity",2020,280.95435757098
+"258","South Korea","Ref","electricity",2025,302.606210088961
+"259","South Korea","Ref","electricity",2030,319.6993020111
+"260","South Korea","Ref","electricity",2035,331.029037917593
+"261","South Korea","Ref","electricity",2040,335.292177985462
+"262","South Korea","Ref","electricity",2045,330.623833428268
+"263","South Korea","Ref","electricity",2050,319.458960504875
+"264","South Korea","Ref","electricity",2065,0
+"265","South Korea","Ref","electricity",2080,0
+"266","South Korea","Ref","electricity",2095,0
+"267","South Korea","1p5","electricity",1990,34.4245573017236
+"268","South Korea","1p5","electricity",2005,173.722551155525
+"269","South Korea","1p5","electricity",2010,246.002414680838
+"270","South Korea","1p5","electricity",2015,253.744175900656
+"271","South Korea","1p5","electricity",2020,280.421426918348
+"272","South Korea","1p5","electricity",2025,224.159145827668
+"273","South Korea","1p5","electricity",2030,143.721963516008
+"274","South Korea","1p5","electricity",2035,72.9971901246142
+"275","South Korea","1p5","electricity",2040,18.20090639913
+"276","South Korea","1p5","electricity",2045,4.84357353405374
+"277","South Korea","1p5","electricity",2050,3.43897492272103
+"278","South Korea","1p5","electricity",2065,0
+"279","South Korea","1p5","electricity",2080,0
+"280","South Korea","1p5","electricity",2095,0
+"281","South Korea","1p5 delay","electricity",1990,34.4245573017236
+"282","South Korea","1p5 delay","electricity",2005,173.72255095228
+"283","South Korea","1p5 delay","electricity",2010,246.002408052185
+"284","South Korea","1p5 delay","electricity",2015,253.74417114349
+"285","South Korea","1p5 delay","electricity",2020,280.421400815005
+"286","South Korea","1p5 delay","electricity",2025,300.794397528475
+"287","South Korea","1p5 delay","electricity",2030,316.129112459029
+"288","South Korea","1p5 delay","electricity",2035,231.570432274685
+"289","South Korea","1p5 delay","electricity",2040,111.534866617624
+"290","South Korea","1p5 delay","electricity",2045,7.03505026986659
+"291","South Korea","1p5 delay","electricity",2050,2.38749734482091
+"292","South Korea","1p5 delay","electricity",2065,0
+"293","South Korea","1p5 delay","electricity",2080,0
+"294","South Korea","1p5 delay","electricity",2095,0
+"295","US","Ref","electricity",1990,1867.03946393554
+"296","US","Ref","electricity",2005,2478.07727480227
+"297","US","Ref","electricity",2010,2330.30894676083
+"298","US","Ref","electricity",2015,1934.90601472461
+"299","US","Ref","electricity",2020,1911.65741253751
+"300","US","Ref","electricity",2025,2046.06588773
+"301","US","Ref","electricity",2030,2174.63998717602
+"302","US","Ref","electricity",2035,2283.17797024449
+"303","US","Ref","electricity",2040,2335.42806795566
+"304","US","Ref","electricity",2045,2402.39799905418
+"305","US","Ref","electricity",2050,2422.29513450959
+"306","US","Ref","electricity",2065,0
+"307","US","Ref","electricity",2080,0
+"308","US","Ref","electricity",2095,0
+"309","US","1p5","electricity",1990,1867.03946393554
+"310","US","1p5","electricity",2005,2478.07727479584
+"311","US","1p5","electricity",2010,2330.30894676083
+"312","US","1p5","electricity",2015,1934.90601472461
+"313","US","1p5","electricity",2020,1911.57825857859
+"314","US","1p5","electricity",2025,1390.9298378031
+"315","US","1p5","electricity",2030,802.309009556963
+"316","US","1p5","electricity",2035,380.241056482126
+"317","US","1p5","electricity",2040,37.5142301026953
+"318","US","1p5","electricity",2045,-54.4640588005008
+"319","US","1p5","electricity",2050,-24.0120642095903
+"320","US","1p5","electricity",2065,0
+"321","US","1p5","electricity",2080,0
+"322","US","1p5","electricity",2095,0
+"323","US","1p5 delay","electricity",1990,1867.03946393554
+"324","US","1p5 delay","electricity",2005,2478.07727479584
+"325","US","1p5 delay","electricity",2010,2330.30894676083
+"326","US","1p5 delay","electricity",2015,1934.90601472461
+"327","US","1p5 delay","electricity",2020,1911.57826224526
+"328","US","1p5 delay","electricity",2025,2051.5765481653
+"329","US","1p5 delay","electricity",2030,2185.9242196711
+"330","US","1p5 delay","electricity",2035,1457.0930378616
+"331","US","1p5 delay","electricity",2040,594.045251285187
+"332","US","1p5 delay","electricity",2045,-0.090109423806632
+"333","US","1p5 delay","electricity",2050,-12.663666133035
+"334","US","1p5 delay","electricity",2065,0
+"335","US","1p5 delay","electricity",2080,0
+"336","US","1p5 delay","electricity",2095,0

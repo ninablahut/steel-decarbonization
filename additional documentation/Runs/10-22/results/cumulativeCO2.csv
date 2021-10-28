@@ -1,0 +1,17 @@
+"","region","year","sector","Units","sector_mapping","Ref","1p5","1p5 delay"
+"1","China",2030,"iron and steel","MTCO2","iron and steel",23.4045992904536,17.3386766687701,20.8726923599679
+"2","China",2050,"iron and steel","MTCO2","iron and steel",59.1743756644026,22.9701509462298,31.9298957911614
+"3","Europe",2030,"iron and steel","MTCO2","iron and steel",2.04575837647003,1.49902084046131,1.79681076592001
+"4","Europe",2050,"iron and steel","MTCO2","iron and steel",5.7045485460408,2.15314841544627,2.95794708126919
+"5","Global",2030,"iron and steel","MTCO2","iron and steel",41.0132151854988,28.2801122692353,36.3828415240675
+"6","Global",2050,"iron and steel","MTCO2","iron and steel",117.896959695673,40.2533958879009,59.619061231272
+"7","India",2030,"iron and steel","MTCO2","iron and steel",6.31836520471272,2.80886099857955,5.35933663571885
+"8","India",2050,"iron and steel","MTCO2","iron and steel",26.4778946187118,5.30217981868984,10.4974413401719
+"9","Japan",2030,"iron and steel","MTCO2","iron and steel",1.57346969828102,1.20882030092688,1.43379845510631
+"10","Japan",2050,"iron and steel","MTCO2","iron and steel",4.13381267969909,1.74005438195128,2.36766234087922
+"11","ROW",2030,"iron and steel","MTCO2","iron and steel",5.77259994750031,4.070655122512,5.23234061533879
+"12","ROW",2050,"iron and steel","MTCO2","iron and steel",17.2309437308047,6.2408513601912,9.15558366967574
+"13","South Korea",2030,"iron and steel","MTCO2","iron and steel",1.00355621609055,0.752571959355604,0.928080471576428
+"14","South Korea",2050,"iron and steel","MTCO2","iron and steel",2.63080090169009,1.07568272100854,1.55635164423159
+"15","US",2030,"iron and steel","MTCO2","iron and steel",0.894866451990603,0.601506378629893,0.759782220439138
+"16","US",2050,"iron and steel","MTCO2","iron and steel",2.54458355432362,0.771328244384005,1.154179363883
