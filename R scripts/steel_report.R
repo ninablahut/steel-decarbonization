@@ -444,7 +444,7 @@ ggsave(paste0(fig_dir, "/ironsteel_production_tech_all_regions", ".png"), height
 #save data to csv 
 ironsteel_production_tech_data <- filter(ironsteel_production_tech, region %in% regions_aggregated, 
                                               year %in% plot_years, scenario!="NA")
-write.csv(ironsteel_production_tech_data , paste0(results_dir, "ironsteel_production_tech_data.csv"))
+write.csv(ironsteel_production_tech_data , paste0(results_dir, "/ironsteel_production_tech_data.csv"))
 
 
 #total CO2 emissions----------------------------------------------------------------------------
@@ -728,7 +728,7 @@ ironsteel_production_tech_data <- ironsteel_production_tech_data %>%
 ironsteel_production_tech_data <- ironsteel_production_tech_data %>%
   select(-c(value,total)) 
   
-write.csv(ironsteel_production_tech_data, paste0(results_dir, "ironsteel_production_tech_share_data.csv"))
+write.csv(ironsteel_production_tech_data, paste0(results_dir, "/ironsteel_production_tech_share_data.csv"))
   
 #iron and steel CO2 emissions calcs------------------------- 
 ironsteel_CO2_data_1p5 <- filter(ironsteel_CO2_data, scenario == "1p5")

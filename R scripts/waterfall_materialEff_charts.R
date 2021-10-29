@@ -254,7 +254,7 @@ results2$`Mitigation measure` <- factor(results2$`Mitigation measure`, levels = 
 
 for (i in regions_aggregated) {
   ggplot(data=filter(results2, region == i, `Mitigation measure` != "Ref emissions"),
-         aes(x=as.numeric(year), y=reduction, fill=`Mitigation measure`)) +
+         aes(x=as.numeric(year), y=abs(reduction), fill=`Mitigation measure`)) +
     geom_area()+
     labs(title = paste(i, "CO2 reduction contributions from mitigation measures"), x="", y="MtCO2") +
     scale_fill_manual(values = reduction_colors)+
